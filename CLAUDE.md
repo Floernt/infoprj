@@ -10,14 +10,12 @@ Site documentaire **La réorganisation judiciaire en Belgique** (infoprj.be), si
 - Sources Markdown : [docs/](docs/).
 - Dépendances Python : [requirements.txt](requirements.txt), venv local dans `.venv/`.
 - **Branches** (méthode identique à infofaillite) : `main` est la branche **publiée**, déployée automatiquement par GitHub Actions ([deploy.yml](.github/workflows/deploy.yml)) sur GitHub Pages à chaque push. **On travaille en local sur `gh-pages`**, on pousse `gh-pages` sur GitHub, puis Florian publie par une pull request `gh-pages` → `main`. Ne jamais commiter ni pousser directement sur `main`. Dépôt : `Floernt/infoprj`. Domaine : [docs/CNAME](docs/CNAME).
-- L'architecture technique est reprise d'infofaillite (préfixe CSS `ifa-` conservé à dessein, pour pouvoir porter les améliorations d'un site à l'autre). Le clone de référence d'infofaillite se trouve, non suivi, dans [infofaillite/](infofaillite/) : ne pas le modifier depuis ce projet.
+- L'architecture technique est reprise d'infofaillite (préfixe CSS `ifa-` conservé à dessein, pour pouvoir porter les améliorations d'un site à l'autre). La copie de travail d'infofaillite est un projet distinct, à côté de celui-ci (`C:\Users\FlorianErnotteavroya\infofaillite`) : ne pas la modifier depuis ce projet.
 
 ## Dossiers hors publication (ignorés par Git)
 
 - `Ressources InfoPrj/` : supports de formation, présentations et textes de tiers servant de matière première. Ne jamais les commiter (droits d'auteur de tiers).
 - `sources/brouillons/` : les cinq brouillons initiaux de Florian, redistribués dans les pages du site.
-- `infofaillite/` : clone du site frère.
-- `.git-ancien-infofaillite/` : ancien dépôt Git de ce dossier (clone d'infofaillite), mis de côté lors de la création ; peut être supprimé.
 
 ## Arborescence éditoriale
 
