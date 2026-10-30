@@ -2,6 +2,15 @@
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
 
+## [2026-10-30] feat | Search Console et statistiques sans cookie
+
+- Décision : pas de Google Analytics (cookies, donc bandeau de consentement et politique de confidentialité). Retenu : Search Console (propriété « Domaine », vérification DNS TXT) et Clicky sans cookie, site 101514196.
+- `docs/robots.txt` créé (déclare `https://infoprj.be/sitemap.xml`).
+- `docs/javascripts/clicky.js` (`clicky_custom.cookies_disable = 1`), ajouté à `extra_javascript`.
+- Section « Statistiques de fréquentation » dans `docs/a-propos.md`.
+- À faire côté Florian : enregistrement TXT et validation Search Console, soumission du sitemap après publication, anonymisation des IP dans les préférences Clicky.
+- Point ouvert : Albert Sans chargée depuis Google Fonts (IP des visiteurs transmise à Google) ; auto-hébergement proposé.
+
 ## [2026-10-30] chore | nettoyage du répertoire après mise en ligne
 
 Suppression des dossiers non suivis devenus inutiles : clone `infofaillite/` (ses entrées de log locales figuraient déjà dans la copie principale d'infofaillite), ancien dépôt `.git-ancien-infofaillite/`, build `site/`, caches (`.cache/`, `.pytest_cache/`, `__pycache__/`). Conservés : `Ressources InfoPrj/`, `sources/brouillons/`. `.gitignore` et `CLAUDE.md` mis à jour.
@@ -180,6 +189,36 @@ Suppression des dossiers non suivis devenus inutiles : clone `infofaillite/` (se
 **Demande :** j'ai un 404
 
 **Action :** Le domaine est bien réglé : https://www.infoprj.be et l'ancienne adresse en `/infoprj/` redirigent toutes les deux vers https://infoprj.be. Il manque une seule chose : le vrai site n'a jamais été déployé.  Dans le workflow « Deploy Zensical site », la construction réussit. C'est l'étape de publication qui échoue, et ce workflow n'a pas été relancé depuis 11 h 17. GitHub sert donc encore la branche `gh-pages`, qui ne contient que les sources. Il n'y a pas de page d'accueil construite, d'où le 404...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-30 16:10:50 - session 32bb45d8
+
+**Demande :** le site est en ligne. nettoie le repertoire actuelle de ce qui n'est plus nécessaire.
+
+**Action :** Le répertoire est nettoyé et le commit est fait sur `gh-pages` (`8871207`), sans push.  - **Supprimé :** le clone `infofaillite/` (73 Mo), l'ancien dépôt `.git-ancien-infofaillite/`, le build `site/` et les caches. - **Conservé :** `Ressources InfoPrj/`, `sources/brouillons/` et `.venv/`. - **Mis à jour :** `.gitignore` et `CLAUDE.md` ne mentionnent plus le clone. `CLAUDE.md` renvoie désormais à ta copie d'infofaillite dans `C:\Users\FlorianErnotteavroya\infofaillite`. J'ai aussi ajouté une entr...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-30 16:24:31 - session 32bb45d8
+
+**Demande :** ok pousse
+
+**Action :** J'ai poussé `gh-pages` sur GitHub : il contient maintenant le commit de nettoyage (`8871207`). PowerShell affiche un message d'erreur, mais il est trompeur : le push a bien abouti.  Ce commit ne change que `.gitignore`, `CLAUDE.md` et `LOG.md`, pas les pages. La PR `gh-pages` → `main` n'est donc pas urgente. `LOG.md` contient de nouvelles entrées automatiques ; elles ne sont ni commitées ni poussées et partiront avec le prochain commit.
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-30 16:25:21 - session a3d9141d
+
+**Demande :** Je veux connecter et optimiser Ce site à la Google Search console et Google Analytics pour avoir une visibilité sur le trafic Aide-moi à le faire.
+
+**Action :** J'ai ajouté le fichier [docs/robots.txt](docs/robots.txt) et je l'ai commité sur `gh-pages`, sans pousser. Il pointe vers `https://infoprj.be/sitemap.xml`. La compilation locale le place bien à la racine du site, à côté du sitemap qui liste 51 pages.  ## Ce que tu fais de ton côté  **Search Console (propriété « Domaine »)** 1. Sur [search.google.com/search-console](https://search.google.com/search-console), clique sur « Ajouter une propriété », choisis « Domaine » et saisis `infoprj.be`. 2. Goog...
 
 **Outils utilises :** aucun
 
