@@ -1,0 +1,189 @@
+{#-
+  Gabarit commun d'infoprj.be.
+
+  - Bloc `tabs` vidé : les rubriques sont dans l'en-tête (partials/header.html).
+  - Bloc `hero` : bandeau de page (fil d'Ariane, rubrique, titre H1, date de
+    mise à jour). Le H1 est repris tel quel du Markdown, puis retiré du corps,
+    pour que le libellé court du menu ne remplace jamais le vrai titre.
+  - Notes d'actualité (front matter `type` + `resume`, cf.
+    scripts/build_actualites.py) : cartouche de la source en tête du corps et
+    JSON-LD `Article`.
+  - JSON-LD `BreadcrumbList` dans le HTML statique, pour les robots qui
+    n'exécutent pas JavaScript.
+  L'accueil utilise overrides/home.html, qui étend ce gabarit.
+-#}
+{% extends "base.html" %}
+
+{% set _is_note = page and page.meta and page.meta.type and page.meta.resume %}
+{% set _types = {
+  'jurisprudence': 'Jurisprudence',
+  'doctrine': 'Doctrine',
+  'legislation': 'Législation',
+  'pratique': 'Pratique',
+} %}
+{% set _source_date_label = {
+  'jurisprudence': 'Date de la décision',
+  'doctrine': 'Date de publication',
+  'legislation': 'Date du texte',
+  'pratique': 'Date de publication',
+} %}
+{% set _publics = {
+  'dirigeant': "le dirigeant de l'entreprise",
+  'creancier': 'le créancier',
+  'chiffre': 'le professionnel du chiffre',
+} %}
+{% set _mois_fr = {
+  '01': 'janvier', '02': 'février', '03': 'mars',
+  '04': 'avril',   '05': 'mai',     '06': 'juin',
+  '07': 'juillet', '08': 'août',    '09': 'septembre',
+  '10': 'octobre', '11': 'novembre','12': 'décembre',
+} %}
+{% macro format_fr(value) -%}
+  {%- set parts = (value|string)|split('-') -%}
+  {{- (parts[2]|int) }} {{ _mois_fr[parts[1]] }} {{ parts[0] -}}
+{%- endmacro %}
+
+{#- Rubrique (premier niveau du menu) et sa page d'entrée -#}
+{% set _section = (page.ancestors | last) if (page and page.ancestors) else none %}
+{% set _section_url = ((_section.children | first).url) if _section else none %}
+
+{#- Découpage du H1 en tête du contenu -#}
+{% set _content = (page.content | trim) if page and page.content else "" %}
+{% set _has_h1 = _content[:3] == "<h1" %}
+{% set _h1_parts = _content | split("</h1>") %}
+
+{% block extrahead %}
+  {#- Icônes complémentaires au favicon SVG (zensical.toml) et aperçu de partage -#}
+  <link rel="icon" href="{{ 'assets/favicon.ico' | url }}" sizes="32x32">
+  <link rel="apple-touch-icon" href="{{ 'assets/apple-touch-icon.png' | url }}">
+  {% if page and page.canonical_url %}
+    {% set _og_title = page.meta.title if (page.meta and page.meta.title) else (_h1_parts | first | striptags | replace("¶", "") if _has_h1 else config.site_name) %}
+    {% set _og_desc = (page.meta.description or page.meta.resume) if page.meta else none %}
+    <meta property="og:site_name" content="{{ config.site_name }}">
+    <meta property="og:locale" content="fr_BE">
+    <meta property="og:type" content="{{ 'article' if _is_note else 'website' }}">
+    <meta property="og:title" content="{{ _og_title | trim }}">
+    <meta property="og:description" content="{{ _og_desc or config.site_description }}">
+    <meta property="og:url" content="{{ page.canonical_url }}">
+    <meta property="og:image" content="{{ config.site_url }}assets/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="info·prj — La réorganisation judiciaire en Belgique">
+    <meta name="twitter:card" content="summary_large_image">
+  {% endif %}
+  {% if page and page.canonical_url %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "Accueil", "item": {{ config.site_url | tojson }}}
+          {%- if _section %},
+          {"@type": "ListItem", "position": 2, "name": {{ _section.title | tojson }}, "item": {{ (config.site_url ~ _section_url) | tojson }}}
+          {%- elif _is_note %},
+          {"@type": "ListItem", "position": 2, "name": "Actualités", "item": {{ (config.site_url ~ 'actualites/') | tojson }}}
+          {%- endif %}
+          {%- if not (_section and _section_url == page.url) %},
+          {"@type": "ListItem", "position": {{ 3 if (_section or _is_note) else 2 }}, "name": {{ (page.meta.title if (page.meta and page.meta.title) else page.title) | tojson }}, "item": {{ page.canonical_url | tojson }}}
+          {%- endif %}
+        ]
+      }
+    </script>
+  {% endif %}
+  {% if _is_note %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": {{ page.meta.title|tojson }},
+        "description": {{ page.meta.resume|tojson }},
+        "datePublished": {{ (page.meta.date|string)|tojson }},
+        {% if page.meta.updated %}"dateModified": {{ (page.meta.updated|string)|tojson }},{% endif %}
+        {% if page.meta.keywords %}"keywords": {{ page.meta.keywords|tojson }},{% endif %}
+        "inLanguage": "fr-BE",
+        "mainEntityOfPage": {{ page.canonical_url|tojson }},
+        "author": {"@type": "Person", "name": "Florian Ernotte"},
+        "image": {{ (config.site_url ~ 'assets/og-image.png') | tojson }},
+        "publisher": {"@type": "Organization", "name": "Info-PRJ", "url": "https://infoprj.be", "logo": {"@type": "ImageObject", "url": {{ (config.site_url ~ 'assets/icon-512.png') | tojson }}}}
+      }
+    </script>
+  {% endif %}
+{% endblock %}
+
+{% block tabs %}{% endblock %}
+
+{% block hero %}
+  <section class="ifa-pagehead">
+    <div class="md-grid ifa-pagehead__inner">
+      <nav class="ifa-crumbs" aria-label="Fil d'Ariane">
+        <a href="{{ base_url }}/">Accueil</a>
+        {% if _section %}
+          <span aria-hidden="true">/</span>
+          <a href="{{ _section_url | url }}">{{ _section.title }}</a>
+        {% elif _is_note %}
+          <span aria-hidden="true">/</span>
+          <a href="{{ 'actualites/' | url }}">Actualités</a>
+        {% endif %}
+      </nav>
+      {% if _section %}
+        <span class="ifa-kicker">{{ _section.title }}</span>
+      {% elif _is_note %}
+        <span class="ifa-kicker">{{ _types[page.meta.type] | d(page.meta.type) }}</span>
+      {% endif %}
+      {% if _has_h1 %}
+        {{ _h1_parts | first }}</h1>
+      {% else %}
+        <h1>{{ page.meta.title if (page.meta and page.meta.title) else page.title }}</h1>
+      {% endif %}
+      {#- Profil de lecteur concerné (front matter `public`) -#}
+      {% if page.meta and page.meta.public %}
+        <div class="ifa-public">
+          <span class="ifa-public__label">Cette page concerne :</span>
+          {% for p in page.meta.public %}
+            <span class="ifa-public__tag ifa-public__tag--{{ p }}">{{ _publics[p] | d(p) }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+      {% if page.meta and page.meta.updated and not _is_note %}
+        <div class="ifa-pagehead__meta">Mise à jour le {{ format_fr(page.meta.updated) }}</div>
+      {% endif %}
+    </div>
+  </section>
+{% endblock %}
+
+{% block content %}
+  {% include "partials/actions.html" %}
+  {% if _is_note %}
+    {% set t = page.meta.type %}
+    {% set s = page.meta.source %}
+    <div class="ifa-cartouche">
+      <div class="ifa-cartouche__top">
+        <span class="ifa-type ifa-type--{{ t }}">{{ _types[t] | d(t) }}</span>
+        <span>Publiée le {{ format_fr(page.meta.date) }}</span>
+      </div>
+      {% if s or page.meta.articles_cde %}
+        <dl>
+          {% if s and s.juridiction %}<dt>Juridiction</dt><dd>{{ s.juridiction }}</dd>{% endif %}
+          {% if s and s.auteur %}<dt>Auteur</dt><dd>{{ s.auteur }}</dd>{% endif %}
+          {% if s and s.publication %}<dt>Publication</dt><dd>{{ s.publication }}</dd>{% endif %}
+          {% if s and s.date %}<dt>{{ _source_date_label[t] }}</dt><dd>{{ format_fr(s.date) }}</dd>{% endif %}
+          {% if s and s.reference %}<dt>Référence</dt><dd><code>{{ s.reference }}</code></dd>{% endif %}
+          {% if s and s.lien %}<dt>Source</dt><dd><a href="{{ s.lien }}" target="_blank" rel="noopener">Consulter le texte</a></dd>{% endif %}
+          {% if page.meta.articles_cde %}<dt>Articles du CDE</dt><dd>{{ page.meta.articles_cde | join(", ") }}</dd>{% endif %}
+        </dl>
+      {% endif %}
+    </div>
+  {% endif %}
+  {% if _has_h1 %}
+    {%- for part in _h1_parts -%}
+      {%- if not loop.first -%}
+        {%- if loop.index > 2 %}</h1>{% endif -%}
+        {{ part }}
+      {%- endif -%}
+    {%- endfor -%}
+  {% else %}
+    {{ page.content }}
+  {% endif %}
+  {% include "partials/feedback.html" %}
+  {% include "partials/comments.html" %}
+{% endblock %}
