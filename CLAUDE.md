@@ -9,15 +9,13 @@ Site documentaire **La réorganisation judiciaire en Belgique** (infoprj.be), si
 - Stack : **Zensical** (statique, dérivé de MkDocs Material). Config dans [zensical.toml](zensical.toml).
 - Sources Markdown : [docs/](docs/).
 - Dépendances Python : [requirements.txt](requirements.txt), venv local dans `.venv/`.
-- **Branche de travail : `main`**, déployée automatiquement par GitHub Actions ([deploy.yml](.github/workflows/deploy.yml)) sur GitHub Pages. Dépôt : `Floernt/infoprj`. Domaine : [docs/CNAME](docs/CNAME).
-- L'architecture technique est reprise d'infofaillite (préfixe CSS `ifa-` conservé à dessein, pour pouvoir porter les améliorations d'un site à l'autre). Le clone de référence d'infofaillite se trouve, non suivi, dans [infofaillite/](infofaillite/) : ne pas le modifier depuis ce projet.
+- **Branches** (méthode identique à infofaillite) : `main` est la branche **publiée**, déployée automatiquement par GitHub Actions ([deploy.yml](.github/workflows/deploy.yml)) sur GitHub Pages à chaque push. **On travaille en local sur `gh-pages`**, on pousse `gh-pages` sur GitHub, puis Florian publie par une pull request `gh-pages` → `main`. Ne jamais commiter ni pousser directement sur `main`. Dépôt : `Floernt/infoprj`. Domaine : [docs/CNAME](docs/CNAME).
+- L'architecture technique est reprise d'infofaillite (préfixe CSS `ifa-` conservé à dessein, pour pouvoir porter les améliorations d'un site à l'autre). La copie de travail d'infofaillite est un projet distinct, à côté de celui-ci (`C:\Users\FlorianErnotteavroya\infofaillite`) : ne pas la modifier depuis ce projet.
 
 ## Dossiers hors publication (ignorés par Git)
 
 - `Ressources InfoPrj/` : supports de formation, présentations et textes de tiers servant de matière première. Ne jamais les commiter (droits d'auteur de tiers).
 - `sources/brouillons/` : les cinq brouillons initiaux de Florian, redistribués dans les pages du site.
-- `infofaillite/` : clone du site frère.
-- `.git-ancien-infofaillite/` : ancien dépôt Git de ce dossier (clone d'infofaillite), mis de côté lors de la création ; peut être supprimé.
 
 ## Arborescence éditoriale
 
@@ -31,9 +29,9 @@ Site documentaire **La réorganisation judiciaire en Belgique** (infoprj.be), si
 - Pages hors menu (pied de page) : [glossaire](docs/glossaire.md), [délais](docs/delais.md), [chiffres](docs/chiffres.md), [ressources](docs/ressources.md), [à propos](docs/a-propos.md), [contact](docs/contact.md).
 - [docs/actualites/](docs/actualites/) — notes d'actualité, une par fichier `AAAA-MM-JJ-slug.md`. `README.md` et `themes.md` générés entre marqueurs.
 - [data/themes.yml](data/themes.yml) — taxonomie des thèmes et rattachement aux pages du guide (non publiée).
-- [docs/stylesheets/extra.css](docs/stylesheets/extra.css) — identité visuelle : palette « Fresh Greens » Hunter Green `#386641` (structure), Blushed Brick `#bc4749` (accent), Sage `#6a994e` (liens, assombri `#4a7232` pour le texte), Yellow Green `#a7c957` (touches, jamais du texte), Champagne Mist `#f2e8cf` (fonds doux) ; police Albert Sans. Variantes de tuiles : `ifa-tile--brick`, `--sage`, `--hunter`, `--lime`.
+- [docs/stylesheets/extra.css](docs/stylesheets/extra.css) — identité visuelle : palette « Fresh Greens » Hunter Green `#386641` (structure), Blushed Brick `#bc4749` (accent), Sage `#6a994e` (liens, assombri `#4a7232` pour le texte), Yellow Green `#a7c957` (touches, jamais du texte), Champagne Mist `#f2e8cf` (fonds doux) ; police Albert Sans, **auto-hébergée** ([docs/assets/fonts/](docs/assets/fonts/), bloc `fonts` d'[overrides/main.html](overrides/main.html)) : ne pas réactiver Google Fonts. Variantes de tuiles : `ifa-tile--brick`, `--sage`, `--hunter`, `--lime`.
 - [logo/](logo/) — logo info·prj généré par [logo/make_logo.py](logo/make_logo.py) (voir [logo/README.md](logo/README.md)).
-- Statistiques (Clicky) : non activées tant qu'un identifiant propre au site n'a pas été créé (ne pas réutiliser celui d'infofaillite).
+- Statistiques : Clicky, site `101514196` (distinct d'infofaillite), **sans cookie** (`clicky_custom.cookies_disable`) dans [docs/javascripts/clicky.js](docs/javascripts/clicky.js) ; mention dans [docs/a-propos.md](docs/a-propos.md#statistiques). Pas de Google Analytics : il imposerait un bandeau de consentement. Search Console : propriété « Domaine » vérifiée par DNS TXT ; sitemap déclaré dans [docs/robots.txt](docs/robots.txt).
 
 ## Navigation
 
@@ -82,4 +80,4 @@ Mêmes règles qu'infofaillite : pas de spec ni de plan pour une passe de relect
 4. `.venv/Scripts/python.exe scripts/inject_git_dates.py`.
 5. Entrée `## [YYYY-MM-DD] edit | <titre>` en tête de [LOG.md](LOG.md).
 6. Commit final `log + lastmod : relecture du <date>`.
-7. `git log --oneline -10` ; ne pas pousser sauf demande explicite.
+7. `git log --oneline -10` ; ne pas pousser sauf demande explicite (push sur `gh-pages` uniquement ; la publication passe par la PR `gh-pages` → `main`).
