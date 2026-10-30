@@ -5,8 +5,26 @@
    #bc4749 (accent), Sage Green #6a994e (liens), Yellow Green #a7c957
    (touches), Champagne Mist #f2e8cf (fonds doux), Graphite #2f2d2e (texte). Les variantes « -text » sont assombries (mode clair) ou
    éclaircies (mode sombre) pour garder un contraste lisible sur le petit texte.
-   Police : Albert Sans (zensical.toml, [project.theme.font]).
+   Police : Albert Sans, hébergée sur le site (police variable Fontsource
+   5.3.0, sous-ensemble latin, licence SIL OFL 1.1) ; chargée par le bloc
+   `fonts` d'overrides/main.html, pas par Google Fonts.
    ========================================================================== */
+
+@font-face {
+  font-family: "Albert Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("../assets/fonts/albert-sans-latin-wght-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Albert Sans";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("../assets/fonts/albert-sans-latin-wght-italic.woff2") format("woff2");
+}
 
 :root,
 [data-md-color-scheme="default"] {

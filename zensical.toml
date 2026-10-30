@@ -334,6 +334,8 @@ toggle.name = "Passer en mode clair"
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
+# Sans effet sur le chargement : overrides/main.html remplace le bloc `fonts`
+# pour servir Albert Sans depuis docs/assets/fonts (pas de Google Fonts).
 [project.theme.font]
 text = "Albert Sans"
 #code = "Jetbrains Mono"

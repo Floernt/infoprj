@@ -10,6 +10,9 @@
     JSON-LD `Article`.
   - JSON-LD `BreadcrumbList` dans le HTML statique, pour les robots qui
     n'exécutent pas JavaScript.
+  - Bloc `fonts` : Albert Sans hébergée sur le site (docs/assets/fonts,
+    @font-face dans extra.css) au lieu de Google Fonts, pour qu'aucune
+    adresse IP de visiteur ne parte chez Google.
   L'accueil utilise overrides/home.html, qui étend ce gabarit.
 -#}
 {% extends "base.html" %}
@@ -51,6 +54,11 @@
 {% set _content = (page.content | trim) if page and page.content else "" %}
 {% set _has_h1 = _content[:3] == "<h1" %}
 {% set _h1_parts = _content | split("</h1>") %}
+
+{% block fonts %}
+  <link rel="preload" href="{{ 'assets/fonts/albert-sans-latin-wght-normal.woff2' | url }}" as="font" type="font/woff2" crossorigin>
+  <style>:root{--md-text-font:"Albert Sans"}</style>
+{% endblock %}
 
 {% block extrahead %}
   {#- Icônes complémentaires au favicon SVG (zensical.toml) et aperçu de partage -#}
