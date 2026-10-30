@@ -1,10 +1,12 @@
 ---
-title: "Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge"
+title: 'Classes et cram-down : ce que la jurisprudence française et néerlandaise peut
+  apprendre au juge belge'
 date: '2026-11-26'
 type: doctrine
 source:
   auteur: Y. Brulard
-  publication: « Retour d'expérience », exposé au séminaire de la Revue des entreprises en difficulté (REDI)
+  publication: « Retour d'expérience », exposé au séminaire de la Revue des entreprises
+    en difficulté (REDI)
   date: '2023-06-08'
 themes:
 - cram-down
@@ -14,9 +16,18 @@ articles_cde:
 - XX.83/9
 - XX.83/17
 - XX.83/18
-resume: La directive de 2019 a été transposée plus tôt en France et aux Pays-Bas, dont les tribunaux ont rendu les premières décisions sur les classes et l'application forcée interclasse. Plusieurs de ces décisions, commentées en Belgique avant l'entrée en vigueur de la réforme, éclairent la constitution des classes et les dérogations à la règle de priorité.
-description: Regard comparé sur les premières décisions étrangères de cram-down (Versailles, Grenoble ALLIMAND, Pontoise UNHYCOS, Rotterdam) et leur intérêt pour l'article XX.83/18 CDE
-keywords: cram-down jurisprudence française, application forcée interclasse, ALLIMAND Grenoble, UNHYCOS Pontoise, cour d'appel de Versailles classes, Rotterdam WHOA, priorité absolue dérogation, directive 2019/1023
+resume: La directive de 2019 a été transposée plus tôt en France et aux Pays-Bas,
+  dont les tribunaux ont rendu les premières décisions sur les classes et l'application
+  forcée interclasse. Plusieurs de ces décisions, commentées en Belgique avant l'entrée
+  en vigueur de la réforme, éclairent la constitution des classes et les dérogations
+  à la règle de priorité.
+description: Regard comparé sur les premières décisions étrangères de cram-down (Versailles,
+  Grenoble ALLIMAND, Pontoise UNHYCOS, Rotterdam) et leur intérêt pour l'article XX.83/18
+  CDE
+keywords: cram-down jurisprudence française, application forcée interclasse, ALLIMAND
+  Grenoble, UNHYCOS Pontoise, cour d'appel de Versailles classes, Rotterdam WHOA,
+  priorité absolue dérogation, directive 2019/1023
+updated: '2026-10-30'
 ---
 # Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge
 

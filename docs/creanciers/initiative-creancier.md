@@ -1,7 +1,12 @@
 ---
-description: "Créancier : demander une PRJ privée (XX.83/22), un praticien de la réorganisation, un administrateur provisoire ou un transfert sous autorité judiciaire (XX.84)."
-keywords: créancier demande PRJ privée, XX.83/22 créancier, praticien de la réorganisation créancier, administrateur provisoire XX.49/1, transfert sous autorité judiciaire créancier, plan alternatif
-public: [creancier]
+description: 'Créancier : demander une PRJ privée (XX.83/22), un praticien de la réorganisation,
+  un administrateur provisoire ou un transfert sous autorité judiciaire (XX.84).'
+keywords: créancier demande PRJ privée, XX.83/22 créancier, praticien de la réorganisation
+  créancier, administrateur provisoire XX.49/1, transfert sous autorité judiciaire
+  créancier, plan alternatif
+public:
+- creancier
+updated: '2026-10-30'
 ---
 # Prendre l'initiative en tant que créancier
 

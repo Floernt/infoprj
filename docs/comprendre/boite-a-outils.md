@@ -1,10 +1,15 @@
 ---
-description: "Les outils du Livre XX CDE pour l'entreprise en difficulté : chambre, médiation, accords amiables, PRJ publique et privée, transfert, faillite."
-keywords: outils entreprise en difficulté belgique, chambre des entreprises en difficulté, médiation d'entreprise XX.29/2, accord amiable XX.37, PRJ privée, PRJ publique, transfert sous autorité de justice, faillite silencieuse, dissolution judiciaire, comparaison procédures
+description: 'Les outils du Livre XX CDE pour l''entreprise en difficulté : chambre,
+  médiation, accords amiables, PRJ publique et privée, transfert, faillite.'
+keywords: outils entreprise en difficulté belgique, chambre des entreprises en difficulté,
+  médiation d'entreprise XX.29/2, accord amiable XX.37, PRJ privée, PRJ publique,
+  transfert sous autorité de justice, faillite silencieuse, dissolution judiciaire,
+  comparaison procédures
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # La boîte à outils du Livre XX
 

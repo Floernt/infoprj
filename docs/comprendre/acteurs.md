@@ -1,10 +1,16 @@
 ---
-description: "Les acteurs de la réorganisation judiciaire : juge délégué, chambre des entreprises en difficulté, praticiens, administrateur provisoire, ministère public, Regsol."
-keywords: juge délégué réorganisation judiciaire, chambre des entreprises en difficulté, praticien de la réorganisation, mandataire de justice XX.30, administrateur provisoire XX.32 XX.49/1, médiateur d'entreprise XX.29/2, ministère public PRJ, praticien de la liquidation, Regsol
+description: 'Les acteurs de la réorganisation judiciaire : juge délégué, chambre
+  des entreprises en difficulté, praticiens, administrateur provisoire, ministère
+  public, Regsol.'
+keywords: juge délégué réorganisation judiciaire, chambre des entreprises en difficulté,
+  praticien de la réorganisation, mandataire de justice XX.30, administrateur provisoire
+  XX.32 XX.49/1, médiateur d'entreprise XX.29/2, ministère public PRJ, praticien de
+  la liquidation, Regsol
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # Les acteurs de la réorganisation judiciaire
 

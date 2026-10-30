@@ -1,8 +1,13 @@
 ---
-description: "Choisir la bonne procédure pour une entreprise en difficulté - Arbre de décision, comparaison accord, médiation, PRJ privée et publique, continuité ou cession"
-keywords: "choisir procédure entreprise en difficulté, PRJ privée ou publique, accord amiable, médiation d'entreprise, sursis, transfert sous autorité judiciaire, faillite silencieuse, continuité"
+description: Choisir la bonne procédure pour une entreprise en difficulté - Arbre
+  de décision, comparaison accord, médiation, PRJ privée et publique, continuité ou
+  cession
+keywords: choisir procédure entreprise en difficulté, PRJ privée ou publique, accord
+  amiable, médiation d'entreprise, sursis, transfert sous autorité judiciaire, faillite
+  silencieuse, continuité
 public:
 - dirigeant
+updated: '2026-10-30'
 ---
 # Quelle voie choisir pour votre entreprise en difficulté ?
 

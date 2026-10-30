@@ -1,6 +1,11 @@
 ---
-description: La réorganisation judiciaire en chiffres - Nombre de PRJ en Belgique, taux de disparition à cinq ans, demandes au tribunal de l'entreprise de Liège, faillites 2025
-keywords: statistiques réorganisation judiciaire, nombre de PRJ belgique, taux de réussite PRJ, chiffres tribunal entreprise Liège, statistiques faillites Statbel 2025, entreprises en difficulté chiffres
+description: La réorganisation judiciaire en chiffres - Nombre de PRJ en Belgique,
+  taux de disparition à cinq ans, demandes au tribunal de l'entreprise de Liège, faillites
+  2025
+keywords: statistiques réorganisation judiciaire, nombre de PRJ belgique, taux de
+  réussite PRJ, chiffres tribunal entreprise Liège, statistiques faillites Statbel
+  2025, entreprises en difficulté chiffres
+updated: '2026-10-30'
 ---
 # La PRJ en chiffres
 

@@ -1,10 +1,13 @@
 ---
-title: "Vote dans les classes : les intérêts des créances comptent-ils ? Une question ouverte de l'article XX.83/14"
+title: 'Vote dans les classes : les intérêts des créances comptent-ils ? Une question
+  ouverte de l''article XX.83/14'
 date: '2026-12-17'
 type: doctrine
 source:
   auteur: G. Pierson, juge consulaire au tribunal de l'entreprise du Brabant wallon
-  publication: '« Procédure publique de réorganisation judiciaire par accord collectif : les points de vigilance du juge délégué », tribunal de l''entreprise du Brabant wallon'
+  publication: '« Procédure publique de réorganisation judiciaire par accord collectif
+    : les points de vigilance du juge délégué », tribunal de l''entreprise du Brabant
+    wallon'
   date: '2024-02-20'
 themes:
 - classes-creanciers
@@ -13,9 +16,18 @@ themes:
 articles_cde:
 - XX.78/2
 - XX.83/14
-resume: Dans le régime des classes, un plan est approuvé par une classe si les créanciers représentant « la moitié des créances en principal et des intérêts » votent pour. Une lecture appuyée sur la version néerlandaise du texte conclut que seul le principal compte pour les créanciers, contrairement au régime des PME. La question n'est pas tranchée et peut décider de l'issue d'un vote.
-description: Article XX.83/14 CDE - Calcul de la majorité dans les classes de créanciers, en principal seul ou avec intérêts, et comparaison avec la double majorité de l'article XX.78/2
-keywords: vote classes de créanciers, XX.83/14, majorité principal intérêts, belangen rente, vote plan grandes entreprises, double majorité XX.78/2, détenteurs de capital vote
+resume: Dans le régime des classes, un plan est approuvé par une classe si les créanciers
+  représentant « la moitié des créances en principal et des intérêts » votent pour.
+  Une lecture appuyée sur la version néerlandaise du texte conclut que seul le principal
+  compte pour les créanciers, contrairement au régime des PME. La question n'est pas
+  tranchée et peut décider de l'issue d'un vote.
+description: Article XX.83/14 CDE - Calcul de la majorité dans les classes de créanciers,
+  en principal seul ou avec intérêts, et comparaison avec la double majorité de l'article
+  XX.78/2
+keywords: vote classes de créanciers, XX.83/14, majorité principal intérêts, belangen
+  rente, vote plan grandes entreprises, double majorité XX.78/2, détenteurs de capital
+  vote
+updated: '2026-10-30'
 ---
 # Vote dans les classes : les intérêts des créances comptent-ils ? Une question ouverte de l'article XX.83/14
 

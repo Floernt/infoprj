@@ -1,9 +1,10 @@
 ---
-title: "Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal"
+title: 'Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal'
 date: '2026-11-19'
 type: legislation
 source:
-  publication: Arrêté royal du 24 septembre 2023 établissant une liste de contrôle relative au plan de réorganisation des petites et moyennes entreprises
+  publication: Arrêté royal du 24 septembre 2023 établissant une liste de contrôle
+    relative au plan de réorganisation des petites et moyennes entreprises
   date: '2023-09-24'
   reference: En lien avec les art. XX.70/1, § 4, et XX.77, § 3, CDE
 themes:
@@ -14,9 +15,17 @@ articles_cde:
 - XX.77
 - XX.83/4
 - XX.83/11
-resume: Un arrêté royal du 24 septembre 2023 établit une liste de contrôle pour les plans de réorganisation des PME. Elle recense et explique les conditions de forme que le juge délégué vérifie avant que le plan puisse être déposé. Aucun texte équivalent n'existe pour les grandes entreprises.
-description: Arrêté royal du 24 septembre 2023 - Liste de contrôle du plan de réorganisation des PME, vérification de forme par le juge délégué avant dépôt (art. XX.70/1 et XX.77 CDE)
-keywords: liste de contrôle plan de réorganisation, arrêté royal 24 septembre 2023, plan PME réorganisation judiciaire, juge délégué conditions de forme, XX.70/1, XX.77, contenu du plan
+resume: Un arrêté royal du 24 septembre 2023 établit une liste de contrôle pour les
+  plans de réorganisation des PME. Elle recense et explique les conditions de forme
+  que le juge délégué vérifie avant que le plan puisse être déposé. Aucun texte équivalent
+  n'existe pour les grandes entreprises.
+description: Arrêté royal du 24 septembre 2023 - Liste de contrôle du plan de réorganisation
+  des PME, vérification de forme par le juge délégué avant dépôt (art. XX.70/1 et
+  XX.77 CDE)
+keywords: liste de contrôle plan de réorganisation, arrêté royal 24 septembre 2023,
+  plan PME réorganisation judiciaire, juge délégué conditions de forme, XX.70/1, XX.77,
+  contenu du plan
+updated: '2026-10-30'
 ---
 # Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal
 

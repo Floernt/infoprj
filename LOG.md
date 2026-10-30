@@ -1,6 +1,16 @@
-﻿# LOG — infoprj
+# LOG — infoprj
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
+
+## JALON — 2026-10-30 — création d'infoprj.be
+
+**Décisions :** site frère d'infofaillite.be sur la réorganisation judiciaire ; architecture technique reprise d'infofaillite (Zensical, gabarits, scripts, tests, préfixe CSS `ifa-` conservé) ; identité propre (palette « Fresh Greens », logo info·prj, police Albert Sans) ; trois publics (dirigeant, créancier, professionnel du chiffre) ; nouveau dépôt Git sur `main` (l'ancien `.git`, clone d'infofaillite, est mis de côté dans `.git-ancien-infofaillite/`) ; remote `Floernt/infoprj` ; domaine infoprj.be (`docs/CNAME`) ; Clicky non activé.
+
+**Contenu :** 4 rubriques de fond (dirigeants 9 pages, créanciers 8, chiffre 8, comprendre 12), FAQ de 35 questions, glossaire, délais, chiffres, ressources, à propos, contact, `llms.txt`, 12 notes d'actualité (4 publiées au 30.10.2026, 8 programmées chaque jeudi jusqu'au 24.12.2026). Rédaction à partir de `Ressources InfoPrj/` et des 5 brouillons (`sources/brouillons/`), références vérifiées dans le texte consolidé du Livre XX (Justel, 16.4.2026), relecture croisée.
+
+**À trancher :** `superpowers/points-a-verifier.md`. Restent à faire par Florian : activer GitHub Pages (source GitHub Actions) et le domaine, DNS, identifiant Clicky éventuel, relecture avant publication. Aucun push effectué.
+
+---
 
 ## 2026-10-30 10:39:22 — Initialisation du projet
 

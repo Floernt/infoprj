@@ -1,8 +1,12 @@
 ---
-description: Article XX.23, § 3 CDE - Faits graves et concordants, lettre circonstanciée au débiteur, délai d'un mois et information du président du tribunal.
-keywords: article XX.23 CDE, devoir d'alerte expert-comptable, faits graves et concordants, probabilité d'insolvabilité, lettre ITAA continuité, secret professionnel 458 Code pénal
+description: Article XX.23, § 3 CDE - Faits graves et concordants, lettre circonstanciée
+  au débiteur, délai d'un mois et information du président du tribunal.
+keywords: article XX.23 CDE, devoir d'alerte expert-comptable, faits graves et concordants,
+  probabilité d'insolvabilité, lettre ITAA continuité, secret professionnel 458 Code
+  pénal
 public:
 - chiffre
+updated: '2026-10-30'
 ---
 # Le devoir d'alerte de l'article XX.23, § 3
 

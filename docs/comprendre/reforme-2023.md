@@ -1,10 +1,14 @@
 ---
-description: "Ce que la loi du 7 juin 2023 (directive 2019/1023) a changé dans la réorganisation judiciaire belge depuis le 1er septembre 2023."
-keywords: réforme réorganisation judiciaire 2023, loi du 7 juin 2023, directive 2019/1023, Livre XX CDE réforme, praticien de la réorganisation, classes de créanciers, PRJ privée 2021, transfert sous autorité de justice Plessers
+description: Ce que la loi du 7 juin 2023 (directive 2019/1023) a changé dans la réorganisation
+  judiciaire belge depuis le 1er septembre 2023.
+keywords: réforme réorganisation judiciaire 2023, loi du 7 juin 2023, directive 2019/1023,
+  Livre XX CDE réforme, praticien de la réorganisation, classes de créanciers, PRJ
+  privée 2021, transfert sous autorité de justice Plessers
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # La réforme de 2023 : ce qui a changé
 

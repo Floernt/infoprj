@@ -1,10 +1,14 @@
 ---
-description: "Comprendre la réorganisation judiciaire (PRJ) en Belgique : définition, outils du Livre XX CDE, sursis, PRJ publique et privée, classes, transfert."
-keywords: réorganisation judiciaire belgique, PRJ, Livre XX Code de droit économique, sursis, PRJ privée, PRJ publique, plan de réorganisation, classes de créanciers, transfert sous autorité de justice, réforme 2023
+description: 'Comprendre la réorganisation judiciaire (PRJ) en Belgique : définition,
+  outils du Livre XX CDE, sursis, PRJ publique et privée, classes, transfert.'
+keywords: réorganisation judiciaire belgique, PRJ, Livre XX Code de droit économique,
+  sursis, PRJ privée, PRJ publique, plan de réorganisation, classes de créanciers,
+  transfert sous autorité de justice, réforme 2023
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # Comprendre la procédure de réorganisation judiciaire
 

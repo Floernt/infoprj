@@ -1,6 +1,9 @@
 ---
-description: "Actualités de la réorganisation judiciaire en Belgique : jurisprudence, doctrine et législation commentées sur le Livre XX du Code de droit économique"
-keywords: actualité réorganisation judiciaire, jurisprudence PRJ, cram-down Belgique, doctrine entreprises en difficulté, Livre XX Code de droit économique
+description: 'Actualités de la réorganisation judiciaire en Belgique : jurisprudence,
+  doctrine et législation commentées sur le Livre XX du Code de droit économique'
+keywords: actualité réorganisation judiciaire, jurisprudence PRJ, cram-down Belgique,
+  doctrine entreprises en difficulté, Livre XX Code de droit économique
+updated: '2026-10-30'
 ---
 # Actualités de la réorganisation judiciaire
 

@@ -1,5 +1,6 @@
 ---
-title: "Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)"
+title: 'Abandons de créances en réorganisation : l''exonération devient temporaire
+  (art. 48/1 CIR)'
 date: '2026-10-30'
 type: legislation
 source:
@@ -17,9 +18,18 @@ articles_cde:
 - XX.83/15
 - XX.83/30
 - XX.83/35
-resume: Le bénéfice que tire une entreprise des remises de dettes obtenues par un accord amiable constaté ou un plan de réorganisation homologué n'est plus exonéré définitivement. Il est imposé par quarts, de la troisième à la sixième période imposable qui suivent l'exécution complète du plan. Le point de départ du nouveau régime reste à préciser.
-description: Article 48/1 CIR remplacé par la loi du 28 décembre 2023 - Taxation étalée des remises de dettes obtenues en réorganisation judiciaire, accord amiable ou plan homologué
-keywords: article 48/1 CIR, abandon de créance réorganisation judiciaire, remise de dettes fiscalité, exonération temporaire, taxation étalée, plan de réorganisation homologué, réserve immunisée, loi 28 décembre 2023
+resume: Le bénéfice que tire une entreprise des remises de dettes obtenues par un
+  accord amiable constaté ou un plan de réorganisation homologué n'est plus exonéré
+  définitivement. Il est imposé par quarts, de la troisième à la sixième période imposable
+  qui suivent l'exécution complète du plan. Le point de départ du nouveau régime reste
+  à préciser.
+description: Article 48/1 CIR remplacé par la loi du 28 décembre 2023 - Taxation étalée
+  des remises de dettes obtenues en réorganisation judiciaire, accord amiable ou plan
+  homologué
+keywords: article 48/1 CIR, abandon de créance réorganisation judiciaire, remise de
+  dettes fiscalité, exonération temporaire, taxation étalée, plan de réorganisation
+  homologué, réserve immunisée, loi 28 décembre 2023
+updated: '2026-10-30'
 ---
 # Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)
 

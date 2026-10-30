@@ -1,7 +1,12 @@
 ---
-description: "Votre débiteur est en réorganisation judiciaire : publicité, effets du sursis, montant de votre créance, contestation, cautions, compensation et contrats en cours."
-keywords: débiteur en réorganisation judiciaire, sursis créancier, contester créance PRJ, caution réorganisation judiciaire, compensation sursis, contrats en cours XX.56
-public: [creancier]
+description: 'Votre débiteur est en réorganisation judiciaire : publicité, effets
+  du sursis, montant de votre créance, contestation, cautions, compensation et contrats
+  en cours.'
+keywords: débiteur en réorganisation judiciaire, sursis créancier, contester créance
+  PRJ, caution réorganisation judiciaire, compensation sursis, contrats en cours XX.56
+public:
+- creancier
+updated: '2026-10-30'
 ---
 # Votre débiteur est en réorganisation judiciaire : ce qui change pour vous
 

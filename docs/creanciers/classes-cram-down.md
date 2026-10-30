@@ -1,7 +1,12 @@
 ---
-description: "Créancier dans le régime des classes : composition des classes, contestation, valorisation, application forcée interclasse, meilleur intérêt et priorité absolue."
-keywords: classes de créanciers belgique, cram-down créancier, application forcée interclasse XX.83/18, meilleur intérêt des créanciers, priorité absolue, XX.83/17 valeur entreprise
-public: [creancier]
+description: 'Créancier dans le régime des classes : composition des classes, contestation,
+  valorisation, application forcée interclasse, meilleur intérêt et priorité absolue.'
+keywords: classes de créanciers belgique, cram-down créancier, application forcée
+  interclasse XX.83/18, meilleur intérêt des créanciers, priorité absolue, XX.83/17
+  valeur entreprise
+public:
+- creancier
+updated: '2026-10-30'
 ---
 # Classes de créanciers et cram-down : vos droits
 

@@ -1,10 +1,15 @@
 ---
-description: "La PRJ publique en Belgique : requête et annexes (XX.41), juge délégué, jugement d'ouverture (XX.46), publicité, calendrier, changement d'objectif et fin anticipée."
-keywords: PRJ publique, requête en réorganisation judiciaire, article XX.41 CDE annexes, juge délégué, jugement d'ouverture XX.46, publication Moniteur belge, calendrier PRJ, changement d'objectif XX.60, fin anticipée XX.62
+description: 'La PRJ publique en Belgique : requête et annexes (XX.41), juge délégué,
+  jugement d''ouverture (XX.46), publicité, calendrier, changement d''objectif et
+  fin anticipée.'
+keywords: PRJ publique, requête en réorganisation judiciaire, article XX.41 CDE annexes,
+  juge délégué, jugement d'ouverture XX.46, publication Moniteur belge, calendrier
+  PRJ, changement d'objectif XX.60, fin anticipée XX.62
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # La PRJ publique : de la requête à la clôture
 

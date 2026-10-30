@@ -1,10 +1,14 @@
 ---
-description: "Le sursis en réorganisation judiciaire : effets (XX.50 et ss.), durée de 4 mois prorogeable jusqu'à 12 mois, contrats en cours, exceptions, levée."
-keywords: sursis réorganisation judiciaire, créance sursitaire, article XX.50 CDE, durée du sursis 4 mois 12 mois, prorogation XX.59, contrats en cours XX.56, levée du sursis XX.59/1, saisie pendant PRJ
+description: 'Le sursis en réorganisation judiciaire : effets (XX.50 et ss.), durée
+  de 4 mois prorogeable jusqu''à 12 mois, contrats en cours, exceptions, levée.'
+keywords: sursis réorganisation judiciaire, créance sursitaire, article XX.50 CDE,
+  durée du sursis 4 mois 12 mois, prorogation XX.59, contrats en cours XX.56, levée
+  du sursis XX.59/1, saisie pendant PRJ
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # Le sursis
 

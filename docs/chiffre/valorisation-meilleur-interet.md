@@ -1,8 +1,12 @@
 ---
-description: Valeur de liquidation nette et valeur de continuité (DCF, plan d'affaires) dans le test du meilleur intérêt et la priorité absolue, avec un exemple chiffré.
-keywords: valorisation entreprise PRJ, meilleur intérêt des créanciers, best interest test Belgique, priorité absolue XX.83/18, valeur de liquidation, DCF réorganisation, réviseur valorisation, XX.83/17
+description: Valeur de liquidation nette et valeur de continuité (DCF, plan d'affaires)
+  dans le test du meilleur intérêt et la priorité absolue, avec un exemple chiffré.
+keywords: valorisation entreprise PRJ, meilleur intérêt des créanciers, best interest
+  test Belgique, priorité absolue XX.83/18, valeur de liquidation, DCF réorganisation,
+  réviseur valorisation, XX.83/17
 public:
 - chiffre
+updated: '2026-10-30'
 ---
 # Valoriser l'entreprise : meilleur intérêt et priorité absolue
 

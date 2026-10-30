@@ -1,7 +1,11 @@
 ---
-description: "Créancier face au plan de réorganisation : consultation, observations, procuration, majorités de vote PME et par classes, homologation, refus et appel."
-keywords: vote plan de réorganisation, majorité XX.78/2, vote par classes XX.83/14, homologation plan réorganisation, refus homologation XX.79, appel créancier PRJ
-public: [creancier]
+description: 'Créancier face au plan de réorganisation : consultation, observations,
+  procuration, majorités de vote PME et par classes, homologation, refus et appel.'
+keywords: vote plan de réorganisation, majorité XX.78/2, vote par classes XX.83/14,
+  homologation plan réorganisation, refus homologation XX.79, appel créancier PRJ
+public:
+- creancier
+updated: '2026-10-30'
 ---
 # Voter et contester le plan de réorganisation
 

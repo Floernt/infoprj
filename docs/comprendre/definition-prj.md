@@ -1,10 +1,14 @@
 ---
-description: "Qu'est-ce qu'une réorganisation judiciaire (PRJ) en Belgique : objectif, entreprises concernées, condition de menace sur la continuité (art. XX.45 CDE)."
-keywords: définition réorganisation judiciaire, PRJ belgique, article XX.45 CDE, continuité menacée, qui peut demander une PRJ, état de faillite et PRJ, PRJ successives, Livre XX
+description: 'Qu''est-ce qu''une réorganisation judiciaire (PRJ) en Belgique : objectif,
+  entreprises concernées, condition de menace sur la continuité (art. XX.45 CDE).'
+keywords: définition réorganisation judiciaire, PRJ belgique, article XX.45 CDE, continuité
+  menacée, qui peut demander une PRJ, état de faillite et PRJ, PRJ successives, Livre
+  XX
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # Qu'est-ce qu'une procédure de réorganisation judiciaire ?
 

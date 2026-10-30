@@ -1,18 +1,29 @@
 ---
-title: "Réforme de 2023 : un premier bilan pratique à partir des constats des juges et des praticiens"
+title: 'Réforme de 2023 : un premier bilan pratique à partir des constats des juges
+  et des praticiens'
 date: '2026-12-24'
 type: pratique
 source:
-  publication: Constats présentés par des magistrats des tribunaux de l'entreprise et des praticiens (2024-2026), notamment « Actualités en restructuration des entreprises », HEC Liège
+  publication: Constats présentés par des magistrats des tribunaux de l'entreprise
+    et des praticiens (2024-2026), notamment « Actualités en restructuration des entreprises
+    », HEC Liège
   date: '2025-03-10'
 themes:
 - droit-europeen
 - prj-privee
 - classes-creanciers
 - chambre-entreprises-difficulte
-resume: Plus de trois ans après l'entrée en vigueur de la réforme du Livre XX, les constats des juges et des praticiens convergent. Les outils amiables et la PRJ privée gagnent du terrain, le régime des classes reste rare, les créanciers utilisent peu leurs nouveaux pouvoirs et les tribunaux attendent des plans mieux documentés.
-description: Premier bilan pratique de la réforme du Livre XX (loi du 7 juin 2023) - PRJ privée, accord amiable, régime des classes, rôle du juge délégué et des créanciers, selon les constats des praticiens
-keywords: bilan réforme 2023 réorganisation judiciaire, loi 7 juin 2023, PRJ privée pratique, régime des classes grandes entreprises, accord amiable chambre des entreprises en difficulté, juge délégué, directive restructuration
+resume: Plus de trois ans après l'entrée en vigueur de la réforme du Livre XX, les
+  constats des juges et des praticiens convergent. Les outils amiables et la PRJ privée
+  gagnent du terrain, le régime des classes reste rare, les créanciers utilisent peu
+  leurs nouveaux pouvoirs et les tribunaux attendent des plans mieux documentés.
+description: Premier bilan pratique de la réforme du Livre XX (loi du 7 juin 2023)
+  - PRJ privée, accord amiable, régime des classes, rôle du juge délégué et des créanciers,
+  selon les constats des praticiens
+keywords: bilan réforme 2023 réorganisation judiciaire, loi 7 juin 2023, PRJ privée
+  pratique, régime des classes grandes entreprises, accord amiable chambre des entreprises
+  en difficulté, juge délégué, directive restructuration
+updated: '2026-10-30'
 ---
 # Réforme de 2023 : un premier bilan pratique à partir des constats des juges et des praticiens
 

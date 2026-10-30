@@ -1,8 +1,13 @@
 ---
-description: "Après l'homologation du plan de réorganisation - Effets pour les créanciers, exécution, suivi par le tribunal, révocation et traitement comptable et fiscal des abandons"
-keywords: "homologation plan réorganisation effets, exécution plan PRJ, révocation plan XX.83, créancier oublié plan, caution plan réorganisation, abandon de créance fiscalité, article 48/1 CIR"
+description: Après l'homologation du plan de réorganisation - Effets pour les créanciers,
+  exécution, suivi par le tribunal, révocation et traitement comptable et fiscal des
+  abandons
+keywords: homologation plan réorganisation effets, exécution plan PRJ, révocation
+  plan XX.83, créancier oublié plan, caution plan réorganisation, abandon de créance
+  fiscalité, article 48/1 CIR
 public:
 - dirigeant
+updated: '2026-10-30'
 ---
 # Après l'homologation : exécuter le plan sans faux pas
 

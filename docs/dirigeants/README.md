@@ -1,8 +1,13 @@
 ---
-description: "Dirigeant d'une entreprise en difficulté - Repérer les signaux, choisir entre accord, médiation, PRJ privée ou publique, préparer le dossier et protéger sa responsabilité"
-keywords: "entreprise en difficulté que faire, dirigeant PRJ, réorganisation judiciaire dirigeant, chambre des entreprises en difficulté, sursis, plan de réorganisation, responsabilité dirigeant"
+description: Dirigeant d'une entreprise en difficulté - Repérer les signaux, choisir
+  entre accord, médiation, PRJ privée ou publique, préparer le dossier et protéger
+  sa responsabilité
+keywords: entreprise en difficulté que faire, dirigeant PRJ, réorganisation judiciaire
+  dirigeant, chambre des entreprises en difficulté, sursis, plan de réorganisation,
+  responsabilité dirigeant
 public:
 - dirigeant
+updated: '2026-10-30'
 ---
 # Je dirige une entreprise en difficulté : par où commencer ?
 

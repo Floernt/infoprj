@@ -1,10 +1,14 @@
 ---
-description: "La PRJ privée (art. XX.83/22 à XX.83/41 CDE) : procédure confidentielle en deux phases, praticien de la réorganisation, sursis ciblé, homologation non publiée."
-keywords: PRJ privée, réorganisation judiciaire privée, article XX.83/22 CDE, praticien de la réorganisation, sursis ciblé XX.83/24, confidentialité, homologation XX.83/37, initiative des créanciers, prepack belgique
+description: 'La PRJ privée (art. XX.83/22 à XX.83/41 CDE) : procédure confidentielle
+  en deux phases, praticien de la réorganisation, sursis ciblé, homologation non publiée.'
+keywords: PRJ privée, réorganisation judiciaire privée, article XX.83/22 CDE, praticien
+  de la réorganisation, sursis ciblé XX.83/24, confidentialité, homologation XX.83/37,
+  initiative des créanciers, prepack belgique
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # La PRJ privée
 

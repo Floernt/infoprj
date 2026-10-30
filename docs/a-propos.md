@@ -1,6 +1,9 @@
 ---
-description: À propos d'infoprj.be - Guide de la réorganisation judiciaire en Belgique par Florian Ernotte, site frère d'infofaillite.be, fondé sur le Livre XX CDE
-keywords: à propos infoprj, Florian Ernotte, guide réorganisation judiciaire belgique, infofaillite, sources légales PRJ, Livre XX, directive 2019/1023
+description: À propos d'infoprj.be - Guide de la réorganisation judiciaire en Belgique
+  par Florian Ernotte, site frère d'infofaillite.be, fondé sur le Livre XX CDE
+keywords: à propos infoprj, Florian Ernotte, guide réorganisation judiciaire belgique,
+  infofaillite, sources légales PRJ, Livre XX, directive 2019/1023
+updated: '2026-10-30'
 ---
 # À propos
 

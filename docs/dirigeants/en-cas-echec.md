@@ -1,8 +1,13 @@
 ---
-description: "Quand la réorganisation judiciaire échoue - Fin du sursis, transfert sous autorité judiciaire, faillite silencieuse, aveu de faillite et dissolution : les options du dirigeant"
-keywords: "échec réorganisation judiciaire, fin anticipée PRJ, plan rejeté, transfert sous autorité judiciaire, faillite silencieuse, préparation privée de faillite, aveu de faillite, dissolution déficitaire"
+description: 'Quand la réorganisation judiciaire échoue - Fin du sursis, transfert
+  sous autorité judiciaire, faillite silencieuse, aveu de faillite et dissolution
+  : les options du dirigeant'
+keywords: échec réorganisation judiciaire, fin anticipée PRJ, plan rejeté, transfert
+  sous autorité judiciaire, faillite silencieuse, préparation privée de faillite,
+  aveu de faillite, dissolution déficitaire
 public:
 - dirigeant
+updated: '2026-10-30'
 ---
 # Si la réorganisation échoue
 

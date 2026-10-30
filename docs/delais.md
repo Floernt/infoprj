@@ -1,6 +1,11 @@
 ---
-description: Tableau des délais clés de la réorganisation judiciaire en Belgique - Requête, sursis, contestation des créances, vote, homologation, appel, durée du plan
-keywords: délais réorganisation judiciaire, durée sursis PRJ, prorogation sursis 15 jours, délai contestation créance PRJ, délai appel homologation, durée plan 5 ans, faillite silencieuse 30 jours
+description: Tableau des délais clés de la réorganisation judiciaire en Belgique -
+  Requête, sursis, contestation des créances, vote, homologation, appel, durée du
+  plan
+keywords: délais réorganisation judiciaire, durée sursis PRJ, prorogation sursis 15
+  jours, délai contestation créance PRJ, délai appel homologation, durée plan 5 ans,
+  faillite silencieuse 30 jours
+updated: '2026-10-30'
 ---
 # Les délais clés de la réorganisation judiciaire
 

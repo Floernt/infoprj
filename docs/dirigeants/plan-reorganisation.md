@@ -1,8 +1,13 @@
 ---
-description: "Rédiger un plan de réorganisation en PRJ - Contenu obligatoire XX.70/1, abattement de 80 % maximum, 24 mois pour les créanciers extraordinaires, 5 ans, budget crédible"
-keywords: "plan de réorganisation, contenu plan PRJ, article XX.70/1, abattement 80 %, XX.75/1, créanciers extraordinaires 24 mois, durée plan 5 ans, liste de contrôle plan PME, budget de trésorerie"
+description: Rédiger un plan de réorganisation en PRJ - Contenu obligatoire XX.70/1,
+  abattement de 80 % maximum, 24 mois pour les créanciers extraordinaires, 5 ans,
+  budget crédible
+keywords: plan de réorganisation, contenu plan PRJ, article XX.70/1, abattement 80
+  %, XX.75/1, créanciers extraordinaires 24 mois, durée plan 5 ans, liste de contrôle
+  plan PME, budget de trésorerie
 public:
 - dirigeant
+updated: '2026-10-30'
 ---
 # Rédiger le plan de réorganisation
 

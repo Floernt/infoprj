@@ -1,7 +1,11 @@
 ---
-description: "Créancier : obtenir la levée du sursis à votre égard (XX.59/1), demander la fin anticipée de la réorganisation (XX.62) ou la révocation du plan (XX.83)."
-keywords: levée du sursis créancier, XX.59/1, fin anticipée réorganisation judiciaire, XX.62, révocation plan de réorganisation, XX.83 révocation
-public: [creancier]
+description: 'Créancier : obtenir la levée du sursis à votre égard (XX.59/1), demander
+  la fin anticipée de la réorganisation (XX.62) ou la révocation du plan (XX.83).'
+keywords: levée du sursis créancier, XX.59/1, fin anticipée réorganisation judiciaire,
+  XX.62, révocation plan de réorganisation, XX.83 révocation
+public:
+- creancier
+updated: '2026-10-30'
 ---
 # Lever le sursis, mettre fin à la procédure, révoquer le plan
 

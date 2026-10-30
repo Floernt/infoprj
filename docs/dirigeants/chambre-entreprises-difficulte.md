@@ -1,8 +1,13 @@
 ---
-description: "Chambre des entreprises en difficulté - Convocation, examen à huis clos, accord avec les créanciers (XX.29/1) et médiation d'entreprise (XX.29/2) pour le dirigeant"
-keywords: "chambre des entreprises en difficulté, convocation chambre entreprises en difficulté, accord XX.29/1, médiation d'entreprise XX.29/2, praticien de la réorganisation, plan de paiement ONSS TVA"
+description: Chambre des entreprises en difficulté - Convocation, examen à huis clos,
+  accord avec les créanciers (XX.29/1) et médiation d'entreprise (XX.29/2) pour le
+  dirigeant
+keywords: chambre des entreprises en difficulté, convocation chambre entreprises en
+  difficulté, accord XX.29/1, médiation d'entreprise XX.29/2, praticien de la réorganisation,
+  plan de paiement ONSS TVA
 public:
 - dirigeant
+updated: '2026-10-30'
 ---
 # La chambre des entreprises en difficulté : accord et médiation
 

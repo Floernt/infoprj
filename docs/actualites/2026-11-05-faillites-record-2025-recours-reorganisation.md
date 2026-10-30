@@ -1,18 +1,26 @@
 ---
-title: "Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation"
+title: 'Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation'
 date: '2026-11-05'
 type: pratique
 source:
-  publication: 'Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »'
+  publication: 'Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés
+    »'
   date: '2026-01-16'
   lien: https://statbel.fgov.be/fr/nouvelles/11665-faillites-en-2025-resultats-regionaux-contrastes
 themes:
 - statistiques
 - prevention
 - conditions-ouverture
-resume: Selon Statbel, la Belgique a compté 11.665 faillites en 2025, son niveau le plus élevé depuis 2013. Dans le même temps, les ouvertures de réorganisation judiciaire restent bien en deçà de leur niveau d'il y a dix ans. L'écart suggère que les outils de réorganisation sont mobilisés trop rarement, et souvent trop tard.
-description: 11.665 faillites en Belgique en 2025 (Statbel) face au recul des procédures de réorganisation judiciaire - lecture des chiffres et enseignements pour la prévention
-keywords: faillites 2025 Belgique, Statbel faillites, nombre de réorganisations judiciaires, PRJ statistiques, recours tardif réorganisation, prévention faillite, chambre des entreprises en difficulté
+resume: Selon Statbel, la Belgique a compté 11.665 faillites en 2025, son niveau le
+  plus élevé depuis 2013. Dans le même temps, les ouvertures de réorganisation judiciaire
+  restent bien en deçà de leur niveau d'il y a dix ans. L'écart suggère que les outils
+  de réorganisation sont mobilisés trop rarement, et souvent trop tard.
+description: 11.665 faillites en Belgique en 2025 (Statbel) face au recul des procédures
+  de réorganisation judiciaire - lecture des chiffres et enseignements pour la prévention
+keywords: faillites 2025 Belgique, Statbel faillites, nombre de réorganisations judiciaires,
+  PRJ statistiques, recours tardif réorganisation, prévention faillite, chambre des
+  entreprises en difficulté
+updated: '2026-10-30'
 ---
 # Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation
 

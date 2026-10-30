@@ -1,8 +1,13 @@
 ---
-description: "Préparer une procédure de réorganisation judiciaire - Requête XX.41, annexes, budget, liste des créanciers, choix PRJ publique ou privée, check-list et erreurs fréquentes"
-keywords: "requête réorganisation judiciaire, préparer PRJ, annexes requête PRJ, liste des créanciers PRJ, budget sursis, opt-in grandes entreprises, Regsol PRJ, erreurs PRJ"
+description: Préparer une procédure de réorganisation judiciaire - Requête XX.41,
+  annexes, budget, liste des créanciers, choix PRJ publique ou privée, check-list
+  et erreurs fréquentes
+keywords: requête réorganisation judiciaire, préparer PRJ, annexes requête PRJ, liste
+  des créanciers PRJ, budget sursis, opt-in grandes entreprises, Regsol PRJ, erreurs
+  PRJ
 public:
 - dirigeant
+updated: '2026-10-30'
 ---
 # Préparer une procédure de réorganisation judiciaire
 

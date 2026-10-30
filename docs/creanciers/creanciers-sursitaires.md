@@ -1,7 +1,12 @@
 ---
-description: "Créancier sursitaire ordinaire ou extraordinaire, ONSS et SPF Finances, dettes nées pendant la procédure et travailleurs dans une réorganisation judiciaire."
-keywords: créancier sursitaire extraordinaire, créancier sursitaire ordinaire, sûreté réelle réorganisation judiciaire, ONSS PRJ, SPF Finances plan de réorganisation, dette de masse XX.58
-public: [creancier]
+description: Créancier sursitaire ordinaire ou extraordinaire, ONSS et SPF Finances,
+  dettes nées pendant la procédure et travailleurs dans une réorganisation judiciaire.
+keywords: créancier sursitaire extraordinaire, créancier sursitaire ordinaire, sûreté
+  réelle réorganisation judiciaire, ONSS PRJ, SPF Finances plan de réorganisation,
+  dette de masse XX.58
+public:
+- creancier
+updated: '2026-10-30'
 ---
 # Créanciers sursitaires : ordinaire, extraordinaire, public
 

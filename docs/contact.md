@@ -1,6 +1,9 @@
 ---
-description: Contacter infoprj.be - Poser une question sur la réorganisation judiciaire en Belgique, signaler une imprécision, suggérer un sujet
-keywords: contact infoprj, question réorganisation judiciaire belgique, signaler erreur guide PRJ, contact Florian Ernotte
+description: Contacter infoprj.be - Poser une question sur la réorganisation judiciaire
+  en Belgique, signaler une imprécision, suggérer un sujet
+keywords: contact infoprj, question réorganisation judiciaire belgique, signaler erreur
+  guide PRJ, contact Florian Ernotte
+updated: '2026-10-30'
 ---
 # Contact
 

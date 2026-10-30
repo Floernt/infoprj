@@ -1,10 +1,14 @@
 ---
-description: La réorganisation judiciaire (PRJ) en Belgique expliquée clairement aux dirigeants, créanciers et professionnels du chiffre - Livre XX CDE
-keywords: réorganisation judiciaire belgique, PRJ, procédure de réorganisation judiciaire, sursis, plan de réorganisation, PRJ privée, entreprise en difficulté, Livre XX Code de droit économique, tribunal de l'entreprise
+description: La réorganisation judiciaire (PRJ) en Belgique expliquée clairement aux
+  dirigeants, créanciers et professionnels du chiffre - Livre XX CDE
+keywords: réorganisation judiciaire belgique, PRJ, procédure de réorganisation judiciaire,
+  sursis, plan de réorganisation, PRJ privée, entreprise en difficulté, Livre XX Code
+  de droit économique, tribunal de l'entreprise
 template: home.html
 hide:
 - navigation
 - toc
+updated: '2026-10-30'
 ---
 <div class="ifa-opening" markdown>
 <div markdown>

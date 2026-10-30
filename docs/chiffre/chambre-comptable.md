@@ -1,8 +1,12 @@
 ---
-description: Le comptable et le réviseur devant la chambre des entreprises en difficulté - audition (art. XX.25, § 3), accord XX.29/1 et médiation XX.29/2.
-keywords: chambre des entreprises en difficulté expert-comptable, article XX.25 § 3 CDE, juge rapporteur comptable, accord XX.29/1, médiation d'entreprise XX.29/2, secret professionnel
+description: Le comptable et le réviseur devant la chambre des entreprises en difficulté
+  - audition (art. XX.25, § 3), accord XX.29/1 et médiation XX.29/2.
+keywords: chambre des entreprises en difficulté expert-comptable, article XX.25 §
+  3 CDE, juge rapporteur comptable, accord XX.29/1, médiation d'entreprise XX.29/2,
+  secret professionnel
 public:
 - chiffre
+updated: '2026-10-30'
 ---
 # Face à la chambre des entreprises en difficulté
 

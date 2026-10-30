@@ -1,8 +1,13 @@
 ---
-description: Sonnette d'alarme des articles 5:153 et 7:228 CSA, critères d'appréciation de la continuité et règles d'évaluation en discontinuité, en lien avec le Livre XX.
-keywords: sonnette d'alarme 5:153 CSA, procédure d'alarme 7:228 SA, continuité d'exploitation critères, règles d'évaluation discontinuité 3:6 AR 29 avril 2019, actif net négatif SRL, expert-comptable
+description: Sonnette d'alarme des articles 5:153 et 7:228 CSA, critères d'appréciation
+  de la continuité et règles d'évaluation en discontinuité, en lien avec le Livre
+  XX.
+keywords: sonnette d'alarme 5:153 CSA, procédure d'alarme 7:228 SA, continuité d'exploitation
+  critères, règles d'évaluation discontinuité 3:6 AR 29 avril 2019, actif net négatif
+  SRL, expert-comptable
 public:
 - chiffre
+updated: '2026-10-30'
 ---
 # Continuité d'exploitation et sonnette d'alarme
 

@@ -1,8 +1,12 @@
 ---
-description: Construire le budget de trésorerie joint à la requête en PRJ (art. XX.41) et le plan d'affaires qui soutient le plan de réorganisation (art. XX.70/1 et s.).
-keywords: budget de trésorerie PRJ, plan d'affaires réorganisation judiciaire, article XX.41 situation comptable, contenu du plan XX.70/1, hypothèses sensibilités, expert-comptable requête PRJ
+description: Construire le budget de trésorerie joint à la requête en PRJ (art. XX.41)
+  et le plan d'affaires qui soutient le plan de réorganisation (art. XX.70/1 et s.).
+keywords: budget de trésorerie PRJ, plan d'affaires réorganisation judiciaire, article
+  XX.41 situation comptable, contenu du plan XX.70/1, hypothèses sensibilités, expert-comptable
+  requête PRJ
 public:
 - chiffre
+updated: '2026-10-30'
 ---
 # Plan d'affaires et budget de trésorerie
 

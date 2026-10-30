@@ -1,8 +1,12 @@
 ---
-description: Expert-comptable, réviseur, conseiller fiscal - Votre rôle légal face à l'entreprise en difficulté, de l'alerte XX.23 au plan de réorganisation.
-keywords: expert-comptable entreprise en difficulté, réviseur PRJ, devoir d'alerte XX.23, professionnel du chiffre réorganisation judiciaire, budget de trésorerie PRJ, article 48/1 CIR
+description: Expert-comptable, réviseur, conseiller fiscal - Votre rôle légal face
+  à l'entreprise en difficulté, de l'alerte XX.23 au plan de réorganisation.
+keywords: expert-comptable entreprise en difficulté, réviseur PRJ, devoir d'alerte
+  XX.23, professionnel du chiffre réorganisation judiciaire, budget de trésorerie
+  PRJ, article 48/1 CIR
 public:
 - chiffre
+updated: '2026-10-30'
 ---
 # Professionnel du chiffre : votre rôle face à l'entreprise en difficulté
 

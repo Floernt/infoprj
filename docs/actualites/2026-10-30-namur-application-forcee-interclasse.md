@@ -1,5 +1,6 @@
 ---
-title: "Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics"
+title: 'Namur : l''une des premières applications forcées interclasse en Belgique,
+  malgré l''opposition des créanciers publics'
 date: '2026-10-30'
 type: jurisprudence
 source:
@@ -15,9 +16,17 @@ articles_cde:
 - XX.83/9
 - XX.83/17
 - XX.83/18
-resume: Le tribunal homologue un plan par classes que deux classes sur sept n'avaient pas approuvé, dont celle de l'ONSS et du fisc. Il admet une valeur en activité calculée par DCF, constate que la règle de la priorité absolue est enfreinte, mais accepte d'y déroger parce que la seule alternative était la faillite.
-description: Entr. Liège (div. Namur), 23 janvier 2024 - Application forcée interclasse, valeur en activité, priorité absolue et motifs raisonnables d'y déroger (art. XX.83/18 CDE)
-keywords: cram-down Belgique, application forcée interclasse, XX.83/18, priorité absolue, classes de créanciers, valeur de réorganisation, DCF, meilleur intérêt des créanciers, Namur 23 janvier 2024
+resume: Le tribunal homologue un plan par classes que deux classes sur sept n'avaient
+  pas approuvé, dont celle de l'ONSS et du fisc. Il admet une valeur en activité calculée
+  par DCF, constate que la règle de la priorité absolue est enfreinte, mais accepte
+  d'y déroger parce que la seule alternative était la faillite.
+description: Entr. Liège (div. Namur), 23 janvier 2024 - Application forcée interclasse,
+  valeur en activité, priorité absolue et motifs raisonnables d'y déroger (art. XX.83/18
+  CDE)
+keywords: cram-down Belgique, application forcée interclasse, XX.83/18, priorité absolue,
+  classes de créanciers, valeur de réorganisation, DCF, meilleur intérêt des créanciers,
+  Namur 23 janvier 2024
+updated: '2026-10-30'
 ---
 # Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics
 

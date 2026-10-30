@@ -1,8 +1,13 @@
 ---
-description: Check-list d'intervention du professionnel du chiffre face à l'entreprise en difficulté, responsabilité pénale, civile et déontologique, bonnes pratiques de documentation.
-keywords: check-list insolvabilité ITAA, responsabilité expert-comptable faillite, complicité infraction réorganisation judiciaire, nouveau Code pénal 494, responsabilité civile comptable, documentation dossier
+description: Check-list d'intervention du professionnel du chiffre face à l'entreprise
+  en difficulté, responsabilité pénale, civile et déontologique, bonnes pratiques
+  de documentation.
+keywords: check-list insolvabilité ITAA, responsabilité expert-comptable faillite,
+  complicité infraction réorganisation judiciaire, nouveau Code pénal 494, responsabilité
+  civile comptable, documentation dossier
 public:
 - chiffre
+updated: '2026-10-30'
 ---
 # Check-list d'intervention et responsabilité
 

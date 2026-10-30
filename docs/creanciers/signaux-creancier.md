@@ -1,7 +1,11 @@
 ---
-description: "Repérer un client ou un emprunteur en difficulté : signaux d'alerte, protections contractuelles, suivi du risque et participation à un accord amiable."
-keywords: signaux d'alerte débiteur, client en difficulté, réserve de propriété, sûretés créancier, accord amiable créancier, prévention impayés entreprise
-public: [creancier]
+description: 'Repérer un client ou un emprunteur en difficulté : signaux d''alerte,
+  protections contractuelles, suivi du risque et participation à un accord amiable.'
+keywords: signaux d'alerte débiteur, client en difficulté, réserve de propriété, sûretés
+  créancier, accord amiable créancier, prévention impayés entreprise
+public:
+- creancier
+updated: '2026-10-30'
 ---
 # Repérer un débiteur fragile et vous protéger à temps
 

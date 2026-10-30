@@ -1,6 +1,10 @@
 ---
-description: Glossaire de la réorganisation judiciaire en Belgique - Définitions simples des termes du Livre XX (sursis, classes, cram-down, praticien, homologation)
-keywords: glossaire réorganisation judiciaire, termes PRJ belgique, définitions sursis, créancier sursitaire, cram-down, praticien de la réorganisation, homologation plan, vocabulaire Livre XX
+description: Glossaire de la réorganisation judiciaire en Belgique - Définitions simples
+  des termes du Livre XX (sursis, classes, cram-down, praticien, homologation)
+keywords: glossaire réorganisation judiciaire, termes PRJ belgique, définitions sursis,
+  créancier sursitaire, cram-down, praticien de la réorganisation, homologation plan,
+  vocabulaire Livre XX
+updated: '2026-10-30'
 ---
 # Glossaire de la réorganisation judiciaire
 

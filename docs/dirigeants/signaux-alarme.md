@@ -1,8 +1,12 @@
 ---
-description: "Signaux d'alarme d'une entreprise en difficulté - Indices financiers, opérationnels et humains, clignotants du tribunal et autodiagnostic pour le dirigeant"
-keywords: "signaux alarme entreprise, entreprise en difficulté indices, clignotants tribunal entreprise, registre central des clignotants économiques, autodiagnostic dirigeant, probabilité d'insolvabilité"
+description: Signaux d'alarme d'une entreprise en difficulté - Indices financiers,
+  opérationnels et humains, clignotants du tribunal et autodiagnostic pour le dirigeant
+keywords: signaux alarme entreprise, entreprise en difficulté indices, clignotants
+  tribunal entreprise, registre central des clignotants économiques, autodiagnostic
+  dirigeant, probabilité d'insolvabilité
 public:
 - dirigeant
+updated: '2026-10-30'
 ---
 # Les signaux d'alarme : reconnaître à temps une entreprise en difficulté
 

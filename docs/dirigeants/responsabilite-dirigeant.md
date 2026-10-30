@@ -1,8 +1,13 @@
 ---
-description: "Responsabilité du dirigeant d'une entreprise en PRJ - Activité sans issue XX.227, faute grave XX.225, aveu tardif, infractions pénales liées à la réorganisation et conseils de prudence"
-keywords: "responsabilité dirigeant réorganisation judiciaire, XX.227 activité sans issue, XX.225 faute grave et caractérisée, aveu tardif faillite, 490ter Code pénal, article 494 nouveau Code pénal, administrateur provisoire XX.49/1"
+description: Responsabilité du dirigeant d'une entreprise en PRJ - Activité sans issue
+  XX.227, faute grave XX.225, aveu tardif, infractions pénales liées à la réorganisation
+  et conseils de prudence
+keywords: responsabilité dirigeant réorganisation judiciaire, XX.227 activité sans
+  issue, XX.225 faute grave et caractérisée, aveu tardif faillite, 490ter Code pénal,
+  article 494 nouveau Code pénal, administrateur provisoire XX.49/1
 public:
 - dirigeant
+updated: '2026-10-30'
 ---
 # Votre responsabilité de dirigeant pendant et après une réorganisation
 

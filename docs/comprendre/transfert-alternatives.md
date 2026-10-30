@@ -1,10 +1,16 @@
 ---
-description: "Transfert sous autorité de justice (XX.84 et ss.), sort des travailleurs, faillite silencieuse (XX.97/1 à 97/6) et dissolution : les issues quand la réorganisation échoue."
-keywords: transfert sous autorité de justice, TAJ, article XX.84 CDE, praticien de la liquidation XX.85, offres XX.87, travailleurs repris CCT, Plessers Smallsteps Heiploeg, faillite silencieuse, préparation privée de faillite XX.97/1, pre-pack, dissolution judiciaire
+description: 'Transfert sous autorité de justice (XX.84 et ss.), sort des travailleurs,
+  faillite silencieuse (XX.97/1 à 97/6) et dissolution : les issues quand la réorganisation
+  échoue.'
+keywords: transfert sous autorité de justice, TAJ, article XX.84 CDE, praticien de
+  la liquidation XX.85, offres XX.87, travailleurs repris CCT, Plessers Smallsteps
+  Heiploeg, faillite silencieuse, préparation privée de faillite XX.97/1, pre-pack,
+  dissolution judiciaire
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # Transfert et autres issues
 

@@ -1,5 +1,6 @@
 ---
-title: "Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation"
+title: 'Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire
+  est devenu une procédure de liquidation'
 date: '2026-10-30'
 type: jurisprudence
 source:
@@ -15,9 +16,18 @@ articles_cde:
 - XX.84
 - XX.85
 - XX.97/1
-resume: L'arrêt Plessers a jugé que l'ancienne réorganisation par transfert ne permettait pas au repreneur de choisir les travailleurs qu'il reprend. Le législateur de 2023 a répondu en faisant du transfert sous autorité judiciaire une procédure distincte, à finalité de liquidation. L'arrêt Heiploeg éclaire les conditions de la faillite silencieuse.
-description: CJUE Plessers (C-509/17) et Heiploeg (C-237/20) - Directive 2001/23, droits des travailleurs et réforme du transfert sous autorité judiciaire (art. XX.84 CDE)
-keywords: arrêt Plessers, arrêt Heiploeg, transfert sous autorité judiciaire, directive 2001/23, maintien des droits des travailleurs, XX.84, procédure de liquidation, pre-pack faillite
+resume: L'arrêt Plessers a jugé que l'ancienne réorganisation par transfert ne permettait
+  pas au repreneur de choisir les travailleurs qu'il reprend. Le législateur de 2023
+  a répondu en faisant du transfert sous autorité judiciaire une procédure distincte,
+  à finalité de liquidation. L'arrêt Heiploeg éclaire les conditions de la faillite
+  silencieuse.
+description: CJUE Plessers (C-509/17) et Heiploeg (C-237/20) - Directive 2001/23,
+  droits des travailleurs et réforme du transfert sous autorité judiciaire (art. XX.84
+  CDE)
+keywords: arrêt Plessers, arrêt Heiploeg, transfert sous autorité judiciaire, directive
+  2001/23, maintien des droits des travailleurs, XX.84, procédure de liquidation,
+  pre-pack faillite
+updated: '2026-10-30'
 ---
 # Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation
 

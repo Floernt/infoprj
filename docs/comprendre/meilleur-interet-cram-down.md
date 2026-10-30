@@ -1,10 +1,14 @@
 ---
-description: "Critère du meilleur intérêt des créanciers, application forcée interclasse (cram-down, XX.83/18) et priorité absolue, avec un exemple chiffré simplifié."
-keywords: meilleur intérêt des créanciers, best interest test, cram-down belgique, application forcée interclasse XX.83/18, règle de la priorité absolue, new value exception, classe dans la monnaie, valeur de liquidation, valeur de réorganisation
+description: Critère du meilleur intérêt des créanciers, application forcée interclasse
+  (cram-down, XX.83/18) et priorité absolue, avec un exemple chiffré simplifié.
+keywords: meilleur intérêt des créanciers, best interest test, cram-down belgique,
+  application forcée interclasse XX.83/18, règle de la priorité absolue, new value
+  exception, classe dans la monnaie, valeur de liquidation, valeur de réorganisation
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # Meilleur intérêt et cram-down
 

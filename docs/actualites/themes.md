@@ -1,6 +1,9 @@
 ---
-description: "Les actualités de la réorganisation judiciaire classées par thème : sursis, PRJ privée, classes de créanciers, cram-down, transfert, fiscalité"
-keywords: réorganisation judiciaire thèmes, jurisprudence classes de créanciers, actualité sursis PRJ, transfert sous autorité de justice jurisprudence
+description: 'Les actualités de la réorganisation judiciaire classées par thème :
+  sursis, PRJ privée, classes de créanciers, cram-down, transfert, fiscalité'
+keywords: réorganisation judiciaire thèmes, jurisprudence classes de créanciers, actualité
+  sursis PRJ, transfert sous autorité de justice jurisprudence
+updated: '2026-10-30'
 ---
 # Les actualités par thème
 

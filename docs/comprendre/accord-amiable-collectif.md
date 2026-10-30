@@ -1,10 +1,14 @@
 ---
-description: "Accord amiable (XX.64) et plan collectif des PME en PRJ : contenu du plan, 20 % minimum, créanciers extraordinaires, 5 ans, double majorité, homologation."
-keywords: accord amiable réorganisation judiciaire, accord collectif PME, plan de réorganisation contenu XX.70/1, minimum 20 % XX.75/1, créanciers sursitaires extraordinaires XX.75/2, durée plan 5 ans XX.76, vote double majorité XX.78/2, homologation XX.79
+description: 'Accord amiable (XX.64) et plan collectif des PME en PRJ : contenu du
+  plan, 20 % minimum, créanciers extraordinaires, 5 ans, double majorité, homologation.'
+keywords: accord amiable réorganisation judiciaire, accord collectif PME, plan de
+  réorganisation contenu XX.70/1, minimum 20 % XX.75/1, créanciers sursitaires extraordinaires
+  XX.75/2, durée plan 5 ans XX.76, vote double majorité XX.78/2, homologation XX.79
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # Accord amiable et accord collectif
 

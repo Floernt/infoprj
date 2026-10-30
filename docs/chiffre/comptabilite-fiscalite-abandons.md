@@ -1,8 +1,12 @@
 ---
-description: Traitement comptable de l'abandon de créance après une PRJ, exonération temporaire et imposition étalée de l'article 48/1 CIR, conséquences pour le créancier.
-keywords: abandon de créance PRJ comptabilisation, produit non récurrent abattement, article 48/1 CIR loi 28 décembre 2023, réserve immunisée, réduction de valeur créance, TVA créance irrécouvrable
+description: Traitement comptable de l'abandon de créance après une PRJ, exonération
+  temporaire et imposition étalée de l'article 48/1 CIR, conséquences pour le créancier.
+keywords: abandon de créance PRJ comptabilisation, produit non récurrent abattement,
+  article 48/1 CIR loi 28 décembre 2023, réserve immunisée, réduction de valeur créance,
+  TVA créance irrécouvrable
 public:
 - chiffre
+updated: '2026-10-30'
 ---
 # Comptabilité et fiscalité des abandons de créances
 

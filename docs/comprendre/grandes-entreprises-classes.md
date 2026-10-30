@@ -1,10 +1,14 @@
 ---
-description: "PRJ des grandes entreprises : seuils et opt-in des PME (XX.83/1), classes de créanciers et de détenteurs de capital (XX.83/9), vote par classe (XX.83/14)."
-keywords: grandes entreprises réorganisation judiciaire, classes de créanciers, article XX.83/1 seuils, opt-in PME, entreprises liées, détenteurs de capital, constitution des classes XX.83/9, vote par classe XX.83/14, nouveau financement XX.83/17
+description: 'PRJ des grandes entreprises : seuils et opt-in des PME (XX.83/1), classes
+  de créanciers et de détenteurs de capital (XX.83/9), vote par classe (XX.83/14).'
+keywords: grandes entreprises réorganisation judiciaire, classes de créanciers, article
+  XX.83/1 seuils, opt-in PME, entreprises liées, détenteurs de capital, constitution
+  des classes XX.83/9, vote par classe XX.83/14, nouveau financement XX.83/17
 public:
-  - dirigeant
-  - creancier
-  - chiffre
+- dirigeant
+- creancier
+- chiffre
+updated: '2026-10-30'
 ---
 # Grandes entreprises et classes de créanciers
 

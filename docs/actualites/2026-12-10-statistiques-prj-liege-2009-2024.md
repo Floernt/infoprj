@@ -1,17 +1,27 @@
 ---
-title: "Réorganisations judiciaires dans le ressort de Liège : quinze ans de chiffres (2009-2024)"
+title: 'Réorganisations judiciaires dans le ressort de Liège : quinze ans de chiffres
+  (2009-2024)'
 date: '2026-12-10'
 type: pratique
 source:
-  publication: Statistiques du tribunal de l'entreprise de Liège, présentées par D. Gol, présidente de division (Études et Expansion)
+  publication: Statistiques du tribunal de l'entreprise de Liège, présentées par D.
+    Gol, présidente de division (Études et Expansion)
   date: '2025-02-20'
 themes:
 - statistiques
 - conditions-ouverture
 - transfert
-resume: Le tribunal de l'entreprise de Liège a enregistré 3.103 requêtes en réorganisation judiciaire publique ou en transfert entre 2009 et 2024. Après un pic de 350 requêtes en 2013, le nombre est tombé à 92 en 2021 avant de remonter légèrement, à 132 en 2024. La réforme de 2023 n'a pas, à ce stade, provoqué de rebond marqué.
-description: Nombre de requêtes en réorganisation judiciaire et en transfert au tribunal de l'entreprise de Liège de 2009 à 2024, par division - évolution et lecture des chiffres
-keywords: statistiques réorganisation judiciaire Liège, nombre de PRJ par an, tribunal de l'entreprise de Liège, requêtes PRJ Namur Neufchâteau, évolution réorganisation judiciaire 2009-2024, PRJ chiffres Wallonie
+resume: Le tribunal de l'entreprise de Liège a enregistré 3.103 requêtes en réorganisation
+  judiciaire publique ou en transfert entre 2009 et 2024. Après un pic de 350 requêtes
+  en 2013, le nombre est tombé à 92 en 2021 avant de remonter légèrement, à 132 en
+  2024. La réforme de 2023 n'a pas, à ce stade, provoqué de rebond marqué.
+description: Nombre de requêtes en réorganisation judiciaire et en transfert au tribunal
+  de l'entreprise de Liège de 2009 à 2024, par division - évolution et lecture des
+  chiffres
+keywords: statistiques réorganisation judiciaire Liège, nombre de PRJ par an, tribunal
+  de l'entreprise de Liège, requêtes PRJ Namur Neufchâteau, évolution réorganisation
+  judiciaire 2009-2024, PRJ chiffres Wallonie
+updated: '2026-10-30'
 ---
 # Réorganisations judiciaires dans le ressort de Liège : quinze ans de chiffres (2009-2024)
 

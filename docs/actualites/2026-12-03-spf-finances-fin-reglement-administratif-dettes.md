@@ -1,18 +1,29 @@
 ---
-title: "Dettes fiscales : le SPF Finances remplace le règlement administratif de dettes par un plan de paiement de douze mois"
+title: 'Dettes fiscales : le SPF Finances remplace le règlement administratif de dettes
+  par un plan de paiement de douze mois'
 date: '2026-12-03'
 type: pratique
 source:
-  publication: « Actualités et perspectives en droit de l'insolvabilité », séminaire HEC Liège
+  publication: « Actualités et perspectives en droit de l'insolvabilité », séminaire
+    HEC Liège
   date: '2026-02-23'
   reference: L. Stas de Richelle et C. Delbouille, HEC Liège
 themes:
 - creanciers-publics
 - prevention
 - accord-amiable
-resume: Depuis le 1er octobre 2025, le règlement administratif de dettes du SPF Finances n'existe plus. L'entreprise qui ne peut pas payer sa dette fiscale doit désormais demander à l'équipe de recouvrement compétente un plan de paiement de douze mois, renouvelable. Pour une dette importante, ce plan peut laisser un solde élevé à négocier à son terme.
-description: Suppression du règlement administratif de dettes (SPF Finances) au 1er octobre 2025 - nouveau plan de paiement de 12 mois renouvelable et articulation avec les outils du Livre XX
-keywords: règlement administratif de dettes supprimé, plan de paiement SPF Finances, dette fiscale entreprise difficulté, team recouvrement, plan de paiement 12 mois, accord amiable chambre des entreprises en difficulté
+resume: Depuis le 1er octobre 2025, le règlement administratif de dettes du SPF Finances
+  n'existe plus. L'entreprise qui ne peut pas payer sa dette fiscale doit désormais
+  demander à l'équipe de recouvrement compétente un plan de paiement de douze mois,
+  renouvelable. Pour une dette importante, ce plan peut laisser un solde élevé à négocier
+  à son terme.
+description: Suppression du règlement administratif de dettes (SPF Finances) au 1er
+  octobre 2025 - nouveau plan de paiement de 12 mois renouvelable et articulation
+  avec les outils du Livre XX
+keywords: règlement administratif de dettes supprimé, plan de paiement SPF Finances,
+  dette fiscale entreprise difficulté, team recouvrement, plan de paiement 12 mois,
+  accord amiable chambre des entreprises en difficulté
+updated: '2026-10-30'
 ---
 # Dettes fiscales : le SPF Finances remplace le règlement administratif de dettes par un plan de paiement de douze mois
 

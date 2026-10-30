@@ -1,6 +1,10 @@
 ---
-description: Ressources officielles et organismes utiles pour la réorganisation judiciaire en Belgique - Textes légaux, Regsol, tribunaux, ITAA, IRE, accompagnement
-keywords: ressources réorganisation judiciaire, Regsol, Livre XX Code de droit économique texte, directive 2019/1023, chambre des entreprises en difficulté, ITAA, IRE, aide entreprises en difficulté
+description: Ressources officielles et organismes utiles pour la réorganisation judiciaire
+  en Belgique - Textes légaux, Regsol, tribunaux, ITAA, IRE, accompagnement
+keywords: ressources réorganisation judiciaire, Regsol, Livre XX Code de droit économique
+  texte, directive 2019/1023, chambre des entreprises en difficulté, ITAA, IRE, aide
+  entreprises en difficulté
+updated: '2026-10-30'
 ---
 # Ressources et organismes utiles
 

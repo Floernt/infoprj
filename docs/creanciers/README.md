@@ -1,7 +1,11 @@
 ---
-description: "Créancier d'une entreprise en réorganisation judiciaire : sursis, montant de votre créance, vote du plan, recours et moyens d'action en droit belge."
-keywords: créancier réorganisation judiciaire, PRJ créancier, sursis créancier, vote plan de réorganisation, créancier sursitaire, Livre XX CDE
-public: [creancier]
+description: 'Créancier d''une entreprise en réorganisation judiciaire : sursis, montant
+  de votre créance, vote du plan, recours et moyens d''action en droit belge.'
+keywords: créancier réorganisation judiciaire, PRJ créancier, sursis créancier, vote
+  plan de réorganisation, créancier sursitaire, Livre XX CDE
+public:
+- creancier
+updated: '2026-10-30'
 ---
 # Je suis créancier d'une entreprise en réorganisation
 
