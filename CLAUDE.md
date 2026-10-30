@@ -31,7 +31,7 @@ Site documentaire **La réorganisation judiciaire en Belgique** (infoprj.be), si
 - [data/themes.yml](data/themes.yml) — taxonomie des thèmes et rattachement aux pages du guide (non publiée).
 - [docs/stylesheets/extra.css](docs/stylesheets/extra.css) — identité visuelle : palette « Fresh Greens » Hunter Green `#386641` (structure), Blushed Brick `#bc4749` (accent), Sage `#6a994e` (liens, assombri `#4a7232` pour le texte), Yellow Green `#a7c957` (touches, jamais du texte), Champagne Mist `#f2e8cf` (fonds doux) ; police Albert Sans. Variantes de tuiles : `ifa-tile--brick`, `--sage`, `--hunter`, `--lime`.
 - [logo/](logo/) — logo info·prj généré par [logo/make_logo.py](logo/make_logo.py) (voir [logo/README.md](logo/README.md)).
-- Statistiques (Clicky) : non activées tant qu'un identifiant propre au site n'a pas été créé (ne pas réutiliser celui d'infofaillite).
+- Statistiques : Clicky, site `101514196` (distinct d'infofaillite), **sans cookie** (`clicky_custom.cookies_disable`) dans [docs/javascripts/clicky.js](docs/javascripts/clicky.js) ; mention dans [docs/a-propos.md](docs/a-propos.md#statistiques). Pas de Google Analytics : il imposerait un bandeau de consentement. Search Console : propriété « Domaine » vérifiée par DNS TXT ; sitemap déclaré dans [docs/robots.txt](docs/robots.txt).
 
 ## Navigation
 

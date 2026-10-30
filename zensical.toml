@@ -121,7 +121,7 @@ extra_css = ["stylesheets/extra.css"]
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-extra_javascript = ["javascripts/schema.js", "javascripts/actualites.js", "javascripts/faq.js"]
+extra_javascript = ["javascripts/clicky.js", "javascripts/schema.js", "javascripts/actualites.js", "javascripts/faq.js"]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options

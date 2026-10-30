@@ -77,6 +77,12 @@ La législation et la jurisprudence évoluent. Avant d'agir sur une situation pr
 
 ---
 
+## Statistiques de fréquentation { #statistiques }
+
+Pour savoir quelles pages sont lues et lesquelles mériteraient d'être améliorées, je mesure l'audience du site avec [Clicky](https://clicky.com/), configuré sans cookie et avec anonymisation des adresses IP. Aucun cookie de mesure n'est déposé sur votre appareil, aucun profil n'est constitué, et les statistiques ne servent à rien d'autre qu'à faire évoluer le guide. Elles ne sont ni revendues ni utilisées à des fins publicitaires ou de prospection.
+
+---
+
 ## Utilisation du contenu
 
 Le contenu d'infoprj.be est librement consultable et peut être cité. Toute reproduction ou citation doit mentionner la source : **infoprj.be**.
