@@ -35,7 +35,7 @@ L'expert-comptable ou le réviseur d'entreprises qui a informé le débiteur de 
 |---|---|---|---|
 | 1 mois | Communication écrite au débiteur | Le professionnel du chiffre peut communiquer ses constatations au président du tribunal | Art. XX.23, § 3 |
 | 12 mois | Horizon d'appréciation | Continuité minimale que les mesures prises doivent permettre d'assurer | Art. XX.23, § 3 |
-| 8 mois | Désignation du juge rapporteur | Fin de l'examen et rapport, prorogeable jusqu'à 10 mois | Art. XX.28 |
+| 8 mois | Désignation du juge rapporteur | Fin de l'examen et rapport ; la chambre peut prolonger l'examen pour une durée de 10 mois au plus | Art. XX.28 |
 | 18 mois | Début de l'examen | Durée maximale de l'examen mené par la chambre elle-même | Art. XX.28 |
 
 ### Les mesures provisoires

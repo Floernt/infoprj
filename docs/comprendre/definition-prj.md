@@ -14,7 +14,7 @@ La procédure de réorganisation judiciaire (PRJ) permet à une entreprise dont 
 
 ## L'objectif : préserver la continuité { #objectif }
 
-L'objectif de la procédure se lit à travers la condition d'ouverture (la continuité menacée), de ce que le débiteur doit exposer dans sa requête et des trois voies qu'il peut emprunter. Le débiteur indique dans sa requête « l'objectif » pour lequel il sollicite l'ouverture de la procédure (art. XX.41, § 2, 2°). Depuis la réforme de 2023, cet objectif est l'un des deux suivants.
+L'objectif de la procédure se lit à travers la condition d'ouverture (la continuité menacée), ce que le débiteur doit exposer dans sa requête et les voies qu'il peut emprunter. Le débiteur indique dans sa requête « l'objectif » pour lequel il sollicite l'ouverture de la procédure (art. XX.41, § 2, 2°). Depuis la réforme de 2023, cet objectif est l'un des deux suivants.
 
 Le premier est la conclusion d'un **accord amiable** avec un ou plusieurs créanciers, « en vue de l'assainissement de sa situation financière ou de la réorganisation de son entreprise » (art. XX.64). Le second est l'obtention de l'accord des créanciers, et le cas échéant des détenteurs de capital, sur un **plan de réorganisation** collectif (art. XX.67 pour les PME, art. XX.83/3 pour les grandes entreprises). Les deux voies sont décrites dans la page [Accord amiable et accord collectif](accord-amiable-collectif.md).
 

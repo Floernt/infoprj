@@ -69,7 +69,7 @@ La même logique vaut pour la fermeture d'une branche d'activité ou d'un établ
 
 En pratique, le passage en discontinuité modifie surtout quatre zones du bilan. Les immobilisations incorporelles et les frais activés disparaissent, sauf actif réellement cessible (une clientèle, un droit au bail, une marque). Les immobilisations corporelles sont ramenées à une valeur de réalisation à dire d'expert, parfois supérieure à la valeur comptable pour un immeuble ancien. Les stocks et les en-cours sont évalués en valeur liquidative, souvent très faible pour des en-cours de fabrication ou des produits spécifiques. Au passif apparaissent des provisions qui n'existaient pas en continuité : préavis et indemnités du personnel, pénalités de rupture de contrats, remise en état d'un site, restitution d'acomptes, indemnités de résiliation de leasing. La règle joue dans les deux sens : une sous-évaluation manifeste induirait aussi les associés en erreur.
 
-Ce bilan en discontinuité n'est pas qu'un exercice d'école. C'est la base du scénario de liquidation auquel se mesure le [critère du meilleur intérêt des créanciers](valorisation-meilleur-interet.md#valeur-liquidation), et il éclaire la décision de l'organe d'administration entre réorganisation, cession et cessation.
+Ce bilan en discontinuité a une portée pratique : il sert de base au scénario de liquidation auquel se mesure le [critère du meilleur intérêt des créanciers](valorisation-meilleur-interet.md#valeur-liquidation), et il éclaire la décision de l'organe d'administration entre réorganisation, cession et cessation.
 
 ---
 

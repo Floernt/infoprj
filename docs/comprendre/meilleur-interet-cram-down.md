@@ -75,7 +75,7 @@ Une PME de vingt travailleurs, la SRL ABC, a choisi le régime des classes dans 
 
 ### Les propositions du plan
 
-Le plan prévoit le paiement intégral, sur trois ans, de la partie garantie des créances des classes 1 et 2 (350 et 60) ; le paiement de 80 % du principal de la classe 3 sur cinq ans (240) ; le paiement de 60 % de la classe 4 (180). Le total des paiements s'élève à 830, pour une trésorerie disponible de 950 : le débiteur conserve une marge de prudence d'environ 15 %.
+Le plan prévoit le paiement intégral, sur trois ans, de la partie garantie des créances des classes 1 et 2 (350 et 60) ; le paiement de 80 % du principal de la classe 3 sur cinq ans (240) ; le paiement de 60 % de la classe 4 (180). Le total des paiements s'élève à 830, pour une trésorerie disponible de 950 : le débiteur conserve une marge de prudence de 120, soit environ 13 % de la trésorerie disponible.
 
 ### Le meilleur intérêt est respecté
 
@@ -91,7 +91,7 @@ La classe 3, dissidente, n'est pas intégralement payée (240 sur une créance d
 
 ### La dérogation peut-elle être admise ?
 
-Le débiteur devra démontrer des motifs raisonnables de déroger et l'absence de lésion manifeste de la classe 3. Il pourra faire valoir que la seule alternative est la faillite, dans laquelle la classe 3 recevrait 90 au lieu de 240 ; que l'activité et les vingt emplois ont de bonnes chances d'être préservés, ce qui assurera aux créanciers publics des cotisations et des impôts futurs ; qu'il consacre environ 85 % de sa trésorerie disponible au remboursement des créanciers ; et que le SPF Finances, membre de la même classe, a voté pour le plan. Le tribunal appréciera au cas par cas. Si la trésorerie disponible avait permis de payer beaucoup plus la classe 3 sans compromettre le plan, la dérogation aurait été plus difficile à justifier.
+Le débiteur devra démontrer des motifs raisonnables de déroger et l'absence de lésion manifeste de la classe 3. Il pourra faire valoir que la seule alternative est la faillite, dans laquelle la classe 3 recevrait 90 au lieu de 240 ; que l'activité et les vingt emplois ont de bonnes chances d'être préservés, ce qui assurera aux créanciers publics des cotisations et des impôts futurs ; qu'il consacre environ 87 % de sa trésorerie disponible au remboursement des créanciers ; et que le SPF Finances, membre de la même classe, a voté pour le plan. Le tribunal appréciera au cas par cas. Si la trésorerie disponible avait permis de payer beaucoup plus la classe 3 sans compromettre le plan, la dérogation aurait été plus difficile à justifier.
 
 !!! note "Ce que montre l'exemple"
     Le meilleur intérêt et la priorité absolue ne mesurent pas la même chose. Le premier compare chaque créancier dissident à une faillite et se mesure à la valeur de liquidation (500). La seconde vérifie la répartition entre classes de la valeur que le plan crée et se mesure à la valeur de réorganisation (950). Un plan peut satisfaire le premier et enfreindre la seconde.

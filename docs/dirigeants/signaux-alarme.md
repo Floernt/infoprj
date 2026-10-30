@@ -77,7 +77,7 @@ Prenons une PME de construction qui laisse filer deux trimestres de TVA, puis en
 
 L'expert-comptable, l'expert-comptable fiscaliste et le réviseur d'entreprises qui constatent des faits graves et concordants révélant une probabilité d'insolvabilité doivent vous en informer par écrit et de manière circonstanciée. Si, dans le mois, ils estiment que les mesures prises ne sont pas de nature à assurer la continuité pendant au moins douze mois, ils peuvent communiquer leurs constatations au président du tribunal de l'entreprise, sans violer leur secret professionnel (art. XX.23, § 3 CDE).
 
-Recevoir une telle lettre n'est pas une sanction : c'est un signal qu'il faut prendre au sérieux, et une occasion de construire avec votre comptable un plan d'action. Voir [le devoir d'alerte du professionnel du chiffre](../chiffre/alerte-xx23.md).
+Une telle lettre ne sanctionne rien ; elle signale un risque qu'il faut prendre au sérieux et offre l'occasion de construire avec votre comptable un plan d'action. Voir [le devoir d'alerte du professionnel du chiffre](../chiffre/alerte-xx23.md).
 
 ---
 

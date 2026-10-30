@@ -54,7 +54,7 @@ L'administrateur écrit au président de la chambre en invoquant une probabilit�
 
 ## La médiation d'entreprise (art. XX.29/2) { #mediation }
 
-Lorsque les créanciers sont plus nombreux ou que leurs intérêts divergent, un tiers peut débloquer la négociation. À votre demande, la chambre peut désigner un **praticien de la réorganisation** « en vue de faciliter le redressement de l'entreprise » (art. XX.29/2, § 1er). Ce praticien est choisi en fonction de ses qualités et des nécessités de la cause, qui doit offrir des garanties de compétence, d'expérience, d'indépendance et d'impartialité (art. XX.20/1).
+Lorsque les créanciers sont plus nombreux ou que leurs intérêts divergent, un tiers peut débloquer la négociation. À votre demande, la chambre peut désigner un **praticien de la réorganisation** « en vue de faciliter le redressement de l'entreprise » (art. XX.29/2, § 1er). Ce praticien est choisi en fonction de ses qualités et selon les nécessités de la cause ; il doit offrir des garanties de compétence, d'expérience, d'indépendance et d'impartialité (art. XX.20/1).
 
 **La mission.** La chambre fixe, par ordonnance rendue en chambre du conseil, l'étendue et la durée de la mission. Le praticien réunit les créanciers, structure une proposition et fait rapport.
 

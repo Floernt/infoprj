@@ -73,7 +73,6 @@ Point tranché à la lecture du texte : XX.83/14 n'exige, dans chaque classe, qu
 - faq/README.md — XX.75 : exclusion de la conversion en actions rendue par « certaines entités publiques » — interprétation du renvoi à l'art. I.1, 1°, al. 2, c).
 - faq/README.md, chiffres.md — « délai de 6 mois avant 2023 », moratoire des faillites en 2020-2021, « plus de dix mille faillites par an » — Lebeau, infofaillite, connaissance générale.
 - chiffres.md — origine des chiffres nationaux de Lebeau inconnue ; LCE entrée en vigueur en cours d'année 2009 ; astérisque « 66* » (Liège 2024) non expliqué.
-- delais.md — XX.3, al. 2, écarterait la prorogation des délais pendant les vacances judiciaires (art. 50, al. 2, C. jud.) — cité de mémoire.
 - ressources.md — Sowalfin et son Centre pour Entreprises en difficulté, 1819, Dyzo, UCM — noms à confirmer ; liste des divisions du TE Liège déduite des statistiques.
 - glossaire.md — nom officiel de l'ITAA — de mémoire.
 - a-propos.md — directive (UE) 2026/799 « Insolvabilité III » — reprise de la page à propos d'infofaillite.
@@ -92,3 +91,16 @@ Point tranché à la lecture du texte : XX.83/14 n'exige, dans chaque classe, qu
 - comprendre/grandes-entreprises-classes.md — base de calcul du vote présentée comme incertaine ; caractère définitif de l'opt-in fondé sur l'exposé des motifs cité par TEBW.
 - comprendre/prj-publique.md — sanction pénale rattachée à l'art. 494 du nouveau Code pénal (actualité infofaillite du 26.11.2026).
 - comprendre/prj-privee.md — articulation des alinéas 2 et 3 de l'art. XX.83/22 § 4 signalée comme peu claire.
+
+## Relecture croisée
+
+- comprendre/accord-amiable-collectif.md — citation d'un jugement « Entr. Gand, div. Gand, 18.7.2025, Q/25/0009 » (3 voix pour, 3 contre) retirée : introuvable dans les sources. À rétablir seulement si la référence est confirmée.
+- comprendre/transfert-alternatives.md — dissolution judiciaire de la société qui ne répond pas aux convocations de la chambre (art. 2:74 CSA) — hors plage, non vérifié.
+- chiffre/alerte-xx23.md, chiffre/valorisation-meilleur-interet.md — « À mon estime », « À mon sens » : première personne dans des pages de fond — choix éditorial à confirmer.
+- comprendre/grandes-entreprises-classes.md — note du Centre belge du droit des sociétés (vote à hauteur de l'apport historique) — connue seulement par LEXDURA et TEBW, non datée.
+- faq/README.md, comprendre/accord-amiable-collectif.md, comprendre/prj-privee.md — XX.38 § 2, XX.65 § 2 et XX.83/30 § 2 écartent « l'article 8.22 du Code civil » (date certaine), XX.111, 2° et 3°, et XX.112. La FAQ parlait d'« action paulienne » (corrigé selon le texte). À vérifier : le renvoi d'origine visait-il l'ancien art. 1167 C. civ. (action paulienne, aujourd'hui art. 5.243), auquel cas le renvoi à 8.22 serait une erreur de renumérotation ?
+- chiffres.md — chiffres régionaux 2025 repris d'infofaillite (11.665 faillites, + 5,4 % ; Flandre + 6,6 %, Bruxelles + 13,6 %, Wallonie − 2,9 %), non confrontés directement à Statbel ; les pourcentages du support HEC 2026 ont été écartés.
+- a-propos.md — photo hébergée sur avroy.be (reprise du modèle) — à valider.
+- creanciers/signaux-creancier.md — grille de signaux attribuée nommément à « l'équipe de restructuration d'ING » — maintenir ou anonymiser ?
+- faq/README.md — suppression en 2023 de la prorogation du sursis « pour circonstances exceptionnelles » — affirmée de mémoire ; le texte consolidé montre seulement des passages supprimés dans XX.59.
+- delais.md, dirigeants/chambre-entreprises-difficulte.md — XX.28 : prolongation de 10 mois au plus (lecture retenue) ou durée totale de 10 mois ?

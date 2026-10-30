@@ -59,7 +59,7 @@ Le débiteur peut aussi s'adresser à elle de sa propre initiative. S'il estime 
 
 Oui. Le débiteur peut proposer à un ou plusieurs de ses créanciers un accord amiable en vue de réorganiser tout ou partie de ses actifs ou de ses activités ; les parties en fixent librement le contenu, qui n'oblige pas les tiers (article XX.37 du CDE).
 
-Cet accord peut être homologué par le président du tribunal, sur requête contradictoire (article XX.38). L'homologation n'est pas publiée et met l'accord et les actes accomplis en exécution de celui-ci à l'abri de l'action paulienne et de certaines inopposabilités de la période suspecte en cas de faillite ultérieure. Le président refuse l'homologation si le débiteur n'a manifestement pas de perspective de viabilité économique. La limite tient à l'absence de sursis : les créanciers qui ne sont pas parties à l'accord conservent tous leurs droits.
+Cet accord peut être homologué par le président du tribunal, sur requête contradictoire (article XX.38). L'homologation n'est pas publiée. Une fois l'accord homologué, ni l'article 8.22 du Code civil ni certaines inopposabilités de la période suspecte en cas de faillite ultérieure (articles XX.111, 2° et 3°, et XX.112) ne s'appliquent à l'accord et aux actes accomplis en exécution de celui-ci (article XX.38, § 2). Le président refuse l'homologation si le débiteur n'a manifestement pas de perspective de viabilité économique. La limite tient à l'absence de sursis : les créanciers qui ne sont pas parties à l'accord conservent tous leurs droits.
 
 [Pour aller plus loin : accord amiable et accord collectif](../comprendre/accord-amiable-collectif.md){ .ifa-more }
 
@@ -243,7 +243,7 @@ Elle commence par la désignation, par le président du tribunal, d'un praticien
 
 Pas de sursis général, mais une protection ciblée. Le praticien de la réorganisation peut demander au président du tribunal, par requête contradictoire, d'accorder le sursis à l'égard de créanciers qu'il désigne nommément ; le président en fixe la durée, qui ne peut dépasser quatre mois, et peut y mettre fin à tout moment (article XX.83/24 du CDE). Les autres créanciers conservent leurs droits, y compris celui de saisir ou de citer le débiteur en faillite.
 
-L'accord amiable conclu dans ce cadre et les actes accomplis en exécution de celui-ci échappent par ailleurs à l'action paulienne et à certaines inopposabilités de la période suspecte en cas de faillite ultérieure (article XX.83/30, § 2). Un plan collectif homologué ne lie que les créanciers et détenteurs de capital auxquels il a été notifié (article XX.83/40).
+L'accord amiable conclu dans ce cadre et les actes accomplis en exécution de celui-ci échappent par ailleurs à l'article 8.22 du Code civil et à certaines inopposabilités de la période suspecte en cas de faillite ultérieure (articles XX.111, 2° et 3°, et XX.112, par renvoi de l'article XX.83/30, § 2). Un plan collectif homologué ne lie que les créanciers et détenteurs de capital auxquels il a été notifié (article XX.83/40).
 
 [Pour aller plus loin : la PRJ privée](../comprendre/prj-privee.md){ .ifa-more }
 

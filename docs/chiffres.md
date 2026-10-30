@@ -39,7 +39,7 @@ Le même exposé de juin 2023 livre un chiffre plus sévère, portant sur les PR
 | Au cours de la deuxième année | environ 25 % |
 | Au cours de la troisième année | environ 10 % |
 
-Ce taux appelle deux précautions. D'abord, il compte comme « disparue » l'entreprise qui a fait l'objet d'une PRJ par transfert sous autorité judiciaire : la société débitrice disparaît, mais l'activité, et souvent une partie de l'emploi, se poursuivent chez le repreneur. Le taux de disparition des entreprises surestime donc la disparition des activités. Ensuite, la période étudiée (2009-2017) relève de l'ancienne loi relative à la continuité des entreprises puis des débuts du Livre XX ; la réforme de 2023, qui a raccourci le sursis et ouvert de nouvelles voies plus précoces, n'est pas encore mesurée.
+Ce taux appelle deux précautions. D'abord, il compte comme « disparue » l'entreprise qui a fait l'objet d'une PRJ par transfert sous autorité judiciaire : la société débitrice disparaît, mais l'activité, et souvent une partie de l'emploi, se poursuivent chez le repreneur. Le taux de disparition des entreprises surestime donc la disparition des activités. Ensuite, la période étudiée (2009-2017) relève entièrement de l'ancienne loi relative à la continuité des entreprises, le Livre XX n'étant entré en vigueur que le 1er mai 2018 ; la réforme de 2023, qui a raccourci le sursis et ouvert de nouvelles voies plus précoces, n'est pas encore mesurée.
 
 Ce chiffre ne permet pas de conclure que la procédure est inefficace en soi. Il rejoint surtout un constat que font les praticiens : une procédure introduite trop tard arrive dans une entreprise déjà vidée de sa substance. Voir [les signaux d'alarme](dirigeants/signaux-alarme.md).
 
@@ -77,7 +77,7 @@ Ces chiffres portent sur des **requêtes**, et non sur des procédures effective
 
 ## Le contexte : les faillites en 2025
 
-Les statistiques de Statbel pour l'année 2025 font état d'un niveau record de faillites en Belgique. Par rapport à 2024, le nombre de faillites a progressé de 5,75 % en Flandre, de 12,06 % à Bruxelles et de 4,03 % en Wallonie. Les secteurs les plus touchés sont la construction, les activités spécialisées, scientifiques et techniques, et le transport et la logistique.
+Selon le bilan publié par Statbel le 16 janvier 2026, les tribunaux de l'entreprise ont prononcé 11.665 faillites en 2025, soit 5,4 % de plus qu'en 2024 et le niveau le plus élevé depuis 2013. La hausse est inégale : + 6,6 % en Région flamande, + 13,6 % en Région de Bruxelles-Capitale, mais - 2,9 % en Région wallonne. Les secteurs les plus touchés sont la construction, les activités spécialisées, scientifiques et techniques, et le transport et la logistique.
 
 La tendance s'est poursuivie au début de 2026. Après trois mois, le nombre de faillites enregistrées constituait un record dans trois secteurs :
 

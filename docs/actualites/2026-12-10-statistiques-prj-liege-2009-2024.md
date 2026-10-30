@@ -51,7 +51,7 @@ La comparaison avec les faillites est néanmoins parlante. En 2025, la Belgique 
 
 ## Ce qu'il faut en retenir
 
-Pour un dirigeant, la réorganisation judiciaire n'est pas une procédure réservée à quelques dossiers exceptionnels : elle reste utilisée chaque année par plus d'une centaine d'entreprises dans ce seul ressort, et la réforme de 2023 a élargi la palette des outils disponibles avant d'en arriver à la procédure publique. Ces outils sont présentés dans [La boîte à outils du Livre XX](../comprendre/boite-a-outils.md). D'autres données chiffrées sont rassemblées dans la page [Chiffres](../chiffres.md).
+Pour un dirigeant, la réorganisation judiciaire reste une procédure courante : plus d'une centaine d'entreprises y recourent chaque année dans ce seul ressort, et la réforme de 2023 a élargi la palette des outils disponibles avant d'en arriver à la procédure publique. Ces outils sont présentés dans [La boîte à outils du Livre XX](../comprendre/boite-a-outils.md). D'autres données chiffrées sont rassemblées dans la page [Chiffres](../chiffres.md).
 
 *Chiffres du tribunal de l'entreprise de Liège présentés par D. Gol, présidente de division, le 20 février 2025 (Études et Expansion), repris par L. Stas de Richelle et C. Delbouille, « Actualités en restructuration des entreprises », HEC Liège, 10 mars 2025.*
 

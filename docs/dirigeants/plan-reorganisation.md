@@ -89,7 +89,7 @@ Le contrôle du tribunal porte sur les formes, l'ordre public et l'absence d'« 
 
 À la demande de tout intéressé, le tribunal peut en outre refuser l'homologation si le plan n'offre manifestement pas une perspective raisonnable d'éviter la faillite ou de garantir la viabilité de l'entreprise (art. XX.79, § 4, al. 3). Il ne fait pas lui-même l'analyse économique : c'est au plan et à ses annexes de la fournir.
 
-Illustrons. Une PME prévoit sur cinq ans une trésorerie disponible cumulée de 950 après investissements et charges courantes. Elle propose de consacrer 830 au remboursement des créanciers sursitaires et conserve une marge de prudence d'environ 15 % pour absorber les aléas. C'est ce type de raisonnement, chiffré et assorti d'une marge explicite, que les juges délégués s'attendent à trouver : l'effort demandé aux créanciers correspond à l'essentiel de ce que l'entreprise peut raisonnablement dégager. Exemple simplifié, en milliers d'euros.
+Illustrons. Une PME prévoit sur cinq ans une trésorerie disponible cumulée de 950 après investissements et charges courantes. Elle propose de consacrer 830 au remboursement des créanciers sursitaires et conserve une marge de prudence de 120, soit environ 13 % de la trésorerie disponible, pour absorber les aléas. C'est ce type de raisonnement, chiffré et assorti d'une marge explicite, que les juges délégués s'attendent à trouver : l'effort demandé aux créanciers correspond à l'essentiel de ce que l'entreprise peut raisonnablement dégager. Exemple simplifié, en milliers d'euros.
 
 Quelques règles de bon sens :
 

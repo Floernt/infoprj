@@ -14,7 +14,7 @@ Autour de l'entreprise en difficulté et de ses créanciers gravitent plusieurs 
 
 ## Le tribunal de l'entreprise
 
-Le tribunal de l'entreprise est la juridiction de l'insolvabilité. Il ouvre la PRJ publique, proroge le sursis, statue sur les contestations de créances, homologue l'accord ou le plan, ordonne la fin anticipée et, le cas échéant, prononce la faillite. Dans la PRJ privée, c'est son président qui désigne le praticien de la réorganisation et accorde un éventuel sursis ciblé (art. XX.83/22 et XX.83/24) ; c'est aussi le président, statuant comme en référé, qui ordonne les mesures provisoires (art. XX.30 et XX.32).
+Le tribunal de l'entreprise est la juridiction de l'insolvabilité. Il ouvre la PRJ publique, proroge le sursis, statue sur les contestations de créances, homologue l'accord ou le plan, ordonne la fin anticipée et, le cas échéant, prononce la faillite. Dans la PRJ privée, c'est son président qui désigne le praticien de la réorganisation et accorde un éventuel sursis ciblé (art. XX.83/22 et XX.83/24) ; c'est aussi le président qui ordonne les mesures provisoires, selon les formes du référé pour la désignation d'un praticien (art. XX.30), sur requête unilatérale ou d'office pour le dessaisissement (art. XX.32).
 
 ---
 

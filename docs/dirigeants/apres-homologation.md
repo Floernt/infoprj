@@ -6,7 +6,7 @@ public:
 ---
 # Après l'homologation : exécuter le plan sans faux pas
 
-L'homologation du plan est un soulagement, pas une fin. Le jugement clôture la procédure de réorganisation (art. XX.79, § 5 CDE), mais il ouvre une période qui peut durer jusqu'à cinq ans, pendant laquelle vous devrez payer chaque échéance du plan tout en honorant les dettes nouvelles. Un plan mal exécuté peut être révoqué, et les créanciers retrouvent alors l'intégralité de leurs droits. Cette page décrit ce que l'homologation change, ce qu'elle ne change pas et comment éviter la révocation.
+L'homologation du plan apporte un soulagement, mais le travail continue. Le jugement clôture la procédure de réorganisation (art. XX.79, § 5 CDE), mais il ouvre une période qui peut durer jusqu'à cinq ans, pendant laquelle vous devrez payer chaque échéance du plan tout en honorant les dettes nouvelles. Un plan mal exécuté peut être révoqué, et les créanciers retrouvent alors l'intégralité de leurs droits. Cette page décrit ce que l'homologation change, ce qu'elle ne change pas et comment éviter la révocation.
 
 ---
 
@@ -80,7 +80,7 @@ La révocation ouvre aussi la voie à un transfert sous autorité judiciaire sur
 
 Les réductions de dettes consenties par le plan ont des conséquences dans vos comptes. En pratique, la partie abandonnée est extournée et comptabilisée comme un produit non récurrent, à la date de l'homologation pour un plan collectif ou à la date du constat de l'accord pour un accord amiable. Le solde restant dû est réparti entre dettes à plus d'un an et à un an au plus selon l'échéancier du plan. Vos fonds propres et vos ratios s'en trouvent mécaniquement améliorés.
 
-Sur le plan fiscal, l'article 48/1 du Code des impôts sur les revenus exonère, selon des modalités fixées par arrêté royal, les bénéfices résultant de ces réductions de passif lorsqu'elles découlent d'un accord amiable constaté ou d'un plan homologué dans le cadre de la réorganisation judiciaire, jusqu'à l'exécution intégrale de l'accord ou du plan. Les conditions précises, et ce qui se passe en cas de révocation, sont expliquées dans [comptabilité et fiscalité des abandons](../chiffre/comptabilite-fiscalite-abandons.md). Associez votre expert-comptable dès la rédaction du plan.
+Sur le plan fiscal, l'article 48/1 du Code des impôts sur les revenus exonère, selon des modalités fixées par arrêté royal, les bénéfices résultant de ces réductions de passif lorsqu'elles découlent d'un accord amiable constaté ou d'un plan homologué dans le cadre de la réorganisation judiciaire, jusqu'à l'exécution intégrale de l'accord ou du plan. Depuis la loi du 28 décembre 2023, cette exonération n'est plus définitive : le montant exonéré est ensuite repris dans la base imposable par quarts, de la troisième à la sixième période imposable qui suivent l'exécution intégrale, ce qui crée une charge fiscale différée à prévoir dans votre trésorerie au-delà de la durée du plan. Les conditions précises, et ce qui se passe en cas de révocation, sont expliquées dans [comptabilité et fiscalité des abandons](../chiffre/comptabilite-fiscalite-abandons.md). Associez votre expert-comptable dès la rédaction du plan.
 
 ---
 

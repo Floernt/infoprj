@@ -66,13 +66,13 @@ Règles : ne jamais éditer à la main le contenu entre `<!-- actualites:auto:st
 ## Workflow
 
 - Commits courts et descriptifs en français.
-- **Journaliser** les modifications de fond dans [log.md](log.md) avec le préfixe `## [YYYY-MM-DD] <type> | <titre>`.
+- **Journaliser** les modifications de fond dans [LOG.md](LOG.md) avec le préfixe `## [YYYY-MM-DD] <type> | <titre>`.
 - **Avant chaque build ou commit de contenu** : `python scripts/inject_git_dates.py` (mode `--check` pour CI).
 - Tests : `.venv/Scripts/python.exe -m pytest`.
 
 ## Passes éditoriales (relecture / enrichissement)
 
-Mêmes règles qu'infofaillite : pas de spec ni de plan pour une passe de relecture ; modifier directement les Markdown ; une question ciblée seulement si la demande est vraiment ambiguë ; un commit court par modification cohérente ; après une passe multi-fichiers, `inject_git_dates.py` puis entrée dans [log.md](log.md), commités ensemble. Specs et plans des chantiers techniques : [superpowers/specs/](superpowers/specs/) et [superpowers/plans/](superpowers/plans/), **jamais sous `docs/`**.
+Mêmes règles qu'infofaillite : pas de spec ni de plan pour une passe de relecture ; modifier directement les Markdown ; une question ciblée seulement si la demande est vraiment ambiguë ; un commit court par modification cohérente ; après une passe multi-fichiers, `inject_git_dates.py` puis entrée dans [LOG.md](LOG.md), commités ensemble. Specs et plans des chantiers techniques : [superpowers/specs/](superpowers/specs/) et [superpowers/plans/](superpowers/plans/), **jamais sous `docs/`**.
 
 ### Procédure de clôture de session de relecture
 
@@ -80,6 +80,6 @@ Mêmes règles qu'infofaillite : pas de spec ni de plan pour une passe de relect
 2. `git diff <fichier>` pour chaque page modifiée hors session.
 3. Commits éditoriaux (un par page ou groupe cohérent).
 4. `.venv/Scripts/python.exe scripts/inject_git_dates.py`.
-5. Entrée `## [YYYY-MM-DD] edit | <titre>` en tête de [log.md](log.md).
+5. Entrée `## [YYYY-MM-DD] edit | <titre>` en tête de [LOG.md](LOG.md).
 6. Commit final `log + lastmod : relecture du <date>`.
 7. `git log --oneline -10` ; ne pas pousser sauf demande explicite.

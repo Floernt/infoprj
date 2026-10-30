@@ -31,7 +31,7 @@ Pour le régime des classes, l'article XX.83/14, § 1er, dispose : « Le plan de
 
 Selon le magistrat précité, le mot « intérêts » ne viserait pas ici les intérêts des créances, mais les intérêts que détiennent les détenteurs de capital dans le patrimoine du débiteur. La version néerlandaise du texte emploie en effet le mot « belangen » (intérêts, au sens de participations) et non « rente » (intérêts d'une somme d'argent). La phrase se lirait alors ainsi : la moitié des créances en principal, pour les créanciers, et la moitié des intérêts, pour les détenteurs de capital. Dans cette lecture, seul le principal des créances serait pris en compte pour le vote des créanciers dans les classes, contrairement au régime des PME. La présentation consacrée aux grandes entreprises par une présidente de division du tribunal de l'entreprise de Liège retient également un seuil de 50 % « des créances en principal ».
 
-D'autres supports de formation mentionnent au contraire une double majorité « en principal et intérêts » en ajoutant que les intérêts compteraient dans le régime des grandes entreprises. La formulation française du texte peut en effet être lue dans ce sens.
+D'autres supports de formation retiennent au contraire une majorité calculée « en principal et intérêts », en ajoutant que les intérêts compteraient dans le régime des grandes entreprises. La formulation française du texte peut en effet être lue dans ce sens.
 
 ## Pourquoi la question compte
 
