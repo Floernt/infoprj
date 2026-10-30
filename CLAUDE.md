@@ -9,7 +9,7 @@ Site documentaire **La réorganisation judiciaire en Belgique** (infoprj.be), si
 - Stack : **Zensical** (statique, dérivé de MkDocs Material). Config dans [zensical.toml](zensical.toml).
 - Sources Markdown : [docs/](docs/).
 - Dépendances Python : [requirements.txt](requirements.txt), venv local dans `.venv/`.
-- **Branche de travail : `main`**, déployée automatiquement par GitHub Actions ([deploy.yml](.github/workflows/deploy.yml)) sur GitHub Pages. Dépôt : `Floernt/infoprj`. Domaine : [docs/CNAME](docs/CNAME).
+- **Branches** (méthode identique à infofaillite) : `main` est la branche **publiée**, déployée automatiquement par GitHub Actions ([deploy.yml](.github/workflows/deploy.yml)) sur GitHub Pages à chaque push. **On travaille en local sur `gh-pages`**, on pousse `gh-pages` sur GitHub, puis Florian publie par une pull request `gh-pages` → `main`. Ne jamais commiter ni pousser directement sur `main`. Dépôt : `Floernt/infoprj`. Domaine : [docs/CNAME](docs/CNAME).
 - L'architecture technique est reprise d'infofaillite (préfixe CSS `ifa-` conservé à dessein, pour pouvoir porter les améliorations d'un site à l'autre). Le clone de référence d'infofaillite se trouve, non suivi, dans [infofaillite/](infofaillite/) : ne pas le modifier depuis ce projet.
 
 ## Dossiers hors publication (ignorés par Git)
@@ -82,4 +82,4 @@ Mêmes règles qu'infofaillite : pas de spec ni de plan pour une passe de relect
 4. `.venv/Scripts/python.exe scripts/inject_git_dates.py`.
 5. Entrée `## [YYYY-MM-DD] edit | <titre>` en tête de [LOG.md](LOG.md).
 6. Commit final `log + lastmod : relecture du <date>`.
-7. `git log --oneline -10` ; ne pas pousser sauf demande explicite.
+7. `git log --oneline -10` ; ne pas pousser sauf demande explicite (push sur `gh-pages` uniquement ; la publication passe par la PR `gh-pages` → `main`).
