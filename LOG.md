@@ -2,6 +2,12 @@
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
 
+## [2026-10-30] feat | police Albert Sans auto-hébergée
+
+- Albert Sans servie depuis `docs/assets/fonts/` (police variable Fontsource 5.3.0, sous-ensemble latin, romain et italique, SIL OFL 1.1) ; `@font-face` dans `extra.css`, bloc `fonts` remplacé dans `overrides/main.html` (préchargement du romain).
+- Plus aucun appel à Google Fonts dans le site compilé ; le code s'affiche en police à chasse fixe du système (JetBrains Mono n'est plus chargée).
+- Règle le point ouvert de l'entrée précédente.
+
 ## [2026-10-30] feat | Search Console et statistiques sans cookie
 
 - Décision : pas de Google Analytics (cookies, donc bandeau de consentement et politique de confidentialité). Retenu : Search Console (propriété « Domaine », vérification DNS TXT) et Clicky sans cookie, site 101514196.
@@ -219,6 +225,16 @@ Suppression des dossiers non suivis devenus inutiles : clone `infofaillite/` (se
 **Demande :** Je veux connecter et optimiser Ce site à la Google Search console et Google Analytics pour avoir une visibilité sur le trafic Aide-moi à le faire.
 
 **Action :** J'ai ajouté le fichier [docs/robots.txt](docs/robots.txt) et je l'ai commité sur `gh-pages`, sans pousser. Il pointe vers `https://infoprj.be/sitemap.xml`. La compilation locale le place bien à la racine du site, à côté du sitemap qui liste 51 pages.  ## Ce que tu fais de ton côté  **Search Console (propriété « Domaine »)** 1. Sur [search.google.com/search-console](https://search.google.com/search-console), clique sur « Ajouter une propriété », choisis « Domaine » et saisis `infoprj.be`. 2. Goog...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-30 16:28:17 - session a3d9141d
+
+**Demande :** <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101514196"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a> <script async data-id="101514196" src="//static.getclicky.com/js"></script>  <pasted_content id="d151"> <script> (function() { 	var s = d...
+
+**Action :** Clicky est intégré sans cookie, avec l'identifiant 101514196. Trois commits sont prêts sur `gh-pages` ; rien n'est encore poussé, ni le robots.txt d'avant ni le reste.  - **Script** : [docs/javascripts/clicky.js](docs/javascripts/clicky.js) charge Clicky avec ton identifiant et désactive les cookies (`clicky_custom.cookies_disable = 1`). J'ai vérifié ce réglage dans la documentation Clicky : la valeur posée dans le script l'emporte sur les préférences du site. Le script est appelé sur toutes les...
 
 **Outils utilises :** aucun
 
