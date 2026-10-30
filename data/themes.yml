@@ -1,0 +1,93 @@
+# Taxonomie des actualités d'infoprj.be
+#
+# Source unique des étiquettes (thèmes) apposées sur les notes de
+# docs/actualites/. Chaque thème est rattaché aux pages théoriques du guide
+# qui en exposent les règles : scripts/build_actualites.py s'en sert pour
+# générer les renvois dans les deux sens.
+#
+# Ce fichier est hors de docs/ : il n'est jamais publié.
+#
+# Format :
+#   slug:                      # identifiant utilisé dans le front matter des notes
+#     label: Libellé affiché
+#     pages: [chemin/relatif/a/docs.md, ...]
+
+prevention:
+  label: Prévention et signaux d'alarme
+  pages: [dirigeants/signaux-alarme.md, creanciers/signaux-creancier.md]
+
+chambre-entreprises-difficulte:
+  label: Chambre des entreprises en difficulté
+  pages: [dirigeants/chambre-entreprises-difficulte.md, chiffre/chambre-comptable.md, comprendre/acteurs.md]
+
+devoir-alerte:
+  label: Devoir d'alerte du professionnel du chiffre
+  pages: [chiffre/alerte-xx23.md, chiffre/continuite-alarme-csa.md]
+
+conditions-ouverture:
+  label: Conditions d'ouverture
+  pages: [comprendre/definition-prj.md, comprendre/prj-publique.md, dirigeants/preparer-prj.md]
+
+sursis:
+  label: Le sursis
+  pages: [comprendre/sursis.md, creanciers/lever-sursis.md]
+
+prj-privee:
+  label: PRJ privée
+  pages: [comprendre/prj-privee.md, creanciers/initiative-creancier.md]
+
+accord-amiable:
+  label: Accord amiable
+  pages: [comprendre/accord-amiable-collectif.md, dirigeants/chambre-entreprises-difficulte.md]
+
+plan-pme:
+  label: Plan de réorganisation des PME
+  pages: [comprendre/accord-amiable-collectif.md, dirigeants/plan-reorganisation.md, creanciers/vote-plan.md]
+
+classes-creanciers:
+  label: Classes de créanciers
+  pages: [comprendre/grandes-entreprises-classes.md, creanciers/classes-cram-down.md]
+
+cram-down:
+  label: Cram-down et priorité absolue
+  pages: [comprendre/meilleur-interet-cram-down.md, creanciers/classes-cram-down.md, chiffre/valorisation-meilleur-interet.md]
+
+homologation:
+  label: Homologation du plan
+  pages: [creanciers/vote-plan.md, dirigeants/apres-homologation.md]
+
+transfert:
+  label: Transfert sous autorité de justice
+  pages: [comprendre/transfert-alternatives.md, dirigeants/en-cas-echec.md]
+
+faillite-silencieuse:
+  label: Faillite silencieuse
+  pages: [comprendre/transfert-alternatives.md, dirigeants/en-cas-echec.md]
+
+praticiens:
+  label: Praticiens et mandataires de justice
+  pages: [comprendre/acteurs.md]
+
+creanciers-publics:
+  label: Créanciers publics
+  pages: [creanciers/creanciers-sursitaires.md, creanciers/debiteur-en-prj.md]
+
+travailleurs:
+  label: Travailleurs et transfert d'entreprise
+  pages: [comprendre/transfert-alternatives.md]
+
+fiscalite-comptabilite:
+  label: Fiscalité et comptabilité
+  pages: [chiffre/comptabilite-fiscalite-abandons.md, dirigeants/apres-homologation.md]
+
+responsabilite-dirigeants:
+  label: Responsabilité des dirigeants
+  pages: [dirigeants/responsabilite-dirigeant.md]
+
+statistiques:
+  label: Statistiques
+  pages: [chiffres.md]
+
+droit-europeen:
+  label: Droit européen
+  pages: [comprendre/reforme-2023.md]

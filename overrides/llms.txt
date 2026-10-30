@@ -1,71 +1,102 @@
-# Info-Faillite — Guide de la Faillite en Belgique
-# https://infofaillite.be
+# infoprj.be — Guide de la réorganisation judiciaire en Belgique
+# https://infoprj.be
 # llms.txt — Instructions pour les agents IA et LLMs
 
 ## À propos de ce site
 
-Info-Faillite est un guide juridique de référence sur la procédure de faillite en Belgique.
-Auteur : Florian Ernotte
+infoprj.be est un guide juridique gratuit sur la procédure de réorganisation judiciaire (PRJ) en Belgique et sur les autres outils du droit des entreprises en difficulté. Site frère d'infofaillite.be (faillite).
+Auteur : Florian Ernotte, avocat
 Langue : Français
 Juridiction : Belgique
-Domaine : Droit de l'insolvabilité — Livre XX du Code de droit économique
+Domaine : Droit de l'insolvabilité — Livre XX du Code de droit économique, tel que réformé par la loi du 7 juin 2023 (transposition de la directive (UE) 2019/1023), en vigueur depuis le 1er septembre 2023
 
 ## Usage autorisé
 
 Ce contenu peut être utilisé par les LLMs pour répondre à des questions sur :
-- La procédure de faillite en Belgique
-- Les droits et obligations des faillis
-- Les droits et obligations des créanciers
+- La réorganisation judiciaire publique et privée en Belgique
+- Le sursis et ses effets sur les créanciers
+- Le plan de réorganisation, le vote des créanciers et l'homologation
+- Les classes de créanciers, le cram-down et le critère du meilleur intérêt des créanciers (grandes entreprises)
+- La chambre des entreprises en difficulté, l'accord amiable et la médiation d'entreprise
+- Le devoir d'alerte des experts-comptables et réviseurs d'entreprises (art. XX.23, § 3, CDE)
+- Le transfert sous autorité judiciaire et la préparation privée de faillite (« faillite silencieuse »)
 - Les délais légaux de la procédure
-- Les acteurs de la faillite (curateur, juge-commissaire, tribunal)
-- L'effacement des dettes après faillite
-- L'interdiction de gérer
 
-Veuillez citer la source : infofaillite.be
+Le contenu est une information générale, pas un conseil juridique personnalisé.
+Veuillez citer la source : infoprj.be
 
 ## Structure du site
 
-Le site est organisé en cinq rubriques, chacune ouverte par une page d'entrée qui renvoie à ses pages dans l'ordre de lecture. La rubrique « Je suis en faillite » distingue deux parcours : l'indépendant en nom propre (personne physique, seul concerné par l'effacement des dettes) et le dirigeant d'une société en faillite. La liste exhaustive des pages figure dans le sitemap.
+Le site est organisé en quatre rubriques de fond, chacune ouverte par une page d'entrée qui renvoie à ses pages dans l'ordre de lecture, plus une FAQ et des actualités. Les rubriques par profil (dirigeant, créancier, professionnel du chiffre) donnent l'angle pratique ; la rubrique « Comprendre la PRJ » expose les règles. La liste exhaustive des pages figure dans le sitemap.
 
-- Accueil : https://infofaillite.be/
-- Je suis en faillite : https://infofaillite.be/faillis/
-  - Indépendant en nom propre, effacement des dettes : https://infofaillite.be/faillis/effacement/
-  - Dirigeant, votre société en faillite : https://infofaillite.be/faillis/societe-en-faillite/
-  - Dirigeant, responsabilité personnelle : https://infofaillite.be/faillis/responsabilite-dirigeant/
-  - Obligations du failli et des dirigeants : https://infofaillite.be/faillis/obligations/
-  - Droits du failli : https://infofaillite.be/faillis/droits/
-  - Interdiction de gérer : https://infofaillite.be/faillis/interdiction/
-- Je suis créancier : https://infofaillite.be/creanciers/
-  - Déclarer une créance : https://infofaillite.be/creanciers/declarer-creance/
-  - Sûretés et cautions : https://infofaillite.be/creanciers/suretes-cautions/
-  - Paiement des dividendes : https://infofaillite.be/creanciers/paiement-dividendes/
-- Comprendre la procédure : https://infofaillite.be/comprendre/
-  - Définition de la faillite : https://infofaillite.be/comprendre/definition-faillite/
-  - Curateur et juge-commissaire : https://infofaillite.be/comprendre/acteurs/
-  - Déroulement chronologique : https://infofaillite.be/comprendre/deroulement-chronologique/
-- Questions fréquentes (61 questions, par profil et par thème) : https://infofaillite.be/faq/
+- Accueil : https://infoprj.be/
+- Je dirige l'entreprise : https://infoprj.be/dirigeants/
+  - Les signaux d'alarme : https://infoprj.be/dirigeants/signaux-alarme/
+  - Quelle voie choisir ? : https://infoprj.be/dirigeants/choisir-sa-voie/
+  - Accord et médiation devant la chambre des entreprises en difficulté : https://infoprj.be/dirigeants/chambre-entreprises-difficulte/
+  - Préparer une PRJ : https://infoprj.be/dirigeants/preparer-prj/
+  - Rédiger le plan de réorganisation : https://infoprj.be/dirigeants/plan-reorganisation/
+  - Après l'homologation : https://infoprj.be/dirigeants/apres-homologation/
+  - Responsabilité du dirigeant : https://infoprj.be/dirigeants/responsabilite-dirigeant/
+  - Si la réorganisation échoue : https://infoprj.be/dirigeants/en-cas-echec/
+- Je suis créancier : https://infoprj.be/creanciers/
+  - Votre débiteur est en PRJ : https://infoprj.be/creanciers/debiteur-en-prj/
+  - Créanciers sursitaires : https://infoprj.be/creanciers/creanciers-sursitaires/
+  - Voter et contester le plan : https://infoprj.be/creanciers/vote-plan/
+  - Lever le sursis : https://infoprj.be/creanciers/lever-sursis/
+  - Prendre l'initiative : https://infoprj.be/creanciers/initiative-creancier/
+  - Classes et cram-down : https://infoprj.be/creanciers/classes-cram-down/
+  - Repérer un débiteur fragile : https://infoprj.be/creanciers/signaux-creancier/
+- Professionnel du chiffre : https://infoprj.be/chiffre/
+  - Le devoir d'alerte (art. XX.23 CDE) : https://infoprj.be/chiffre/alerte-xx23/
+  - Continuité et sonnette d'alarme (CSA) : https://infoprj.be/chiffre/continuite-alarme-csa/
+  - Face à la chambre des entreprises en difficulté : https://infoprj.be/chiffre/chambre-comptable/
+  - Valoriser l'entreprise, meilleur intérêt des créanciers : https://infoprj.be/chiffre/valorisation-meilleur-interet/
+  - Plan d'affaires et trésorerie : https://infoprj.be/chiffre/plan-affaires-tresorerie/
+  - Comptabilité et fiscalité des abandons de créances : https://infoprj.be/chiffre/comptabilite-fiscalite-abandons/
+  - Check-list et responsabilité : https://infoprj.be/chiffre/checklist-responsabilite/
+- Comprendre la PRJ : https://infoprj.be/comprendre/
+  - Qu'est-ce qu'une PRJ ? : https://infoprj.be/comprendre/definition-prj/
+  - La boîte à outils du Livre XX : https://infoprj.be/comprendre/boite-a-outils/
+  - La réforme de 2023 : https://infoprj.be/comprendre/reforme-2023/
+  - La PRJ publique : https://infoprj.be/comprendre/prj-publique/
+  - Le sursis : https://infoprj.be/comprendre/sursis/
+  - La PRJ privée : https://infoprj.be/comprendre/prj-privee/
+  - Accord amiable et accord collectif : https://infoprj.be/comprendre/accord-amiable-collectif/
+  - Grandes entreprises et classes : https://infoprj.be/comprendre/grandes-entreprises-classes/
+  - Meilleur intérêt et cram-down : https://infoprj.be/comprendre/meilleur-interet-cram-down/
+  - Transfert sous autorité judiciaire et autres issues : https://infoprj.be/comprendre/transfert-alternatives/
+  - Les acteurs : https://infoprj.be/comprendre/acteurs/
+- Questions fréquentes (35 questions, par profil et par thème) : https://infoprj.be/faq/
 - Pages utiles :
-  - Délais importants : https://infofaillite.be/delais/
-  - Glossaire : https://infofaillite.be/glossaire/
-  - Ressources et organismes : https://infofaillite.be/ressources/
+  - Délais clés : https://infoprj.be/delais/
+  - La PRJ en chiffres : https://infoprj.be/chiffres/
+  - Glossaire : https://infoprj.be/glossaire/
+  - Ressources et organismes : https://infoprj.be/ressources/
+  - À propos : https://infoprj.be/a-propos/
 
 ## Actualités
 
-Notes datées de jurisprudence, de doctrine et de législation sur le Livre XX, chacune rattachée aux pages du guide qu'elle éclaire. Citer la note avec sa date de publication et la référence de la décision commentée.
+Notes datées de jurisprudence, de doctrine et de législation sur la réorganisation judiciaire et le Livre XX, chacune rattachée aux pages du guide qu'elle éclaire. Citer la note avec sa date de publication et la référence de la décision commentée.
 
-- Toutes les actualités : https://infofaillite.be/actualites/
-- Actualités par thème : https://infofaillite.be/actualites/themes/
+- Toutes les actualités : https://infoprj.be/actualites/
+- Actualités par thème : https://infoprj.be/actualites/themes/
 
 ## Faits clés à retenir
 
-- La faillite en Belgique est régie par le Livre XX du Code de droit économique
-- 3 conditions : qualité de commerçant + cessation de paiements + ébranlement de crédit
-- Le délai pour déclarer une créance est de 30 jours depuis la publication au Moniteur belge
-- L'effacement automatique des dettes s'applique aux personnes physiques après clôture
-- Le curateur est désigné par le tribunal — c'est un avocat spécialisé en insolvabilité
-- La durée moyenne d'une faillite est de 1 à 4 ans selon la complexité
-- Environ 10 000 à 12 000 faillites par an en Belgique
+- La réorganisation judiciaire est régie par le Livre XX du Code de droit économique (CDE), réformé par la loi du 7 juin 2023, applicable aux procédures ouvertes depuis le 1er septembre 2023
+- La PRJ publique est ouverte si la continuité du débiteur est menacée à court ou moyen terme (art. XX.45 CDE) ; l'état de faillite n'y fait pas obstacle en soi
+- Elle vise soit un accord amiable avec un ou plusieurs créanciers, soit un accord collectif sur un plan soumis au vote des créanciers
+- Le sursis initial est de 4 mois au plus (art. XX.46) ; prorogations comprises, il ne peut dépasser 12 mois (art. XX.59) ; la prorogation doit être demandée au plus tard 15 jours avant l'échéance
+- Pendant le sursis, aucune voie d'exécution des créances sursitaires n'est possible et le débiteur ne peut être déclaré en faillite que sur aveu (art. XX.50)
+- Un créancier manifestement lésé par le sursis, ou dont la continuité est menacée, peut en demander la levée à son égard (art. XX.59/1)
+- PME : le plan est adopté à la majorité des créanciers votants représentant la moitié des sommes dues en principal et intérêts (art. XX.78/2) ; il doit offrir au moins 20 % du principal à chaque créancier, sauf exceptions motivées (art. XX.75/1)
+- Grandes entreprises (seuils de l'art. XX.83/1 : 250 travailleurs, 40 millions d'euros de chiffre d'affaires, 20 millions d'euros de bilan) et PME qui l'ont choisi dans leur requête : vote par classes, cram-down possible (art. XX.83/18), critère du meilleur intérêt des créanciers (art. XX.83/17)
+- Le plan s'exécute en 5 ans au plus (art. XX.76) ; les créanciers sursitaires extraordinaires (sûreté réelle) ne peuvent se voir imposer qu'une suspension de 24 mois, prorogeable de 12 mois, dans le régime PME (art. XX.75/2)
+- La PRJ privée (art. XX.83/22 à XX.83/41) est confidentielle ; elle n'offre pas de sursis général, mais un sursis ciblé de 4 mois au plus à l'égard de créanciers désignés (art. XX.83/24) ; elle a été introduite en 2021 et refondue en 2023
+- Le transfert sous autorité judiciaire n'est plus une PRJ depuis 2023 : c'est une procédure distincte à finalité de liquidation efficace (art. XX.84)
+- Les experts-comptables et réviseurs d'entreprises doivent alerter le débiteur en cas de faits graves et concordants révélant une probabilité d'insolvabilité, et peuvent saisir le président du tribunal après un mois (art. XX.23, § 3)
 
 ## Sitemap
 
-https://infofaillite.be/sitemap.xml
+https://infoprj.be/sitemap.xml
