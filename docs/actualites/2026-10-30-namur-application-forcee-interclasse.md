@@ -26,11 +26,11 @@ description: Entr. Liège (div. Namur), 23 janvier 2024 - Application forcée in
 keywords: cram-down Belgique, application forcée interclasse, XX.83/18, priorité absolue,
   classes de créanciers, valeur de réorganisation, DCF, meilleur intérêt des créanciers,
   Namur 23 janvier 2024
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics
 
-Par un jugement du 23 janvier 2024, le tribunal de l'entreprise de Liège, division Namur, homologue un plan de réorganisation soumis au régime des classes alors que deux classes sur sept ne l'avaient pas approuvé. C'est l'une des premières décisions belges connues qui impose un plan à une classe dissidente sur la base de l'article XX.83/18 du Code de droit économique. Le jugement est inédit : il est connu par les extraits commentés lors de formations destinées aux praticiens, notamment par un juge consulaire du tribunal de l'entreprise du Brabant wallon (février 2024).
+Par un jugement du 23 janvier 2024, le tribunal de l'entreprise de Liège, division Namur, homologue un plan de réorganisation soumis au régime des classes alors que deux classes sur sept ne l'avaient pas approuvé. C'est l'une des premières décisions belges connues qui impose un plan à une classe dissidente sur la base de l'article XX.83/18 du Code de droit économique. Le jugement est inédit.
 
 ## Ce que le tribunal a décidé
 
@@ -54,7 +54,7 @@ Pour les créanciers publics, la leçon est nette. Dans le régime des classes, 
 
 Une PME qui envisage le régime des classes a intérêt à faire établir tôt, par un professionnel indépendant, les valeurs de liquidation et de réorganisation, et à documenter les raisons pour lesquelles la faillite serait moins favorable à la classe dissidente. Les créanciers trouveront le détail des conditions dans [Classes et cram-down](../creanciers/classes-cram-down.md) ; le professionnel du chiffre, dans [Valoriser l'entreprise](../chiffre/valorisation-meilleur-interet.md).
 
-*Entr. Liège (div. Namur), 23 janvier 2024, R.G. Q/23/00031, inédit ; extraits commentés par G. Pierson, « Procédure publique de réorganisation judiciaire par accord collectif : les points de vigilance du juge délégué », tribunal de l'entreprise du Brabant wallon, 20 février 2024, et par D. Gol, webinaire LEXDURA.*
+*Entr. Liège (div. Namur), 23 janvier 2024, R.G. Q/23/00031, inédit.*
 
 <!-- actualites:auto:start -->
 ---

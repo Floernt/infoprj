@@ -6,8 +6,7 @@ type: jurisprudence
 source:
   juridiction: Cour d'appel de Bruxelles
   date: '2023-12-21'
-  reference: Deux arrêts du 21 décembre 2023, commentés dans la newsletter de la Revue
-    des entreprises en difficulté (janvier 2024)
+  reference: Deux arrêts du 21 décembre 2023
 themes:
 - faillite-silencieuse
 - transfert
@@ -27,7 +26,7 @@ description: Bruxelles, 21 décembre 2023 (deux arrêts) - Préparation privée 
 keywords: faillite silencieuse, préparation privée de faillite, pre-pack faillite,
   XX.97/1, cour d'appel de Bruxelles 21 décembre 2023, ébranlement du crédit, curateur
   potentiel
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès
 
@@ -47,7 +46,7 @@ La première condition renvoie à l'état de faillite de l'article XX.99 : une c
 
 ## Portée
 
-Le commentaire publié dans la newsletter de la Revue des entreprises en difficulté y voit « une première tendance » vers une appréciation plus souple des conditions d'ouverture. Il la justifie par le fait que la procédure se déroule sous la surveillance d'un curateur et d'un juge-commissaire potentiels : le contrôle s'exerce pendant la préparation, ce qui rend moins nécessaire un filtrage sévère à l'entrée. Le curateur potentiel doit d'ailleurs signaler au juge-commissaire potentiel tout transfert envisagé vers des entreprises liées ou vers des personnes qui ont contrôlé l'entreprise dans les six mois précédents (art. XX.97/3).
+On peut y voir une première tendance vers une appréciation plus souple des conditions d'ouverture. Elle se justifie par le fait que la procédure se déroule sous la surveillance d'un curateur et d'un juge-commissaire potentiels : le contrôle s'exerce pendant la préparation, ce qui rend moins nécessaire un filtrage sévère à l'entrée. Le curateur potentiel doit d'ailleurs signaler au juge-commissaire potentiel tout transfert envisagé vers des entreprises liées ou vers des personnes qui ont contrôlé l'entreprise dans les six mois précédents (art. XX.97/3).
 
 Il faut garder en tête que ces deux arrêts statuent sur des situations particulières et que la jurisprudence était alors à ses débuts. Ils n'écartent pas l'exigence de démontrer le double objectif de l'article XX.97/1, § 3, qui reprend les critères posés par la Cour de justice dans l'arrêt Heiploeg (voir [notre note sur les arrêts Plessers et Heiploeg](2026-10-30-plessers-heiploeg-transfert-liquidation.md)).
 
@@ -55,7 +54,7 @@ Il faut garder en tête que ces deux arrêts statuent sur des situations particu
 
 Pour un dirigeant dont l'entreprise ne peut plus être réorganisée, la faillite silencieuse reste une voie à considérer lorsque la valeur de l'activité dépend d'éléments fragiles (un bail, une clientèle, un savoir-faire) qu'une faillite publique ferait disparaître. La requête doit expliquer concrètement en quoi la préparation profite aux créanciers et à l'emploi : c'est sur ce terrain que se joue l'admission. Les différentes issues sont présentées dans [Transfert et autres issues](../comprendre/transfert-alternatives.md) et, du point de vue du dirigeant, dans [Si la réorganisation échoue](../dirigeants/en-cas-echec.md).
 
-*Bruxelles, 21 décembre 2023 (deux arrêts), commentés par C. Alter, « Préparation privée d'une faillite : la cour d'appel de Bruxelles rend ses premiers arrêts », newsletter de la Revue des entreprises en difficulté, janvier 2024.*
+*Bruxelles, 21 décembre 2023 (deux arrêts).*
 
 <!-- actualites:auto:start -->
 ---

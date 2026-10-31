@@ -5,7 +5,7 @@ description: La réorganisation judiciaire en chiffres - Nombre de PRJ en Belgiq
 keywords: statistiques réorganisation judiciaire, nombre de PRJ belgique, taux de
   réussite PRJ, chiffres tribunal entreprise Liège, statistiques faillites Statbel
   2025, entreprises en difficulté chiffres
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # La PRJ en chiffres
 
@@ -18,7 +18,7 @@ Combien d'entreprises demandent chaque année une réorganisation judiciaire, et
 
 ## Le nombre de PRJ ouvertes en Belgique
 
-Selon les chiffres présentés par le président du tribunal de l'entreprise du Hainaut lors du colloque de la Revue des entreprises en difficulté consacré à la réforme du Livre XX (8 juin 2023), le nombre de jugements d'ouverture d'une PRJ en Belgique a évolué comme suit.
+Le nombre de jugements d'ouverture d'une PRJ en Belgique a évolué comme suit.
 
 | Année | Jugements d'ouverture de PRJ |
 |---|---|
@@ -30,7 +30,7 @@ Selon les chiffres présentés par le président du tribunal de l'entreprise du 
 
 Entre 2012 et 2022, le nombre annuel de PRJ ouvertes a donc diminué d'environ deux tiers (− 66 %). Les années 2020 et 2021 doivent être lues avec prudence : les mesures de soutien liées à la crise sanitaire, dont un moratoire temporaire sur les faillites, ont réduit la pression des créanciers et, par ricochet, le recours aux procédures d'insolvabilité.
 
-La source primaire de ces chiffres (statistiques judiciaires, Statbel ou fournisseur privé de données d'entreprises) n'est pas précisée dans la présentation. Les années 2013 à 2018 n'y figurent pas.
+La source primaire de ces chiffres (statistiques judiciaires, Statbel ou fournisseur privé de données d'entreprises) n'est pas précisée. Les années 2013 à 2018 n'y figurent pas.
 
 ---
 
@@ -52,7 +52,7 @@ Ce chiffre ne permet pas de conclure que la procédure est inefficace en soi. Il
 
 ## Les demandes au tribunal de l'entreprise de Liège (2009-2024)
 
-Les chiffres communiqués par le tribunal de l'entreprise de Liège, lors d'une présentation de février 2025, détaillent le nombre de requêtes en PRJ publique ou en transfert sous autorité judiciaire déposées dans ses trois ressorts de division.
+Les chiffres communiqués par le tribunal de l'entreprise de Liège en février 2025 détaillent le nombre de requêtes en PRJ publique ou en transfert sous autorité judiciaire déposées dans ses trois ressorts de division.
 
 | Année | Liège (Liège, Huy, Verviers) | Neufchâteau (Neufchâteau, Arlon, Marche) | Namur (Dinant, Namur) | Total |
 |---|---|---|---|---|

@@ -2,6 +2,12 @@
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
 
+## [2026-10-31] edit | actualités sans référence aux articles sources ni à leurs auteurs
+
+- Douze notes d'actualité et `chiffres.md` : retrait des exposés, formations, commentaires et de leurs auteurs (cartouche `source`, corps, ligne de références finale) ; seules les sources primaires restent citées.
+- Trois notes changent de type faute d'auteur (79 % et vote dans les classes : `pratique` ; cram-down : `jurisprudence`) ; la note sur les 79 % est renommée `2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md`.
+- Règle durable ajoutée à CLAUDE.md (Conventions éditoriales).
+
 ## [2026-10-30] feat | police Albert Sans auto-hébergée
 
 - Albert Sans servie depuis `docs/assets/fonts/` (police variable Fontsource 5.3.0, sous-ensemble latin, romain et italique, SIL OFL 1.1) ; `@font-face` dans `extra.css`, bloc `fonts` remplacé dans `overrides/main.html` (préchargement du romain).
@@ -235,6 +241,16 @@ Suppression des dossiers non suivis devenus inutiles : clone `infofaillite/` (se
 **Demande :** <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101514196"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a> <script async data-id="101514196" src="//static.getclicky.com/js"></script>  <pasted_content id="d151"> <script> (function() { 	var s = d...
 
 **Action :** Clicky est intégré sans cookie, avec l'identifiant 101514196. Trois commits sont prêts sur `gh-pages` ; rien n'est encore poussé, ni le robots.txt d'avant ni le reste.  - **Script** : [docs/javascripts/clicky.js](docs/javascripts/clicky.js) charge Clicky avec ton identifiant et désactive les cookies (`clicky_custom.cookies_disable = 1`). J'ai vérifié ce réglage dans la documentation Clicky : la valeur posée dans le script l'emporte sur les préférences du site. Le script est appelé sur toutes les...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-30 16:33:09 - session a3d9141d
+
+**Demande :** heberge la police sur le site puis pousse les commit
+
+**Action :** Albert Sans est maintenant servie par le site lui-même, et `gh-pages` est poussée sur GitHub avec les cinq commits de la session.  - **Police** : les fichiers sont dans [docs/assets/fonts/](docs/assets/fonts/), en version variable (toutes les graisses, romain et italique) sous licence SIL OFL. La déclaration est dans [docs/stylesheets/extra.css](docs/stylesheets/extra.css), et [overrides/main.html](overrides/main.html) ne charge plus Google Fonts. - **Vérifications** : aucune page du site compil...
 
 **Outils utilises :** aucun
 

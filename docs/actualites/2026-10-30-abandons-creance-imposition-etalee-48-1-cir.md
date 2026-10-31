@@ -29,7 +29,7 @@ description: Article 48/1 CIR remplacé par la loi du 28 décembre 2023 - Taxati
 keywords: article 48/1 CIR, abandon de créance réorganisation judiciaire, remise de
   dettes fiscalité, exonération temporaire, taxation étalée, plan de réorganisation
   homologué, réserve immunisée, loi 28 décembre 2023
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)
 
@@ -43,17 +43,17 @@ L'alinéa 2 organise la reprise : le montant exonéré « est repris dans la bas
 
 ## Un exemple chiffré
 
-L'exemple suivant, simplifié, a été présenté lors d'une journée d'étude du réseau CAP en décembre 2025. Une société doit 200.000 euros (50.000 à ses fournisseurs, 100.000 au SPF Finances, 50.000 à l'ONSS). Son plan, homologué en décembre 2025, prévoit un abattement de 80 % et le paiement du solde sur cinq ans. La remise représente 160.000 euros, comptabilisée en produit non récurrent à la date de l'homologation, puis transférée en réserve immunisée. Si le plan est exécuté jusqu'en décembre 2030, rien n'est réintégré en 2031 et 2032 ; 40.000 euros sont ensuite repris dans la base imposable chaque année de 2033 à 2036 (en supposant que les périodes imposables correspondent aux années civiles).
+Prenons un exemple simplifié. Une société doit 200.000 euros (50.000 à ses fournisseurs, 100.000 au SPF Finances, 50.000 à l'ONSS). Son plan, homologué en décembre 2025, prévoit un abattement de 80 % et le paiement du solde sur cinq ans. La remise représente 160.000 euros, comptabilisée en produit non récurrent à la date de l'homologation, puis transférée en réserve immunisée. Si le plan est exécuté jusqu'en décembre 2030, rien n'est réintégré en 2031 et 2032 ; 40.000 euros sont ensuite repris dans la base imposable chaque année de 2033 à 2036 (en supposant que les périodes imposables correspondent aux années civiles).
 
 ## Le point de départ : une incertitude
 
-Selon la présentation consultée, l'alinéa 2 nouveau s'applique aux accords amiables constatés et aux plans homologués à partir de l'entrée en vigueur de la loi, fixée au 8 janvier 2024 (art. 49 et 59, al. 6, de la loi du 28 décembre 2023). Le même support évoque pourtant une taxation étalée « à partir du 01/09/2023 », date d'entrée en vigueur de la réforme du Livre XX. Le sort des accords et des plans homologués entre ces deux dates n'est donc pas clair à la lecture des sources dont nous disposons. Avant de chiffrer l'impact fiscal d'un plan homologué à cette période, il est prudent de vérifier le texte de la disposition transitoire et la position de l'administration.
+L'alinéa 2 nouveau s'appliquerait aux accords amiables constatés et aux plans homologués à partir de l'entrée en vigueur de la loi, fixée au 8 janvier 2024 (art. 49 et 59, al. 6, de la loi du 28 décembre 2023). Une autre lecture fait pourtant partir la taxation étalée du 1er septembre 2023, date d'entrée en vigueur de la réforme du Livre XX. Le sort des accords et des plans homologués entre ces deux dates n'est donc pas clair à la lecture des sources dont nous disposons. Avant de chiffrer l'impact fiscal d'un plan homologué à cette période, il est prudent de vérifier le texte de la disposition transitoire et la position de l'administration.
 
 ## Ce qu'il faut en retenir
 
 Pour le dirigeant, un plan de réorganisation qui prévoit de larges abattements crée une charge fiscale différée, qui tombe à un moment où l'entreprise vient seulement de retrouver un équilibre. Elle doit figurer dans le plan de trésorerie au-delà de la durée du plan lui-même. Pour le professionnel du chiffre, l'homologation déclenche des écritures obligatoires (extourne de la dette remise, reclassement du solde entre dettes à long et à court terme, dotation à la réserve immunisée), dont l'absence fausserait la lecture des comptes. Ces points sont développés dans [Comptabilité et fiscalité](../chiffre/comptabilite-fiscalite-abandons.md) et dans [Après l'homologation](../dirigeants/apres-homologation.md).
 
-*Loi du 28 décembre 2023, M.B., 29 décembre 2023, art. 49 et 59 ; art. 48/1 CIR 92 ; M. Meyahed, « Traitement comptable et fiscal lié à la PRJ », réseau CAP, 16 décembre 2025.*
+*Loi du 28 décembre 2023, M.B., 29 décembre 2023, art. 49 et 59 ; art. 48/1 CIR 92.*
 
 <!-- actualites:auto:start -->
 ---

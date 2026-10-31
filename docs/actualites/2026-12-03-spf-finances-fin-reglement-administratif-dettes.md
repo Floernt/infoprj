@@ -3,11 +3,6 @@ title: 'Dettes fiscales : le SPF Finances remplace le règlement administratif d
   par un plan de paiement de douze mois'
 date: '2026-12-03'
 type: pratique
-source:
-  publication: « Actualités et perspectives en droit de l'insolvabilité », séminaire
-    HEC Liège
-  date: '2026-02-23'
-  reference: L. Stas de Richelle et C. Delbouille, HEC Liège
 themes:
 - creanciers-publics
 - prevention
@@ -23,15 +18,15 @@ description: Suppression du règlement administratif de dettes (SPF Finances) au
 keywords: règlement administratif de dettes supprimé, plan de paiement SPF Finances,
   dette fiscale entreprise difficulté, team recouvrement, plan de paiement 12 mois,
   accord amiable chambre des entreprises en difficulté
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Dettes fiscales : le SPF Finances remplace le règlement administratif de dettes par un plan de paiement de douze mois
 
-Pour beaucoup de petites entreprises en difficulté, la dette fiscale est le premier poste du passif. Jusqu'en 2025, le SPF Finances proposait un « règlement administratif de dettes » pour en étaler le paiement. Ce dispositif a été supprimé le 1er octobre 2025. Il est remplacé par un plan de paiement de douze mois, renouvelable, à demander à l'équipe de recouvrement (« Team Recouvrement ») compétente. L'information a été présentée lors d'un séminaire organisé à HEC Liège le 23 février 2026.
+Pour beaucoup de petites entreprises en difficulté, la dette fiscale est le premier poste du passif. Jusqu'en 2025, le SPF Finances proposait un « règlement administratif de dettes » pour en étaler le paiement. Ce dispositif a été supprimé le 1er octobre 2025. Il est remplacé par un plan de paiement de douze mois, renouvelable, à demander à l'équipe de recouvrement (« Team Recouvrement ») compétente.
 
 ## Le nouveau plan de paiement
 
-Le plan couvre une période de douze mois et peut être renouvelé. L'exemple présenté lors du séminaire en montre la mécanique : pour une dette de 10.000 euros et une capacité de remboursement de 500 euros par mois, le plan prévoit onze mensualités de 500 euros, suivies d'un dernier paiement de 4.500 euros, et de nouvelles négociations. La demande peut être accompagnée d'une demande de surséance indéfinie et d'une exonération des intérêts et des frais.
+Le plan couvre une période de douze mois et peut être renouvelé. Un exemple en montre la mécanique : pour une dette de 10.000 euros et une capacité de remboursement de 500 euros par mois, le plan prévoit onze mensualités de 500 euros, suivies d'un dernier paiement de 4.500 euros, et de nouvelles négociations. La demande peut être accompagnée d'une demande de surséance indéfinie et d'une exonération des intérêts et des frais.
 
 L'exemple illustre le point d'attention principal : la durée du plan est courte au regard de dettes qui, en pratique, s'étalent sur plusieurs années. À l'échéance, le solde reste dû, et l'entreprise doit soit le payer, soit obtenir un nouveau plan. Les sources consultées ne précisent pas les critères d'octroi ou de renouvellement ; il est prudent de ne pas tenir le renouvellement pour acquis dans un budget de trésorerie.
 
@@ -46,8 +41,6 @@ Si plusieurs créanciers sont concernés, un médiateur d'entreprise peut être 
 ## Ce qu'il faut en retenir
 
 Pour un dirigeant, le plan de paiement de douze mois peut suffire à passer un cap, mais il ne règle pas un endettement structurel : si le dernier paiement prévu par le plan est hors de portée, c'est le signe qu'un outil plus complet doit être envisagé. Le choix entre ces outils est présenté dans [Quelle voie choisir ?](../dirigeants/choisir-sa-voie.md) et [Accord et médiation](../dirigeants/chambre-entreprises-difficulte.md). La position des créanciers publics dans la procédure est décrite dans [Créanciers sursitaires](../creanciers/creanciers-sursitaires.md).
-
-*L. Stas de Richelle et C. Delbouille, « Actualités et perspectives en droit de l'insolvabilité », HEC Liège, 23 février 2026, et « Actualités en restructuration des entreprises », HEC Liège, 10 mars 2025.*
 
 <!-- actualites:auto:start -->
 ---

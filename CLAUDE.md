@@ -55,6 +55,7 @@ Règles : ne jamais éditer à la main le contenu entre `<!-- actualites:auto:st
 
 - **Langue** : français de Belgique, clair et accessible ; ligne éditoriale dans [docs/a-propos.md](docs/a-propos.md).
 - **Référencement légal** : Livre XX du CDE ; citer les articles précis. Toute référence doit être vérifiée dans le texte consolidé (Justel) ; les affirmations non tranchées par les sources sont consignées dans [superpowers/points-a-verifier.md](superpowers/points-a-verifier.md) jusqu'à arbitrage par Florian.
+- **Sources secondaires anonymes** (règle de Florian) : aucune note ni page ne nomme l'article, l'exposé, la formation ou le commentaire dont elle s'inspire, ni son auteur, ni de façon indirecte (« un juge consulaire de… », « la présentation consultée »). Seules les sources primaires sont citées : textes légaux, décisions, statistiques officielles (Statbel, tribunaux). Pas de type `doctrine` avec champ `auteur` dans le front matter des actualités ; pas de nom d'auteur dans les slugs ni les `keywords`.
 - **Liens internes** : relatifs en `.md`, pas d'URL absolues vers infoprj.be.
 - **Ancres internes** : Zensical slugifie les titres en ASCII ; en cas de doute, ancre explicite `## Titre { #ancre }`.
 - **Admonitions** : syntaxe MkDocs (`!!! danger`, `!!! note`, `!!! warning`).
