@@ -18,7 +18,7 @@ description: Premier bilan pratique de la réforme du Livre XX (loi du 7 juin 20
 keywords: bilan réforme 2023 réorganisation judiciaire, loi 7 juin 2023, PRJ privée
   pratique, régime des classes grandes entreprises, accord amiable chambre des entreprises
   en difficulté, juge délégué, directive restructuration
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Réforme de 2023 : un premier bilan pratique à partir des constats des juges et des praticiens
 

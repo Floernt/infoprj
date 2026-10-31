@@ -24,7 +24,7 @@ description: Regard comparé sur les premières décisions étrangères de cram-
 keywords: cram-down jurisprudence française, application forcée interclasse, ALLIMAND
   Grenoble, UNHYCOS Pontoise, cour d'appel de Versailles classes, Rotterdam WHOA,
   priorité absolue dérogation, directive 2019/1023
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge
 

@@ -26,7 +26,7 @@ description: Entr. Liège (div. Namur), 23 janvier 2024 - Application forcée in
 keywords: cram-down Belgique, application forcée interclasse, XX.83/18, priorité absolue,
   classes de créanciers, valeur de réorganisation, DCF, meilleur intérêt des créanciers,
   Namur 23 janvier 2024
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics
 

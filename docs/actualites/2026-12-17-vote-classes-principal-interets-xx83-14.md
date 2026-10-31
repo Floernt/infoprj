@@ -21,7 +21,7 @@ description: Article XX.83/14 CDE - Calcul de la majorité dans les classes de c
 keywords: vote classes de créanciers, XX.83/14, majorité principal intérêts, belangen
   rente, vote plan grandes entreprises, double majorité XX.78/2, détenteurs de capital
   vote
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Vote dans les classes : les intérêts des créances comptent-ils ? Une question ouverte de l'article XX.83/14
 

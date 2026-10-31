@@ -29,7 +29,7 @@ description: Article 48/1 CIR remplacé par la loi du 28 décembre 2023 - Taxati
 keywords: article 48/1 CIR, abandon de créance réorganisation judiciaire, remise de
   dettes fiscalité, exonération temporaire, taxation étalée, plan de réorganisation
   homologué, réserve immunisée, loi 28 décembre 2023
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)
 

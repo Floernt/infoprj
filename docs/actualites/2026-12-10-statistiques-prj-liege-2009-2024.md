@@ -20,7 +20,7 @@ description: Nombre de requêtes en réorganisation judiciaire et en transfert a
 keywords: statistiques réorganisation judiciaire Liège, nombre de PRJ par an, tribunal
   de l'entreprise de Liège, requêtes PRJ Namur Neufchâteau, évolution réorganisation
   judiciaire 2009-2024, PRJ chiffres Wallonie
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Réorganisations judiciaires dans le ressort de Liège : quinze ans de chiffres (2009-2024)
 

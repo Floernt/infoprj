@@ -25,7 +25,7 @@ description: Arrêté royal du 24 septembre 2023 - Liste de contrôle du plan de
 keywords: liste de contrôle plan de réorganisation, arrêté royal 24 septembre 2023,
   plan PME réorganisation judiciaire, juge délégué conditions de forme, XX.70/1, XX.77,
   contenu du plan
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal
 

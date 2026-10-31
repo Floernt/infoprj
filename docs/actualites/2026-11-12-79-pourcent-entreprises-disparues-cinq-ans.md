@@ -15,9 +15,9 @@ description: 79 % des entreprises en PRJ (2009-2017) disparues dans les cinq ans
   lecture d'une statistique sur l'efficacité de la réorganisation judiciaire et le
   recours tardif à la procédure
 keywords: taux de réussite réorganisation judiciaire, PRJ statistiques, entreprises
-  disparues après PRJ, échec réorganisation judiciaire, recours tardif
-  PRJ, transfert sous autorité judiciaire
-updated: '2026-10-30'
+  disparues après PRJ, échec réorganisation judiciaire, recours tardif PRJ, transfert
+  sous autorité judiciaire
+updated: '2026-10-31'
 ---
 # 79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre
 

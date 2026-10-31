@@ -20,7 +20,7 @@ description: 11.665 faillites en Belgique en 2025 (Statbel) face au recul des pr
 keywords: faillites 2025 Belgique, Statbel faillites, nombre de réorganisations judiciaires,
   PRJ statistiques, recours tardif réorganisation, prévention faillite, chambre des
   entreprises en difficulté
-updated: '2026-10-30'
+updated: '2026-10-31'
 ---
 # Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation
 
