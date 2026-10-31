@@ -41,7 +41,7 @@ Sous l'ancien régime, la réorganisation par transfert permettait au cessionnai
 
 ## L'arrêt Plessers (16 mai 2019)
 
-Dans l'affaire Plessers (C-509/17), la Cour juge que la réorganisation judiciaire par transfert, telle qu'elle existait alors, ne remplissait pas ces conditions. Selon la lecture qu'en ont faite les commentateurs belges, elle n'était pas une procédure analogue à la faillite, elle visait le maintien de tout ou partie des activités plutôt que la liquidation des biens du cédant, et elle ne se déroulait pas sous le contrôle d'une autorité de justice au sens de la directive. Le sort réservé aux travailleurs non repris était donc contraire au droit de l'Union.
+Dans l'affaire Plessers (C-509/17), la Cour juge que la réorganisation judiciaire par transfert, telle qu'elle existait alors, ne remplissait pas ces conditions. En substance, elle n'était pas une procédure analogue à la faillite, elle visait le maintien de tout ou partie des activités plutôt que la liquidation des biens du cédant, et elle ne se déroulait pas sous le contrôle d'une autorité de justice au sens de la directive. Le sort réservé aux travailleurs non repris était donc contraire au droit de l'Union.
 
 ## La réponse du législateur de 2023
 
@@ -57,7 +57,7 @@ Dans l'affaire Heiploeg (C-237/20), relative au pre-pack néerlandais, la Cour n
 
 Pour un dirigeant, demander un transfert sous autorité judiciaire revient à organiser la liquidation de sa société, même si l'activité et une partie des emplois peuvent survivre chez un repreneur. Pour les travailleurs, le régime du transfert reste encadré par la directive, ce qui explique les débats sur le choix des travailleurs repris. Le fonctionnement de la procédure est décrit dans [Transfert et autres issues](../comprendre/transfert-alternatives.md) et dans [La réforme de 2023](../comprendre/reforme-2023.md).
 
-*CJUE, 16 mai 2019, Plessers, C-509/17 ; CJUE, 28 avril 2022, Heiploeg, C-237/20 ; N. Ouchinsky, formation du 22 mai 2023 et exposé REDI du 8 juin 2023 ; R. Aydogdu, « La faillite silencieuse (pre-pack faillite) », REDI, 8 juin 2023.*
+*CJUE, 16 mai 2019, Plessers, C-509/17 ; CJUE, 28 avril 2022, Heiploeg, C-237/20.*
 
 <!-- actualites:auto:start -->
 ---

@@ -2,12 +2,9 @@
 title: 'Classes et cram-down : ce que la jurisprudence française et néerlandaise peut
   apprendre au juge belge'
 date: '2026-11-26'
-type: doctrine
+type: jurisprudence
 source:
-  auteur: Y. Brulard
-  publication: « Retour d'expérience », exposé au séminaire de la Revue des entreprises
-    en difficulté (REDI)
-  date: '2023-06-08'
+  juridiction: Juridictions françaises et néerlandaises
 themes:
 - cram-down
 - classes-creanciers
@@ -18,9 +15,9 @@ articles_cde:
 - XX.83/18
 resume: La directive de 2019 a été transposée plus tôt en France et aux Pays-Bas,
   dont les tribunaux ont rendu les premières décisions sur les classes et l'application
-  forcée interclasse. Plusieurs de ces décisions, commentées en Belgique avant l'entrée
-  en vigueur de la réforme, éclairent la constitution des classes et les dérogations
-  à la règle de priorité.
+  forcée interclasse. Plusieurs de ces décisions, rendues avant l'entrée en vigueur
+  de la réforme belge, éclairent la constitution des classes et les dérogations à
+  la règle de priorité.
 description: Regard comparé sur les premières décisions étrangères de cram-down (Versailles,
   Grenoble ALLIMAND, Pontoise UNHYCOS, Rotterdam) et leur intérêt pour l'article XX.83/18
   CDE
@@ -31,7 +28,7 @@ updated: '2026-10-30'
 ---
 # Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge
 
-La directive (UE) 2019/1023 a été transposée en France et aux Pays-Bas avant de l'être en Belgique. Lorsque le régime belge des classes est entré en vigueur, le 1er septembre 2023, des tribunaux étrangers avaient donc déjà dû répondre aux questions que posent les articles XX.83/9 à XX.83/18 du Code de droit économique. Au séminaire de la Revue des entreprises en difficulté du 8 juin 2023, un praticien bruxellois, ancien expert de la Commission européenne, a présenté une quinzaine de ces décisions. En voici quelques-unes, choisies pour leur intérêt pratique.
+La directive (UE) 2019/1023 a été transposée en France et aux Pays-Bas avant de l'être en Belgique. Lorsque le régime belge des classes est entré en vigueur, le 1er septembre 2023, des tribunaux étrangers avaient donc déjà dû répondre aux questions que posent les articles XX.83/9 à XX.83/18 du Code de droit économique. En voici quelques-unes, choisies pour leur intérêt pratique.
 
 ## La constitution des classes
 
@@ -45,9 +42,9 @@ Ces solutions résonnent avec l'article XX.83/9, qui regroupe dans des classes d
 
 **Tribunal de commerce de Grenoble, 4 avril 2023 (ALLIMAND).** Le plan dérogeait à l'ordre des priorités au détriment de créanciers privilégiés qui avaient voté contre. Le tribunal admet la dérogation et la juge « absolument nécessaire » : sans elle, les conditions de la reprise par un investisseur n'étaient pas remplies et tout plan de sauvegarde devenait impossible ; en cas de liquidation, les créanciers privilégiés dissidents n'auraient obtenu aucun désintéressement. Le plan apparaissait donc comme la meilleure solution pour tous, y compris pour eux.
 
-**Tribunal de commerce de Pontoise, 10 février 2023 (UNHYCOS).** Selon la lecture qui en a été présentée, la priorité n'a pas fait obstacle au plan, faute d'alternative.
+**Tribunal de commerce de Pontoise, 10 février 2023 (UNHYCOS).** La priorité n'a pas fait obstacle au plan, faute d'alternative.
 
-**BCM Energy (France).** Présentée comme le premier cas réussi sous le nouveau régime français, l'affaire a vu une classe composée d'une banque chirographaire voter contre le plan. Le juge a homologué, en relevant que la question de la priorité ne se posait pas en l'absence de créanciers subordonnés.
+**BCM Energy (France).** Souvent décrite comme le premier cas réussi sous le nouveau régime français, l'affaire a vu une classe composée d'une banque chirographaire voter contre le plan. Le juge a homologué, en relevant que la question de la priorité ne se posait pas en l'absence de créanciers subordonnés.
 
 Le raisonnement de Grenoble est très proche de celui que tiendra le tribunal de l'entreprise de Liège, division Namur, le 23 janvier 2024, pour admettre des « motifs raisonnables » de déroger à la priorité absolue au sens de l'article XX.83/18, § 1er, 3° (voir [notre note sur cette décision](2026-10-30-namur-application-forcee-interclasse.md)).
 
@@ -59,7 +56,7 @@ Les régimes ne sont pas identiques. La directive laissait aux États membres de
 
 Pour celui qui prépare un plan par classes, ces décisions montrent que l'issue d'un cram-down se joue sur deux terrains : la cohérence de la répartition en classes, et la démonstration chiffrée que la classe dissidente ne recevrait pas davantage dans l'alternative réaliste. Les règles belges sont exposées dans [Grandes entreprises et classes](../comprendre/grandes-entreprises-classes.md) et [Meilleur intérêt et cram-down](../comprendre/meilleur-interet-cram-down.md) ; le point de vue du créancier, dans [Classes et cram-down](../creanciers/classes-cram-down.md).
 
-*Y. Brulard, « Retour d'expérience », REDI, 8 juin 2023 ; extrait du jugement ALLIMAND cité par D. Gol, webinaire LEXDURA ; CA Versailles, 14 mars 2023 ; Trib. Rotterdam, 9 mars 2023 ; T. com. Pontoise, 10 février 2023 ; T. com. Grenoble, 4 avril 2023.*
+*CA Versailles, 14 mars 2023 ; Trib. Rotterdam, 9 mars 2023 ; T. com. Pontoise, 10 février 2023 ; T. com. Grenoble, 4 avril 2023.*
 
 <!-- actualites:auto:start -->
 ---

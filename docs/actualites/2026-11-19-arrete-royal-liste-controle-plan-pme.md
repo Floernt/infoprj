@@ -39,9 +39,9 @@ L'article XX.77, § 3, en tire la conséquence procédurale : « Le débiteur ne
 
 ## Ce que l'on sait de la pratique
 
-Selon un juge consulaire du tribunal de l'entreprise du Brabant wallon, l'arrêté royal du 24 septembre 2023 « liste et explique les conditions de forme à vérifier par le juge délégué ». Concrètement, le juge délégué envoie au débiteur et à son conseil ses commentaires sur le respect des conditions de forme du projet de plan. Ce document n'est pas déposé dans le registre Regsol. La loi ne fixe aucun délai pour cet échange ; le même magistrat suggère, sous forme de question, un envoi au plus tard deux jours ouvrables avant la date limite de dépôt du plan. Certains tribunaux, comme celui du Hainaut, ont développé leur propre modèle de rapport.
+L'arrêté royal du 24 septembre 2023 liste et explique les conditions de forme à vérifier par le juge délégué. Concrètement, le juge délégué envoie au débiteur et à son conseil ses commentaires sur le respect des conditions de forme du projet de plan. Ce document n'est pas déposé dans le registre Regsol. La loi ne fixe aucun délai pour cet échange ; un envoi au plus tard deux jours ouvrables avant la date limite de dépôt du plan paraît raisonnable. Certains tribunaux, comme celui du Hainaut, ont développé leur propre modèle de rapport.
 
-Pour les grandes entreprises et les PME qui ont choisi le régime des classes, l'article XX.83/4, § 4, prévoit seulement que le Roi « peut » mettre une liste de contrôle à disposition. Selon la même source (février 2024), aucun arrêté royal ne décrivait alors les rubriques propres à ce régime. Le juge délégué y procède toutefois à la même vérification préalable (art. XX.83/11, § 3), et la plupart des rubriques sont communes aux deux régimes.
+Pour les grandes entreprises et les PME qui ont choisi le régime des classes, l'article XX.83/4, § 4, prévoit seulement que le Roi « peut » mettre une liste de contrôle à disposition. En février 2024, aucun arrêté royal ne décrivait les rubriques propres à ce régime. Le juge délégué y procède toutefois à la même vérification préalable (art. XX.83/11, § 3), et la plupart des rubriques sont communes aux deux régimes.
 
 ## Portée
 
@@ -51,7 +51,7 @@ La vérification porte sur la forme. Elle ne préjuge pas de l'homologation, qui
 
 Le dirigeant et son conseil ont intérêt à rédiger le plan en suivant la structure de la liste de contrôle dès le départ, et à soumettre le projet au juge délégué suffisamment tôt pour pouvoir tenir compte de ses remarques. Le professionnel du chiffre qui prépare les annexes financières (liste des créanciers avec une colonne « principal et intérêts », budget de trésorerie, justification de la viabilité) y trouvera la grille attendue. La rédaction du plan est détaillée dans [Rédiger le plan](../dirigeants/plan-reorganisation.md), et le régime du plan des PME dans [Accord amiable et accord collectif](../comprendre/accord-amiable-collectif.md).
 
-*Arrêté royal du 24 septembre 2023 établissant une liste de contrôle relative au plan de réorganisation des petites et moyennes entreprises ; art. XX.70/1 et XX.77 CDE ; G. Pierson, « Procédure publique de réorganisation judiciaire par accord collectif : les points de vigilance du juge délégué », tribunal de l'entreprise du Brabant wallon, 20 février 2024.*
+*Arrêté royal du 24 septembre 2023 établissant une liste de contrôle relative au plan de réorganisation des petites et moyennes entreprises ; art. XX.70/1 et XX.77 CDE.*
 
 <!-- actualites:auto:start -->
 ---

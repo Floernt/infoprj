@@ -4,8 +4,7 @@ title: 'Réorganisations judiciaires dans le ressort de Liège : quinze ans de c
 date: '2026-12-10'
 type: pratique
 source:
-  publication: Statistiques du tribunal de l'entreprise de Liège, présentées par D.
-    Gol, présidente de division (Études et Expansion)
+  publication: Statistiques du tribunal de l'entreprise de Liège
   date: '2025-02-20'
 themes:
 - statistiques
@@ -25,7 +24,7 @@ updated: '2026-10-30'
 ---
 # Réorganisations judiciaires dans le ressort de Liège : quinze ans de chiffres (2009-2024)
 
-Les statistiques de la réorganisation judiciaire sont rarement publiées. Le 20 février 2025, la présidente de division au tribunal de l'entreprise de Liège a présenté le nombre de requêtes en réorganisation judiciaire publique ou en transfert déposées dans le ressort du tribunal depuis 2009. Ces chiffres ont été repris lors d'un séminaire organisé à HEC Liège le 10 mars 2025. Ils couvrent les divisions de Liège, Huy et Verviers, de Neufchâteau, Arlon et Marche, et de Dinant et Namur.
+Les statistiques de la réorganisation judiciaire sont rarement publiées. En février 2025, le tribunal de l'entreprise de Liège a communiqué le nombre de requêtes en réorganisation judiciaire publique ou en transfert déposées dans le ressort du tribunal depuis 2009. Ils couvrent les divisions de Liège, Huy et Verviers, de Neufchâteau, Arlon et Marche, et de Dinant et Namur.
 
 ## Les chiffres
 
@@ -63,7 +62,7 @@ La comparaison avec les faillites est néanmoins parlante. En 2025, la Belgique 
 
 Pour un dirigeant, la réorganisation judiciaire reste une procédure courante : plus d'une centaine d'entreprises y recourent chaque année dans ce seul ressort, et la réforme de 2023 a élargi la palette des outils disponibles avant d'en arriver à la procédure publique. Ces outils sont présentés dans [La boîte à outils du Livre XX](../comprendre/boite-a-outils.md). D'autres données chiffrées sont rassemblées dans la page [Chiffres](../chiffres.md).
 
-*Chiffres du tribunal de l'entreprise de Liège présentés par D. Gol, présidente de division, le 20 février 2025 (Études et Expansion), repris par L. Stas de Richelle et C. Delbouille, « Actualités en restructuration des entreprises », HEC Liège, 10 mars 2025.*
+*Chiffres du tribunal de l'entreprise de Liège, février 2025.*
 
 <!-- actualites:auto:start -->
 ---

@@ -56,7 +56,7 @@ Sujets abandonnés faute de source suffisante : TE Hainaut, div. Mons, 24.2.2025
 - actualites/2026-10-30-namur-… — qualifiée de « l'une des premières » applications forcées interclasse (aucune source ne dit « premier ») ; jugement inédit connu par des extraits de formation ; statut de PME ayant opté pour les classes non vérifié — Pierson, Gol.
 - actualites/2026-10-30-abandons-… — point de départ (8.1.2024 ou 1.9.2023), intitulé exact de la loi du 28.12.2023 — source unique Meyahed.
 - actualites/2026-10-30-plessers-… — lecture des trois conditions de Plessers et date de l'avis du Conseil d'État (21.12.2022) d'après le seul Ouchinsky ; Heiploeg daté du 28 avril (Aydogdu écrit aussi « 22 avril »).
-- actualites/2026-11-12-lebeau-… — mention de la loi du 31 janvier 2009 tirée des connaissances du rédacteur, absente des sources.
+- actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans — mention de la loi du 31 janvier 2009 tirée des connaissances du rédacteur, absente des sources.
 - actualites/2026-11-19-arrete-… — rattachement de l'AR à XX.70/1 § 4 présenté comme « en lien avec », texte de l'AR non consulté.
 - actualites/2026-11-26-cram-down-… — antériorité des transpositions française et néerlandaise tirée des connaissances du rédacteur ; UNHYCOS connu par une ligne de résumé.
 - actualites/2026-12-03-spf-… — nouveau plan de paiement décrit d'après une seule diapositive (HEC 2026) ; critères et base réglementaire inconnus.

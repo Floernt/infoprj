@@ -239,3 +239,13 @@ Suppression des dossiers non suivis devenus inutiles : clone `infofaillite/` (se
 **Outils utilises :** aucun
 
 ---
+
+## 2026-10-30 16:33:09 - session a3d9141d
+
+**Demande :** heberge la police sur le site puis pousse les commit
+
+**Action :** Albert Sans est maintenant servie par le site lui-même, et `gh-pages` est poussée sur GitHub avec les cinq commits de la session.  - **Police** : les fichiers sont dans [docs/assets/fonts/](docs/assets/fonts/), en version variable (toutes les graisses, romain et italique) sous licence SIL OFL. La déclaration est dans [docs/stylesheets/extra.css](docs/stylesheets/extra.css), et [overrides/main.html](overrides/main.html) ne charge plus Google Fonts. - **Vérifications** : aucune page du site compil...
+
+**Outils utilises :** aucun
+
+---

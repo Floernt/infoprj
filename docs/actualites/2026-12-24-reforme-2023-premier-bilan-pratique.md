@@ -3,11 +3,6 @@ title: 'Réforme de 2023 : un premier bilan pratique à partir des constats des 
   et des praticiens'
 date: '2026-12-24'
 type: pratique
-source:
-  publication: Constats présentés par des magistrats des tribunaux de l'entreprise
-    et des praticiens (2024-2026), notamment « Actualités en restructuration des entreprises
-    », HEC Liège
-  date: '2025-03-10'
 themes:
 - droit-europeen
 - prj-privee
@@ -27,7 +22,7 @@ updated: '2026-10-30'
 ---
 # Réforme de 2023 : un premier bilan pratique à partir des constats des juges et des praticiens
 
-La loi du 7 juin 2023, qui transpose la directive (UE) 2019/1023, est entrée en vigueur le 1er septembre 2023. Aucun bilan officiel n'a été publié depuis, et les statistiques disponibles restent partielles. Les interventions de magistrats et de praticiens lors de formations organisées entre 2024 et 2026 permettent toutefois de dégager quelques tendances. Elles sont présentées ici comme des constats de terrain, et non comme des données mesurées.
+La loi du 7 juin 2023, qui transpose la directive (UE) 2019/1023, est entrée en vigueur le 1er septembre 2023. Aucun bilan officiel n'a été publié depuis, et les statistiques disponibles restent partielles. Les constats de magistrats et de praticiens permettent toutefois de dégager quelques tendances. Elles sont présentées ici comme des constats de terrain, et non comme des données mesurées.
 
 ## Les outils amiables et la PRJ privée gagnent du terrain
 
@@ -52,8 +47,6 @@ Du côté des tribunaux, le juge délégué vérifie désormais la forme du plan
 ## Ce qu'il faut en retenir
 
 Pour un dirigeant, la réforme a surtout élargi le choix : avant d'envisager une procédure publique, il vaut la peine d'examiner si un accord devant la chambre des entreprises en difficulté ou une PRJ privée suffirait. Pour un créancier, les nouveaux droits n'ont d'effet que s'ils sont exercés à temps. Les principales nouveautés sont présentées dans [La réforme de 2023](../comprendre/reforme-2023.md), et les outils disponibles dans [La boîte à outils du Livre XX](../comprendre/boite-a-outils.md).
-
-*L. Stas de Richelle et C. Delbouille, « Actualités en restructuration des entreprises », HEC Liège, 10 mars 2025, et « Actualités et perspectives en droit de l'insolvabilité », HEC Liège, 23 février 2026 ; G. Pierson, « Les points de vigilance du juge délégué », tribunal de l'entreprise du Brabant wallon, 20 février 2024 ; D. Gol, « La PRJ publique par accord collectif pour les grandes entreprises », webinaire LEXDURA.*
 
 <!-- actualites:auto:start -->
 ---
