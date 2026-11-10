@@ -16,9 +16,9 @@ articles_cde:
 - XX.83/4
 - XX.83/11
 resume: Un arrêté royal du 24 septembre 2023 établit une liste de contrôle pour les
-  plans de réorganisation des PME. Elle recense et explique les conditions de forme
-  que le juge délégué vérifie avant que le plan puisse être déposé. Aucun texte équivalent
-  n'existe pour les grandes entreprises.
+  plans de réorganisation des PME. Elle énumère les informations minimales que le
+  plan doit contenir et aide le débiteur à le rédiger, avant la vérification de forme
+  par le juge délégué. L'arrêté ne vise que les PME.
 description: Arrêté royal du 24 septembre 2023 - Liste de contrôle du plan de réorganisation
   des PME, vérification de forme par le juge délégué avant dépôt (art. XX.70/1 et
   XX.77 CDE)
@@ -39,9 +39,9 @@ L'article XX.77, § 3, en tire la conséquence procédurale : « Le débiteur ne
 
 ## Ce que l'on sait de la pratique
 
-L'arrêté royal du 24 septembre 2023 liste et explique les conditions de forme à vérifier par le juge délégué. Concrètement, le juge délégué envoie au débiteur et à son conseil ses commentaires sur le respect des conditions de forme du projet de plan. Ce document n'est pas déposé dans le registre Regsol. La loi ne fixe aucun délai pour cet échange ; un envoi au plus tard deux jours ouvrables avant la date limite de dépôt du plan paraît raisonnable. Certains tribunaux, comme celui du Hainaut, ont développé leur propre modèle de rapport.
+L'arrêté royal du 24 septembre 2023, pris en exécution de l'article XX.70/1 du Code de droit économique, prévoit que la liste de contrôle comprend au minimum les informations de son annexe A. Son rapport au Roi la présente comme un outil destiné à faciliter la tâche du débiteur lors de la rédaction du plan, et elle ne vise que les PME. En pratique, le juge délégué envoie au débiteur et à son conseil ses commentaires sur le respect des conditions de forme du projet de plan. Ce document n'est pas déposé dans le registre Regsol. La loi ne fixe aucun délai pour cet échange ; un envoi au plus tard deux jours ouvrables avant la date limite de dépôt du plan paraît raisonnable. Certains tribunaux, comme celui du Hainaut, ont développé leur propre modèle de rapport.
 
-Pour les grandes entreprises et les PME qui ont choisi le régime des classes, l'article XX.83/4, § 4, prévoit seulement que le Roi « peut » mettre une liste de contrôle à disposition. En février 2024, aucun arrêté royal ne décrivait les rubriques propres à ce régime. Le juge délégué y procède toutefois à la même vérification préalable (art. XX.83/11, § 3), et la plupart des rubriques sont communes aux deux régimes.
+Pour les grandes entreprises et les PME qui ont choisi le régime des classes, l'article XX.83/4, § 4, prévoit seulement que le Roi « peut » mettre une liste de contrôle à disposition. À notre connaissance, aucun arrêté royal ne décrit les rubriques propres à ce régime. Le juge délégué y procède toutefois à la même vérification préalable (art. XX.83/11, § 3), et la plupart des rubriques sont communes aux deux régimes.
 
 ## Portée
 
