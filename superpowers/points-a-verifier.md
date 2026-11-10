@@ -33,6 +33,18 @@ Corrections opérées : la faute grave et caractérisée relève de XX.225 (XX.2
 - dirigeants/en-cas-echec.md — dissolution judiciaire lors de l'aveu (XX.100) et conditions pratiques de la dissolution déficitaire — oFFFcourse, Alsteens.
 - Liens vers infofaillite.be limités à la racine du site.
 
+## Guide de novembre 2026 (FLO-15) : dirigeants/prj-privee-six-etapes.md
+
+Page en brouillon (`draft: true`, non filtré par la build : ne pas fusionner avant décision de Florian).
+
+- Tous les numéros d'articles (XX.83/22 à XX.83/41, XX.41 § 2, XX.79 § 4) sont repris des pages du site ; le texte consolidé n'a pas été relu (page Justel tronquée avant XX.83) — à vérifier article par article.
+- Art. XX.83/22, § 4, al. 2 et 3 : articulation peu claire entre la condition de l'intérêt collectif et l'octroi de droit si la requête émane du débiteur ou est soutenue par la majorité des détenteurs de capital ; non tranchée.
+- Cercle des « créanciers concernés » : mode de détermination et marge de choix du débiteur non décrits ; `prj-privee.md` (« peut indiquer ») et `glossaire.md` (« choisit d'impliquer ») ne disent pas exactement la même chose.
+- Coût et rémunération du praticien : aucun chiffre ; seul XX.83/28 (taxation, privilège) est cité.
+- Section « Avant de commencer » : position éditoriale (discrétion n'est pas protection) à faire sienne par Florian.
+- Exemple du bureau d'études : « exemple simplifié » repris de `prj-privee.md`, fictif.
+- Aucune jurisprudence ni pratique constatée : le guide s'en tient au texte. La jurisprudence « encore partagée » sur la détermination du montant des créances (mentionnée par `prj-privee.md`) n'est pas reprise.
+
 ## Rubrique Professionnel du chiffre
 
 Constats signalés dans les pages : les modèles de lettres ITAA citent encore l'ancien texte de XX.23 § 3 ; depuis la loi du 15 mai 2024, le conseiller fiscal certifié figure dans la 2e phrase de XX.23 § 3 mais plus dans la 1re ; nouveau Code pénal en vigueur au 1.9.2026 (anciens art. 490ter et 490quater devenus art. 494 et 495).
