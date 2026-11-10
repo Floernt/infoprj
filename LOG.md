@@ -2,6 +2,11 @@
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
 
+## [2026-11-10] feat | guide « La PRJ privée en six étapes » (brouillon)
+
+- Nouvelle page `docs/dirigeants/prj-privee-six-etapes.md` (`draft: true`), ajoutée au `nav` et à la grille de la rubrique Dirigeants. Guide de novembre 2026, ticket Paperclip FLO-15.
+- Points à vérifier consignés dans `superpowers/points-a-verifier.md`. `inject_git_dates.py` et le sitemap non régénérés : la page ne doit pas entrer dans le sitemap avant décision.
+
 ## [2026-10-31] edit | actualités sans référence aux articles sources ni à leurs auteurs
 
 - Douze notes d'actualité et `chiffres.md` : retrait des exposés, formations, commentaires et de leurs auteurs (cartouche `source`, corps, ligne de références finale) ; seules les sources primaires restent citées.

@@ -58,6 +58,7 @@ Cette rubrique concerne aussi bien le gérant ou l'administrateur d'une sociét�
 [**Quelle voie choisir ?** Accord, médiation, PRJ privée ou publique : un arbre de décision.](choisir-sa-voie.md){ .ifa-subtile }
 [**Accord et médiation** Négocier devant la chambre des entreprises en difficulté, sans publicité.](chambre-entreprises-difficulte.md){ .ifa-subtile }
 [**Préparer une PRJ** La requête, ses annexes et la check-list avant de déposer.](preparer-prj.md){ .ifa-subtile }
+[**La PRJ privée en six étapes** De la requête à la fin de la procédure, sans publication.](prj-privee-six-etapes.md){ .ifa-subtile }
 [**Rédiger le plan** Le contenu imposé, les limites légales et la crédibilité du budget.](plan-reorganisation.md){ .ifa-subtile }
 [**Après l'homologation** Exécuter le plan, éviter la révocation, traiter les abandons.](apres-homologation.md){ .ifa-subtile }
 [**Votre responsabilité** Ce que vous risquez personnellement et comment vous prémunir.](responsabilite-dirigeant.md){ .ifa-subtile }

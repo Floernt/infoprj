@@ -57,6 +57,7 @@ nav = [
     { "Quelle voie choisir ?" = "dirigeants/choisir-sa-voie.md" },
     { "Accord et médiation" = "dirigeants/chambre-entreprises-difficulte.md" },
     { "Préparer une PRJ" = "dirigeants/preparer-prj.md" },
+    { "La PRJ privée en six étapes" = "dirigeants/prj-privee-six-etapes.md" },
     { "Rédiger le plan" = "dirigeants/plan-reorganisation.md" },
     { "Après l'homologation" = "dirigeants/apres-homologation.md" },
     { "Votre responsabilité" = "dirigeants/responsabilite-dirigeant.md" },
