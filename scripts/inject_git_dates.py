@@ -164,17 +164,21 @@ def main(argv: list[str] | None = None) -> int:
 
     # Le sitemap statique reprend les dates `updated` : il suit leur mise à jour.
     # Le JSON-LD de la FAQ suit le contenu de la page des questions fréquentes.
-    sitemap_code = faq_code = 0
+    # llms.txt suit le menu et les descriptions des pages.
+    sitemap_code = faq_code = llms_code = 0
     if (repo_root / "overrides").is_dir() and (repo_root / "zensical.toml").is_file():
         sys.path.insert(0, str(Path(__file__).resolve().parent))
         import build_faq
+        import build_llms
         import build_sitemap
 
         check = ["--check"] if args.check else []
         faq_code = build_faq.main(check, repo_root=repo_root)
         sitemap_code = build_sitemap.main(check, repo_root=repo_root)
+        if (repo_root / "data" / "llms-intro.md").is_file():
+            llms_code = build_llms.main(check, repo_root=repo_root)
 
-    if args.check and (changed > 0 or sitemap_code or faq_code):
+    if args.check and (changed > 0 or sitemap_code or faq_code or llms_code):
         return 1
     return 0
 
