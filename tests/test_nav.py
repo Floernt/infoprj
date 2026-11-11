@@ -6,9 +6,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-# Pages publiées volontairement hors du menu (accueil, pied de page).
+# Pages publiées volontairement hors du menu (accueil, FAQ, pied de page).
 OFF_NAV = {
     "README.md",
+    "faq/README.md",
     "a-propos.md",
     "chiffres.md",
     "contact.md",
@@ -57,6 +58,6 @@ def test_top_level_nav_has_the_six_sections() -> None:
         "Je suis créancier",
         "Professionnel du chiffre",
         "Comprendre la PRJ",
+        "Guides",
         "Actualités",
-        "Questions fréquentes",
     ]

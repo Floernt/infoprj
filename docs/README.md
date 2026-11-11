@@ -113,6 +113,6 @@ Chaque rubrique répond aux questions que l'on se pose réellement, dans l'ordre
 
 Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 et suivants), tel que réformé par la loi du 7 juin 2023 qui transpose la directive (UE) 2019/1023 sur la restructuration préventive. Il s'applique aux procédures ouvertes depuis le 1er septembre 2023. Chaque entreprise en difficulté a ses particularités : pour votre situation, consultez votre expert-comptable ou réviseur d'entreprises, ou un avocat spécialisé en droit de l'insolvabilité.
 
-[Questions fréquentes](faq/README.md){ .ifa-btn } [Ressources et organismes](ressources.md){ .ifa-btn .ifa-btn--ghost } [Contact](contact.md){ .ifa-btn .ifa-btn--ghost }
+[Questions fréquentes](faq/README.md){ .ifa-btn } [Guides pas à pas](guides/README.md){ .ifa-btn .ifa-btn--ghost } [Ressources et organismes](ressources.md){ .ifa-btn .ifa-btn--ghost } [Contact](contact.md){ .ifa-btn .ifa-btn--ghost }
 {: .ifa-ctas }
 </div>
