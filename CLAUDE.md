@@ -24,7 +24,8 @@ Site documentaire **La réorganisation judiciaire en Belgique** (infoprj.be), si
 - [docs/creanciers/](docs/creanciers/) — parcours du créancier : débiteur en PRJ, créanciers sursitaires, vote, levée du sursis, initiative, classes, signaux.
 - [docs/chiffre/](docs/chiffre/) — parcours du professionnel du chiffre : alerte XX.23 §3, continuité et procédure d'alarme du CSA, chambre, valorisation, plan d'affaires, comptabilité et fiscalité des abandons, check-list.
 - [docs/comprendre/](docs/comprendre/) — règles de fond : définition, boîte à outils, réforme 2023, PRJ publique, sursis, PRJ privée, accords, grandes entreprises et classes, meilleur intérêt et cram-down, transfert et autres issues, acteurs.
-- [docs/faq/README.md](docs/faq/README.md) — FAQ unique : blocs `<details class="ifa-faq" id="…" data-profils="dirigeant creancier chiffre" markdown>` sous des H2 de thème à ancre explicite ; filtres dans [docs/javascripts/faq.js](docs/javascripts/faq.js). JSON-LD `FAQPage` généré par [scripts/build_faq.py](scripts/build_faq.py).
+- [docs/guides/](docs/guides/) — guides pas à pas : une procédure déroulée dans l'ordre où le lecteur la vit (premier guide : la PRJ privée en six étapes). Chaque nouveau guide entre dans le `nav` de la rubrique Guides et dans la grille de [docs/guides/README.md](docs/guides/README.md).
+- [docs/faq/README.md](docs/faq/README.md) — FAQ unique, **hors menu** (accueil, pied de page, recherche) : blocs `<details class="ifa-faq" id="…" data-profils="dirigeant creancier chiffre" markdown>` sous des H2 de thème à ancre explicite ; filtres dans [docs/javascripts/faq.js](docs/javascripts/faq.js). JSON-LD `FAQPage` généré par [scripts/build_faq.py](scripts/build_faq.py).
 - Front matter `public: [dirigeant, creancier, chiffre]` : affiché dans le bandeau (« Cette page concerne »), libellés dans [overrides/main.html](overrides/main.html).
 - Pages hors menu (pied de page) : [glossaire](docs/glossaire.md), [délais](docs/delais.md), [chiffres](docs/chiffres.md), [ressources](docs/ressources.md), [à propos](docs/a-propos.md), [contact](docs/contact.md).
 - [docs/actualites/](docs/actualites/) — notes d'actualité, une par fichier `AAAA-MM-JJ-slug.md`. `README.md` et `themes.md` générés entre marqueurs.
@@ -35,9 +36,10 @@ Site documentaire **La réorganisation judiciaire en Belgique** (infoprj.be), si
 
 ## Navigation
 
-- Le menu est **explicite** : `nav` dans [zensical.toml](zensical.toml), six rubriques (Je dirige l'entreprise, Je suis créancier, Professionnel du chiffre, Comprendre la PRJ, Actualités, Questions fréquentes).
-- **Toute nouvelle page de fond doit être ajoutée au `nav`**. [tests/test_nav.py](tests/test_nav.py) échoue sinon. Exceptions : l'accueil, les pages du pied de page et les notes d'actualité.
-- Le **sitemap est statique**, généré par [scripts/build_sitemap.py](scripts/build_sitemap.py) dans [overrides/sitemap.xml](overrides/sitemap.xml), régénéré par `inject_git_dates.py`.
+- Le menu est **explicite** : `nav` dans [zensical.toml](zensical.toml), six rubriques (Je dirige l'entreprise, Je suis créancier, Professionnel du chiffre, Comprendre la PRJ, Guides, Actualités). L'en-tête maison ([overrides/partials/header.html](overrides/partials/header.html)) n'a pas de sous-menus et ne tient pas plus de six libellés de cette longueur sur un écran de portable.
+- **Toute nouvelle page de fond doit être ajoutée au `nav`**. [tests/test_nav.py](tests/test_nav.py) échoue sinon. Exceptions : l'accueil, la FAQ, les pages du pied de page et les notes d'actualité.
+- Le **sitemap est statique**, généré par [scripts/build_sitemap.py](scripts/build_sitemap.py) dans [overrides/sitemap.xml](overrides/sitemap.xml), régénéré par `inject_git_dates.py`. Les pages `draft: true` en sont exclues.
+- **`llms.txt` est généré** par [scripts/build_llms.py](scripts/build_llms.py) dans [overrides/llms.txt](overrides/llms.txt) (format llmstxt.org) : partie fixe dans [data/llms-intro.md](data/llms-intro.md), puis une section par rubrique du `nav` (libellé du menu + `description` du front matter), FAQ, pages du pied de page, notes d'actualité publiées. Régénéré par `inject_git_dates.py` et au déploiement ; ne pas l'éditer à la main, soigner plutôt la `description` des pages.
 - Les pages d'entrée de rubrique ouvrent sur une grille `ifa-subtiles` : la tenir à jour quand une page est ajoutée.
 
 ## Actualités : publier une note

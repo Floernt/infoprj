@@ -2,6 +2,13 @@
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
 
+## [2026-11-11] feat | rubrique Guides, menu réorganisé, llms.txt généré
+
+- Décision de Florian : la FAQ sort du menu pour laisser place à la rubrique « Guides » (l'en-tête ne tient pas sept libellés). La FAQ reste atteignable par l'accueil, le pied de page (« Pages utiles ») et la recherche.
+- Nouvelle rubrique `docs/guides/` (page d'entrée en tuiles) ; le guide « La PRJ privée en six étapes » y est déplacé, sans références légales, `draft: true` retiré par Florian. La rubrique Dirigeants y renvoie par une tuile.
+- `llms.txt` : un seul fichier pour tout le site (convention llmstxt.org), désormais généré par `scripts/build_llms.py` depuis `data/llms-intro.md`, le `nav` et les `description` des pages ; appelé par `inject_git_dates.py` et au déploiement. Copié tel quel dans le site (pas de rendu Jinja), d'où l'absence d'en-tête.
+- `build_sitemap.py` exclut les pages `draft: true`. Tests : `test_build_llms.py`, cas brouillon du sitemap, `test_nav` (nouvelle liste des rubriques).
+
 ## [2026-11-10] feat | guide « La PRJ privée en six étapes » (brouillon)
 
 - Nouvelle page `docs/dirigeants/prj-privee-six-etapes.md` (`draft: true`), ajoutée au `nav` et à la grille de la rubrique Dirigeants. Guide de novembre 2026, ticket Paperclip FLO-15.
@@ -256,6 +263,76 @@ Suppression des dossiers non suivis devenus inutiles : clone `infofaillite/` (se
 **Demande :** heberge la police sur le site puis pousse les commit
 
 **Action :** Albert Sans est maintenant servie par le site lui-même, et `gh-pages` est poussée sur GitHub avec les cinq commits de la session.  - **Police** : les fichiers sont dans [docs/assets/fonts/](docs/assets/fonts/), en version variable (toutes les graisses, romain et italique) sous licence SIL OFL. La déclaration est dans [docs/stylesheets/extra.css](docs/stylesheets/extra.css), et [overrides/main.html](overrides/main.html) ne charge plus Google Fonts. - **Vérifications** : aucune page du site compil...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-31 19:34:14 - session 8a68b2f1
+
+**Demande :** je vois dans les articles qu'il y a le nom des auteurs ou des sources. supprime les références liées à l'article source et son auteursupprime les références liées à l'article source et son auteur et retiens cette règle
+
+**Action :** J'ai retiré les références aux articles sources et à leurs auteurs dans les douze notes d'actualité et dans [chiffres.md](docs/chiffres.md). Les tests passent (48) et le travail est commité en deux commits sur `gh-pages`, sans push.  **Ce qui a disparu** : les noms (Lebeau, Brulard, Pierson, Gol, Meyahed, Alter, Ouchinsky, Aydogdu, Stas de Richelle, Delbouille), les lieux où le contenu a été présenté (REDI, HEC Liège, LEXDURA, réseau CAP, Études et Expansion) et les désignations qui permettaient...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-10-31 19:35:10 - session 8a68b2f1
+
+**Demande :** ok pousse sur git
+
+**Action :** J'ai poussé `gh-pages` sur GitHub (`14ae234..bb19021`), avec les deux commits de la session. Le site publié ne change pas tant que tu n'as pas fusionné la pull request `gh-pages` → `main`.  Il reste dans `LOG.md` une modification non commitée : c'est l'entrée ajoutée automatiquement à la fin de ma réponse précédente. Elle partira avec le prochain commit.
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-10 09:56:39 - session 93c078d6
+
+**Demande :** met à jour la branch en local
+
+**Action :** Les branches locales sont à jour. `gh-pages` et `main` pointent maintenant toutes les deux sur `53d048d`, le merge de la PR #2. Les deux ont avancé en fast-forward, donc sans conflit ni réécriture de l'historique.  - **`gh-pages`** a maintenant 2 commits d'avance sur `origin/gh-pages`. Ce sont les deux commits de merge des PR #1 et #2 : aucun contenu ne manque sur GitHub. Un `git push origin gh-pages` évitera que la prochaine PR les affiche, mais je n'ai rien poussé. - **`LOG.md`** a toujours se...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-10 09:57:32 - session 93c078d6
+
+**Demande :** <ide_opened_file>The user opened the file c:\Users\FlorianErnotteavroya\infoprj\docs\dirigeants\choisir-sa-voie.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
+
+**Action :** Ce commit n'est pas sur `gh-pages`. Il se trouve uniquement sur une branche distante créée par EdiProd, `origin/ediprod/FLO-15-prj-privee-six-etapes`, ce qui explique qu'il n'apparaissait pas après la mise à jour.  **Le commit (`e420cbb`, 10 novembre, 09:28)** : « Guide de novembre : la PRJ privée en six étapes (brouillon, `draft: true`) ». Il touche cinq fichiers : - il crée [docs/dirigeants/prj-privee-six-etapes.md](docs/dirigeants/prj-privee-six-etapes.md) (191 lignes) ; - il ajoute une ligne...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-10 09:58:41 - session 93c078d6
+
+**Demande :** L'intégrer à gh-pages
+
+**Action :** Le commit d'EdiProd est intégré à `gh-pages` (fast-forward, `gh-pages` est maintenant sur `e420cbb`), et les 48 tests passent. Tes entrées de `LOG.md` sont revenues sans conflit après le merge et restent non commitées, comme avant.  Deux remarques :  - **La page est en brouillon** (`draft: true`). EdiProd n'a pas lancé `inject_git_dates.py` ni régénéré le sitemap, exprès, pour qu'elle n'entre pas dans le sitemap avant ta décision. Elle a pourtant déjà été ajoutée au `nav` et à la grille de la ru...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-10 16:27:22 - session 9287d68d
+
+**Demande :** supprime les références légales de larticle
+
+**Action :** J'ai retiré toutes les références légales visibles de [docs/dirigeants/prj-privee-six-etapes.md](docs/dirigeants/prj-privee-six-etapes.md). Rien n'est commité.  - **Texte courant :** toutes les parenthèses « (art. XX.83/…) » sont parties, ainsi que la phrase d'intro qui renvoyait aux articles XX.83/22 à XX.83/41. - **Renvois à d'autres articles :** les deux passages qui citaient un article dans la phrase même ont été réécrits. « Le sursis des articles XX.50 et suivants » devient « le sursis prév...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-10 16:28:33 - session 9287d68d
+
+**Demande :** <ide_opened_file>The user opened the file c:\Users\FlorianErnotteavroya\infoprj\docs\dirigeants\prj-privee-six-etapes.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
+
+**Action :** Il ne reste plus aucune référence légale dans [prj-privee-six-etapes.md](docs/dirigeants/prj-privee-six-etapes.md), y compris dans les commentaires `[À VÉRIFIER]`. J'ai vérifié par recherche dans le fichier : plus de « XX », « art. », « § » ni de colonne « Base légale ».  Ma première passe avait été effacée : tu as enregistré la page dans VS Code alors que l'éditeur affichait encore l'ancienne version. J'ai refait la suppression en gardant tes deux modifications (le commentaire BROUILLON retiré,...
 
 **Outils utilises :** aucun
 

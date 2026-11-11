@@ -1,12 +1,14 @@
 ---
-description: 'La PRJ privée pas à pas pour le dirigeant : requête, praticien de la réorganisation, négociation, sursis ciblé, accord amiable ou plan collectif, fin de la procédure ; ce qui reste confidentiel et ce qui ne l''est pas.'
-keywords: PRJ privée étapes, réorganisation judiciaire privée mode d'emploi, requête praticien
-  de la réorganisation, sursis ciblé, accord amiable, plan collectif, confidentialité PRJ
-  privée, dirigeant
+description: 'La PRJ privée pas à pas pour le dirigeant : requête, praticien de la
+  réorganisation, négociation, sursis ciblé, accord amiable ou plan collectif, fin
+  de la procédure ; ce qui reste confidentiel et ce qui ne l''est pas.'
+keywords: PRJ privée étapes, réorganisation judiciaire privée mode d'emploi, requête
+  praticien de la réorganisation, sursis ciblé, accord amiable, plan collectif, confidentialité
+  PRJ privée, dirigeant
 public:
 - dirigeant
 - creancier
-updated: '2026-11-10'
+updated: '2026-11-11'
 ---
 # La PRJ privée en six étapes
 

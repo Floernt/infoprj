@@ -1,13 +1,14 @@
 ---
-description: 'Guides pas à pas sur la réorganisation judiciaire en Belgique : les procédures
-  dans l''ordre où vous les vivrez, étape par étape, avec ce qu''il faut préparer à chaque
-  moment.'
+description: 'Guides pas à pas sur la réorganisation judiciaire en Belgique : les
+  procédures dans l''ordre où vous les vivrez, étape par étape, avec ce qu''il faut
+  préparer à chaque moment.'
 keywords: guide PRJ, réorganisation judiciaire étape par étape, PRJ privée mode d'emploi,
   guide pratique dirigeant, procédure pas à pas
 public:
 - dirigeant
 - creancier
 - chiffre
+updated: '2026-11-11'
 ---
 # Guides pas à pas
 
