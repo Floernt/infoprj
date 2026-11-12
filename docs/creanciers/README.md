@@ -25,6 +25,7 @@ Cette rubrique adopte votre point de vue de créancier, qu'il s'agisse d'un four
 [**Prendre l'initiative** PRJ privée à la demande d'un créancier, praticien de la réorganisation, transfert sous autorité de justice.](initiative-creancier.md){ .ifa-subtile }
 [**Classes et cram-down** Votre place dans une classe, ce que vous pouvez contester et le rôle du juge.](classes-cram-down.md){ .ifa-subtile }
 [**Repérer un débiteur fragile** Les signaux d'alerte, les protections à prendre et l'accord amiable.](signaux-creancier.md){ .ifa-subtile }
+[**Guide : le transfert sous autorité de justice** Votre rang sur le prix, les contrats repris, le moment d'agir.](../guides/transfert-sous-autorite-de-justice.md){ .ifa-subtile }
 </div>
 
 ---

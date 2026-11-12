@@ -54,6 +54,41 @@ Le guide ne cite aucun article et ne fait que réordonner les pages de la rubriq
 - Calendrier — dates de l'exemple calculées à partir de celui de `comprendre/prj-publique.md` (jugement du 20 février) ; les dates de publication (25 février) et de courrier (28 février) supposent que les délais maximaux sont utilisés.
 - Exemple du grossiste (48 000 euros, dont 6 000 de clause pénale) repris de `creanciers/debiteur-en-prj.md` ; « 42 000 euros » = créance hors clause pénale, en supposant le dommage réel nul. Exemple fictif.
 
+## Guide de janvier 2027 : guides/dirigeant-prj-publique.md
+
+Aucun article cité ; repris des pages Dirigeants et Comprendre. Points propres :
+
+- Étape 1 — annexes résumées en huit puces (8°/2, 10° et 11° omis), avec renvoi à la liste complète de `preparer-prj.md#requete`.
+- Étape 1 — budget « mois par mois sur douze mois » : opinion marquée « à mon sens » dans `chiffre/plan-affaires-tresorerie.md`, reprise ici sans marqueur. À assumer ou à retirer.
+- Étape 5 — dettes nées pendant la procédure « payées par priorité » en cas de faillite rapprochée : simplification de « dettes de masse » (XX.58).
+- Étape 5 — « joignez à la requête en prorogation le budget actualisé et l'état d'avancement » : indication pratique de `delais.md`, pas une exigence légale citée.
+- Étape 7 — rien sur le caractère suspensif de l'appel contre l'homologation ; vote des détenteurs de capital (XX.67 / XX.78/2) volontairement omis.
+- Étape 8 — reprise de l'exonération des abandons par quarts présentée sans conditions ni cas de la révocation (art. 48/1 CIR, déjà signalé dans la rubrique Chiffre).
+- « Si la procédure tourne mal » — qui peut demander la fin anticipée : simplifié (requête du débiteur ou citation du ministère public ou de tout intéressé).
+- Dates de l'exemple (12, 26 mai, etc.) calculées sans appliquer finement les règles de calcul des délais.
+
+## Guide de février 2027 : guides/convocation-chambre-entreprises.md
+
+- Étape 3 — « une société qui reste sourde aux convocations s'expose à une dissolution judiciaire » : fondement CSA non vérifié (voir rubrique Dirigeants) ; la formule « après deux convocations » a été écartée.
+- Étape 4 et tableau — « fin de l'examen sans mesure » : déduction, aucune source ne décrit un classement.
+- Étape 4 — la saisine du président après constat provisoire de dessaisissement (XX.29) peut conduire à la désignation d'un administrateur provisoire (XX.32) : combinaison de deux textes.
+- Tableau des issues, colonne « Publicité » : déduite, aucune source.
+- Calendrier — examen du juge rapporteur : « huit mois, prolongeables de dix mois au plus » ; lecture de XX.28 non tranchée (prolongation de dix mois ou durée totale de dix mois).
+- Étape 1 — informations à inscrire « dans le registre » : la source ne précise pas lequel.
+- Encadré professionnel du chiffre (étape 4) — « mieux vaut ne pas accepter vous-même la mission de praticien » : position déontologique de l'auteur du guide, à faire sienne ou à retirer.
+
+## Guide de mars 2027 : guides/transfert-sous-autorite-de-justice.md
+
+- Avant de commencer — tronc commun avec la PRJ publique (requête, condition d'ouverture, juge délégué, jugement, publicité, sursis) repris tel quel de `transfert-alternatives.md`, non vérifié article par article.
+- Étape 1 — représentants du personnel entendus lorsque le débiteur demande le transfert en cours de PRJ : articulation avec le changement d'objectif non tranchée.
+- Étape 2 — publication au Moniteur dans les cinq jours appliquée au transfert par le tronc commun ; effets concrets du sursis complémentaire repris du sursis ordinaire.
+- Étape 3 — prix plancher simplifié (le seuil porte sur le prix global des actifs cédés).
+- Étape 4 — CCT du CNT volontairement non numérotée (32bis ou 102, déjà signalé) ; « un dossier social mal préparé peut conduire au refus » : déduction.
+- Étape 5 — énumération des conditions contrôlées par le tribunal et conseil de faire valoir ses observations auprès du praticien et du juge délégué : sans source ; la place des créanciers et du dirigeant dans la procédure d'autorisation et l'existence d'un recours ne sont pas réglées par les sources.
+- Étape 6 — sûreté exercée sur la part du prix correspondant au bien grevé ; créancier hors acte de transfert sans action contre le repreneur : déductions du report sur le prix et de la décharge du cessionnaire.
+- Tableau « Qui fait quoi » — plusieurs rôles pratiques sans texte (se faire connaître du praticien, signaler un amateur, produire sa créance).
+- Exemple de l'imprimerie : éléments inventés (bail détenu par une société du dirigeant, gage sur machines, fournisseur de papier).
+
 ## Rubrique Professionnel du chiffre
 
 Constats signalés dans les pages : les modèles de lettres ITAA citent encore l'ancien texte de XX.23 § 3 ; depuis la loi du 15 mai 2024, le conseiller fiscal certifié figure dans la 2e phrase de XX.23 § 3 mais plus dans la 1re ; nouveau Code pénal en vigueur au 1.9.2026 (anciens art. 490ter et 490quater devenus art. 494 et 495).
