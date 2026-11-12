@@ -2,6 +2,13 @@
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
 
+## [2026-11-12] feat | guides programmés, un par mois
+
+- Choix de Florian : publication automatique d'un guide par mois, plutôt qu'une PR mensuelle. Spec : `superpowers/specs/2026-11-12-guides-programmes.md`.
+- `scripts/build_guides.py` : clé `date` obligatoire sur chaque guide ; `--check` refuse tout lien vers un guide programmé autre qu'une tuile ou qu'un guide plus tardif ; `--drop-future` (CI, `deploy.yml`) retire le fichier, sa ligne de `nav` et ses tuiles. `build_sitemap.is_scheduled` couvre les guides (donc aussi `llms.txt`). Tests : `tests/test_build_guides.py`.
+- Calendrier (premier mardi du mois) : créancier 2026-12-01, dirigeant en PRJ publique 2027-01-05, chambre des entreprises en difficulté 2027-02-02, transfert sous autorité de justice 2027-03-02. Simulation du build au 2027-01-05 : site construit sans lien cassé.
+- Les trois nouveaux guides ont été rédigés par des sous-agents à partir des pages de fond, puis relus ; trois affirmations sans source ont été retirées. Tuiles ajoutées dans les rubriques Dirigeants, Créanciers et Chiffre. Points propres dans `superpowers/points-a-verifier.md`.
+
 ## [2026-11-12] feat | guide « Créancier : la PRJ publique en huit étapes »
 
 - Sujets identifiés pour les prochains guides (dans l'ordre proposé) : PRJ publique PME côté dirigeant, chambre des entreprises en difficulté, créancier en PRJ publique, transfert sous autorité de justice ; plus tard : plan par classes, après l'homologation ; écarté : devoir d'alerte XX.23 (la page suit déjà l'ordre chronologique).
@@ -400,6 +407,26 @@ Suppression des dossiers non suivis devenus inutiles : clone `infofaillite/` (se
 **Demande :** identifie les sujets utiles et pertinents pour la rédaction d'autres guides
 
 **Action :** J'ai retenu quatre guides prioritaires. Le détail (sources, étapes possibles, critères) est dans le plan.  1. **La PRJ publique par accord collectif (PME)**, de la requête à l'homologation. C'est la procédure de référence et la suite logique du guide sur la PRJ privée. 2. **Convoqué par la chambre des entreprises en difficulté.** C'est souvent le premier contact du dirigeant avec la justice, bien avant toute PRJ. 3. **Créancier : votre débiteur ouvre une PRJ publique.** Ce serait le premier guid...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 16:26:08 - session 25e0e269
+
+**Demande :** ok
+
+**Action :** J'ai rédigé le guide « Créancier : la PRJ publique en huit étapes ». Il est dans [docs/guides/creancier-prj-publique.md](docs/guides/creancier-prj-publique.md), commité sur `gh-pages` mais pas poussé. Les tests passent, le site se construit, et tous les liens internes et leurs ancres existent dans le site construit.  **Le contenu.** Le guide reprend les démarches du créancier dans l'ordre : apprendre l'ouverture, vérifier sa créance et s'enregistrer, contester un mois avant le vote, traverser le...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 17:40:44 - session 25e0e269
+
+**Demande :** ok continue avec les autres guides pour publication 1x/mois
+
+**Action :** J'attends maintenant le guide du dirigeant en PRJ publique, encore en cours de rédaction.
 
 **Outils utilises :** aucun
 

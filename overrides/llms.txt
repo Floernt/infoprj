@@ -76,7 +76,6 @@ Organisation du site : trois rubriques par profil (dirigeant, créancier, profes
 
 - [Guides pas à pas](https://infoprj.be/guides/): Guides pas à pas sur la réorganisation judiciaire en Belgique : les procédures dans l'ordre où vous les vivrez, étape par étape, avec ce qu'il faut préparer à chaque moment.
 - [La PRJ privée en six étapes](https://infoprj.be/guides/prj-privee-six-etapes/): La PRJ privée pas à pas pour le dirigeant : requête, praticien de la réorganisation, négociation, sursis ciblé, accord amiable ou plan collectif, fin de la procédure ; ce qui reste confidentiel et ce qui ne l'est pas.
-- [Créancier : la PRJ publique en huit étapes](https://infoprj.be/guides/creancier-prj-publique/): Créancier d'une PME en PRJ publique, pas à pas : apprendre l'ouverture, vérifier et contester sa créance, traverser le sursis, lire le plan, voter, faire appel, suivre l'exécution et demander la révocation.
 
 ## Actualités
 

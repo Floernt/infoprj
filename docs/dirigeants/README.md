@@ -7,7 +7,7 @@ keywords: entreprise en difficulté que faire, dirigeant PRJ, réorganisation ju
   responsabilité dirigeant
 public:
 - dirigeant
-updated: '2026-11-11'
+updated: '2026-11-12'
 ---
 # Je dirige une entreprise en difficulté : par où commencer ?
 

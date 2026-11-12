@@ -6,7 +6,7 @@ keywords: expert-comptable entreprise en difficulté, réviseur PRJ, devoir d'al
   PRJ, article 48/1 CIR
 public:
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Professionnel du chiffre : votre rôle face à l'entreprise en difficulté
 
