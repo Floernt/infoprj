@@ -8,7 +8,7 @@ public:
 - dirigeant
 - creancier
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Qu'est-ce qu'une procédure de réorganisation judiciaire ?
 
@@ -93,3 +93,21 @@ Les créanciers ne peuvent pas demander l'ouverture d'une PRJ publique à la pla
 - [Le sursis](sursis.md)
 - [Quelle voie choisir ?](../dirigeants/choisir-sa-voie.md)
 - [Les signaux d'alarme](../dirigeants/signaux-alarme.md)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+[Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](../actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md)
+</div>
+</div>
+
+Toutes les notes sur : [Conditions d'ouverture](../actualites/themes.md#conditions-ouverture)
+
+</div>
+<!-- actualites:auto:end -->

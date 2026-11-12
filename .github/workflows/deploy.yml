@@ -37,10 +37,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Retirer les notes programmées
+      - name: Retirer les notes programmées, régénérer sitemap et llms.txt
         run: |
           python scripts/build_actualites.py --drop-future
           python scripts/build_sitemap.py
+          python scripts/build_llms.py
 
       - name: Build site
         run: zensical build --clean

@@ -26,7 +26,7 @@ description: Bruxelles, 21 décembre 2023 (deux arrêts) - Préparation privée 
 keywords: faillite silencieuse, préparation privée de faillite, pre-pack faillite,
   XX.97/1, cour d'appel de Bruxelles 21 décembre 2023, ébranlement du crédit, curateur
   potentiel
-updated: '2026-10-31'
+updated: '2026-11-12'
 ---
 # Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès
 
@@ -68,5 +68,6 @@ Pour un dirigeant dont l'entreprise ne peut plus être réorganisée, la faillit
 
 ## Sur le même thème
 
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md) — pratique, 12 novembre 2026
 - [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](2026-10-30-plessers-heiploeg-transfert-liquidation.md) — jurisprudence, 30 octobre 2026
 <!-- actualites:auto:end -->

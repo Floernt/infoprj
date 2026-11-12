@@ -5,7 +5,7 @@ keywords: signaux d'alerte débiteur, client en difficulté, réserve de propri�
   créancier, accord amiable créancier, prévention impayés entreprise
 public:
 - creancier
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Repérer un débiteur fragile et vous protéger à temps
 
@@ -71,3 +71,26 @@ Avant de signer, vérifiez quelques points concrets : les informations financiè
 - [Prendre l'initiative](initiative-creancier.md)
 - [La boîte à outils du livre XX](../comprendre/boite-a-outils.md)
 - [Les signaux d'alarme côté dirigeant](../dirigeants/signaux-alarme.md)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">12.11.2026</span>
+
+[79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](../actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+[Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](../actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md)
+</div>
+</div>
+
+Toutes les notes sur : [Prévention et signaux d'alarme](../actualites/themes.md#prevention)
+
+</div>
+<!-- actualites:auto:end -->

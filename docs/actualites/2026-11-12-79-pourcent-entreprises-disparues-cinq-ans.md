@@ -9,15 +9,15 @@ themes:
 - transfert
 resume: 79,12 % des entreprises ayant introduit une réorganisation judiciaire entre
   2009 et 2017 n'étaient plus en activité cinq ans plus tard, et entre 50 et 60 %
-  des disparitions surviennent dès la première année. Le chiffre doit être nuancé, mais il dit beaucoup du moment
-  où les entreprises demandent la protection du tribunal.
+  des disparitions surviennent dès la première année. Le chiffre doit être nuancé,
+  mais il dit beaucoup du moment où les entreprises demandent la protection du tribunal.
 description: 79 % des entreprises en PRJ (2009-2017) disparues dans les cinq ans -
   lecture d'une statistique sur l'efficacité de la réorganisation judiciaire et le
   recours tardif à la procédure
 keywords: taux de réussite réorganisation judiciaire, PRJ statistiques, entreprises
   disparues après PRJ, échec réorganisation judiciaire, recours tardif PRJ, transfert
   sous autorité judiciaire
-updated: '2026-10-31'
+updated: '2026-11-12'
 ---
 # 79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre
 
@@ -58,6 +58,7 @@ Pour un dirigeant, les chances de succès dépendent largement du moment de la d
 
 ## Sur le même thème
 
+- [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](2026-11-05-faillites-record-2025-recours-reorganisation.md) — pratique, 5 novembre 2026
 - [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](2026-10-30-plessers-heiploeg-transfert-liquidation.md) — jurisprudence, 30 octobre 2026
 - [Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès](2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md) — jurisprudence, 30 octobre 2026
 <!-- actualites:auto:end -->

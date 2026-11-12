@@ -20,7 +20,7 @@ description: Nombre de requêtes en réorganisation judiciaire et en transfert a
 keywords: statistiques réorganisation judiciaire Liège, nombre de PRJ par an, tribunal
   de l'entreprise de Liège, requêtes PRJ Namur Neufchâteau, évolution réorganisation
   judiciaire 2009-2024, PRJ chiffres Wallonie
-updated: '2026-10-31'
+updated: '2026-11-12'
 ---
 # Réorganisations judiciaires dans le ressort de Liège : quinze ans de chiffres (2009-2024)
 
@@ -80,6 +80,7 @@ Pour un dirigeant, la réorganisation judiciaire reste une procédure courante :
 
 ## Sur le même thème
 
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md) — pratique, 12 novembre 2026
+- [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](2026-11-05-faillites-record-2025-recours-reorganisation.md) — pratique, 5 novembre 2026
 - [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](2026-10-30-plessers-heiploeg-transfert-liquidation.md) — jurisprudence, 30 octobre 2026
-- [Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès](2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md) — jurisprudence, 30 octobre 2026
 <!-- actualites:auto:end -->

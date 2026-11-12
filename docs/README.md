@@ -8,7 +8,7 @@ template: home.html
 hide:
 - navigation
 - toc
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 <div class="ifa-opening" markdown>
 <div markdown>
@@ -27,25 +27,25 @@ Un guide pratique pour les dirigeants d'entreprises en difficulté, leurs créan
 
 <!-- actualites:auto:start -->
 <div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">12.11.2026</span>
+
+### [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md)
+
+[Lire la note](actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+### [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md)
+
+[Lire la note](actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">16.05.2019 · Cour de justice de l'Union européenne</span>
 
 ### [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](actualites/2026-10-30-plessers-heiploeg-transfert-liquidation.md)
 
 [Lire la note](actualites/2026-10-30-plessers-heiploeg-transfert-liquidation.md){ .ifa-more }
-</div>
-<div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.01.2024 · Tribunal de l'entreprise de Liège, division Namur</span>
-
-### [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](actualites/2026-10-30-namur-application-forcee-interclasse.md)
-
-[Lire la note](actualites/2026-10-30-namur-application-forcee-interclasse.md){ .ifa-more }
-</div>
-<div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">21.12.2023 · Cour d'appel de Bruxelles</span>
-
-### [Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès](actualites/2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md)
-
-[Lire la note](actualites/2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md){ .ifa-more }
 </div>
 
 [Toutes les actualités](actualites/README.md){ .ifa-more }
@@ -113,6 +113,6 @@ Chaque rubrique répond aux questions que l'on se pose réellement, dans l'ordre
 
 Ce guide est fondé sur le Livre XX du Code de droit économique (articles XX.1 et suivants), tel que réformé par la loi du 7 juin 2023 qui transpose la directive (UE) 2019/1023 sur la restructuration préventive. Il s'applique aux procédures ouvertes depuis le 1er septembre 2023. Chaque entreprise en difficulté a ses particularités : pour votre situation, consultez votre expert-comptable ou réviseur d'entreprises, ou un avocat spécialisé en droit de l'insolvabilité.
 
-[Questions fréquentes](faq/README.md){ .ifa-btn } [Ressources et organismes](ressources.md){ .ifa-btn .ifa-btn--ghost } [Contact](contact.md){ .ifa-btn .ifa-btn--ghost }
+[Questions fréquentes](faq/README.md){ .ifa-btn } [Guides pas à pas](guides/README.md){ .ifa-btn .ifa-btn--ghost } [Ressources et organismes](ressources.md){ .ifa-btn .ifa-btn--ghost } [Contact](contact.md){ .ifa-btn .ifa-btn--ghost }
 {: .ifa-ctas }
 </div>

@@ -7,7 +7,7 @@ keywords: échec réorganisation judiciaire, fin anticipée PRJ, plan rejeté, t
   aveu de faillite, dissolution déficitaire
 public:
 - dirigeant
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Si la réorganisation échoue
 
@@ -103,6 +103,11 @@ Une faillite ne vous empêche pas, sauf interdiction prononcée par le tribunal,
 ## Actualités liées
 
 <div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">12.11.2026</span>
+
+[79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](../actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md)
+</div>
 <div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">16.05.2019 · Cour de justice de l'Union européenne</span>
 

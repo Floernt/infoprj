@@ -3,13 +3,26 @@ description: 'Les actualités de la réorganisation judiciaire classées par th�
   sursis, PRJ privée, classes de créanciers, cram-down, transfert, fiscalité'
 keywords: réorganisation judiciaire thèmes, jurisprudence classes de créanciers, actualité
   sursis PRJ, transfert sous autorité de justice jurisprudence
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Les actualités par thème
 
 Chaque thème regroupe les notes qui s'y rapportent et renvoie aux pages du guide qui en exposent les règles. Pour la liste chronologique, voir [toutes les actualités](README.md).
 
 <!-- actualites:auto:start -->
+## Prévention et signaux d'alarme { #prevention }
+
+Dans le guide : [Les signaux d'alarme : reconnaître à temps une entreprise en difficulté](../dirigeants/signaux-alarme.md) · [Repérer un débiteur fragile et vous protéger à temps](../creanciers/signaux-creancier.md)
+
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md) — pratique, 12 novembre 2026
+- [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](2026-11-05-faillites-record-2025-recours-reorganisation.md) — pratique, 5 novembre 2026
+
+## Conditions d'ouverture { #conditions-ouverture }
+
+Dans le guide : [Qu'est-ce qu'une procédure de réorganisation judiciaire ?](../comprendre/definition-prj.md) · [La PRJ publique : de la requête à la clôture](../comprendre/prj-publique.md) · [Préparer une procédure de réorganisation judiciaire](../dirigeants/preparer-prj.md)
+
+- [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](2026-11-05-faillites-record-2025-recours-reorganisation.md) — pratique, 5 novembre 2026
+
 ## Accord amiable { #accord-amiable }
 
 Dans le guide : [Accord amiable et accord collectif](../comprendre/accord-amiable-collectif.md) · [La chambre des entreprises en difficulté : accord et médiation](../dirigeants/chambre-entreprises-difficulte.md)
@@ -39,6 +52,7 @@ Dans le guide : [Voter et contester le plan de réorganisation](../creanciers/vo
 
 Dans le guide : [Transfert et autres issues](../comprendre/transfert-alternatives.md) · [Si la réorganisation échoue](../dirigeants/en-cas-echec.md)
 
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md) — pratique, 12 novembre 2026
 - [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](2026-10-30-plessers-heiploeg-transfert-liquidation.md) — jurisprudence, 30 octobre 2026
 - [Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès](2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md) — jurisprudence, 30 octobre 2026
 
@@ -66,6 +80,13 @@ Dans le guide : [Transfert et autres issues](../comprendre/transfert-alternative
 Dans le guide : [Comptabilité et fiscalité des abandons de créances](../chiffre/comptabilite-fiscalite-abandons.md) · [Après l'homologation : exécuter le plan sans faux pas](../dirigeants/apres-homologation.md)
 
 - [Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)](2026-10-30-abandons-creance-imposition-etalee-48-1-cir.md) — législation, 30 octobre 2026
+
+## Statistiques { #statistiques }
+
+Dans le guide : [La PRJ en chiffres](../chiffres.md)
+
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md) — pratique, 12 novembre 2026
+- [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](2026-11-05-faillites-record-2025-recours-reorganisation.md) — pratique, 5 novembre 2026
 
 ## Droit européen { #droit-europeen }
 

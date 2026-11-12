@@ -27,7 +27,7 @@ description: CJUE Plessers (C-509/17) et Heiploeg (C-237/20) - Directive 2001/23
 keywords: arrêt Plessers, arrêt Heiploeg, transfert sous autorité judiciaire, directive
   2001/23, maintien des droits des travailleurs, XX.84, procédure de liquidation,
   pre-pack faillite
-updated: '2026-10-31'
+updated: '2026-11-12'
 ---
 # Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation
 
@@ -72,5 +72,6 @@ Pour un dirigeant, demander un transfert sous autorité judiciaire revient à or
 
 ## Sur le même thème
 
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md) — pratique, 12 novembre 2026
 - [Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès](2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md) — jurisprudence, 30 octobre 2026
 <!-- actualites:auto:end -->

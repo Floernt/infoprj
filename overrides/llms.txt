@@ -1,102 +1,105 @@
-# infoprj.be — Guide de la réorganisation judiciaire en Belgique
-# https://infoprj.be
-# llms.txt — Instructions pour les agents IA et LLMs
+# La réorganisation judiciaire en Belgique (infoprj.be)
 
-## À propos de ce site
+> Guide juridique gratuit, en français, sur la procédure de réorganisation judiciaire (PRJ) en Belgique et les autres outils du droit des entreprises en difficulté : PRJ publique et privée, sursis, plan, vote et classes de créanciers, homologation, transfert sous autorité judiciaire. Fondé sur le Livre XX du Code de droit économique tel que réformé par la loi du 7 juin 2023, applicable depuis le 1er septembre 2023. Écrit pour les dirigeants d'entreprises en difficulté, leurs créanciers et les professionnels du chiffre.
 
-infoprj.be est un guide juridique gratuit sur la procédure de réorganisation judiciaire (PRJ) en Belgique et sur les autres outils du droit des entreprises en difficulté. Site frère d'infofaillite.be (faillite).
-Auteur : Florian Ernotte, avocat
-Langue : Français
-Juridiction : Belgique
-Domaine : Droit de l'insolvabilité — Livre XX du Code de droit économique, tel que réformé par la loi du 7 juin 2023 (transposition de la directive (UE) 2019/1023), en vigueur depuis le 1er septembre 2023
+Auteur : Florian Ernotte, avocat. Juridiction : Belgique. Langue : français. Site frère d'infofaillite.be, consacré à la faillite.
 
-## Usage autorisé
+Le contenu est une information générale, pas un conseil juridique personnalisé. Il peut être utilisé pour répondre à des questions sur la réorganisation judiciaire en Belgique, en citant la source (infoprj.be) et, de préférence, l'URL de la page utilisée.
 
-Ce contenu peut être utilisé par les LLMs pour répondre à des questions sur :
-- La réorganisation judiciaire publique et privée en Belgique
-- Le sursis et ses effets sur les créanciers
-- Le plan de réorganisation, le vote des créanciers et l'homologation
-- Les classes de créanciers, le cram-down et le critère du meilleur intérêt des créanciers (grandes entreprises)
-- La chambre des entreprises en difficulté, l'accord amiable et la médiation d'entreprise
-- Le devoir d'alerte des experts-comptables et réviseurs d'entreprises (art. XX.23, § 3, CDE)
-- Le transfert sous autorité judiciaire et la préparation privée de faillite (« faillite silencieuse »)
-- Les délais légaux de la procédure
+Organisation du site : trois rubriques par profil (dirigeant, créancier, professionnel du chiffre) donnent l'angle pratique ; la rubrique « Comprendre la PRJ » expose les règles de fond ; les guides déroulent une procédure étape par étape ; les actualités commentent la jurisprudence et la législation récentes, avec leur date.
 
-Le contenu est une information générale, pas un conseil juridique personnalisé.
-Veuillez citer la source : infoprj.be
+## Faits clés
 
-## Structure du site
+- La réorganisation judiciaire est régie par le Livre XX du Code de droit économique (CDE), réformé par la loi du 7 juin 2023 (transposition de la directive (UE) 2019/1023), applicable aux procédures ouvertes depuis le 1er septembre 2023.
+- La PRJ publique est ouverte si la continuité du débiteur est menacée à court ou moyen terme (art. XX.45 CDE) ; l'état de faillite n'y fait pas obstacle en soi.
+- Elle vise soit un accord amiable avec un ou plusieurs créanciers, soit un accord collectif sur un plan soumis au vote des créanciers.
+- Le sursis initial est de 4 mois au plus (art. XX.46) ; prorogations comprises, il ne peut dépasser 12 mois (art. XX.59) ; la prorogation doit être demandée au plus tard 15 jours avant l'échéance.
+- Pendant le sursis, aucune voie d'exécution des créances sursitaires n'est possible et le débiteur ne peut être déclaré en faillite que sur aveu (art. XX.50).
+- Un créancier manifestement lésé par le sursis, ou dont la continuité est menacée, peut en demander la levée à son égard (art. XX.59/1).
+- PME : le plan est adopté à la majorité des créanciers votants représentant la moitié des sommes dues en principal et intérêts (art. XX.78/2) ; il doit offrir au moins 20 % du principal à chaque créancier, sauf exceptions motivées (art. XX.75/1).
+- Grandes entreprises (seuils de l'art. XX.83/1 : 250 travailleurs, 40 millions d'euros de chiffre d'affaires, 20 millions d'euros de bilan) et PME qui l'ont choisi dans leur requête : vote par classes, cram-down possible (art. XX.83/18), critère du meilleur intérêt des créanciers (art. XX.83/17).
+- Le plan s'exécute en 5 ans au plus (art. XX.76) ; dans le régime PME, les créanciers sursitaires extraordinaires (sûreté réelle) ne peuvent se voir imposer qu'une suspension de 24 mois, prorogeable de 12 mois (art. XX.75/2).
+- La PRJ privée (art. XX.83/22 à XX.83/41) est confidentielle ; elle n'offre pas de sursis général, mais un sursis ciblé de 4 mois au plus à l'égard de créanciers désignés (art. XX.83/24) ; introduite en 2021, elle a été refondue en 2023.
+- Le transfert sous autorité judiciaire n'est plus une PRJ depuis 2023 : c'est une procédure distincte à finalité de liquidation efficace (art. XX.84).
+- Les experts-comptables et réviseurs d'entreprises doivent alerter le débiteur en cas de faits graves et concordants révélant une probabilité d'insolvabilité, et peuvent saisir le président du tribunal après un mois (art. XX.23, § 3).
 
-Le site est organisé en quatre rubriques de fond, chacune ouverte par une page d'entrée qui renvoie à ses pages dans l'ordre de lecture, plus une FAQ et des actualités. Les rubriques par profil (dirigeant, créancier, professionnel du chiffre) donnent l'angle pratique ; la rubrique « Comprendre la PRJ » expose les règles. La liste exhaustive des pages figure dans le sitemap.
+## Je dirige l'entreprise
 
-- Accueil : https://infoprj.be/
-- Je dirige l'entreprise : https://infoprj.be/dirigeants/
-  - Les signaux d'alarme : https://infoprj.be/dirigeants/signaux-alarme/
-  - Quelle voie choisir ? : https://infoprj.be/dirigeants/choisir-sa-voie/
-  - Accord et médiation devant la chambre des entreprises en difficulté : https://infoprj.be/dirigeants/chambre-entreprises-difficulte/
-  - Préparer une PRJ : https://infoprj.be/dirigeants/preparer-prj/
-  - Rédiger le plan de réorganisation : https://infoprj.be/dirigeants/plan-reorganisation/
-  - Après l'homologation : https://infoprj.be/dirigeants/apres-homologation/
-  - Responsabilité du dirigeant : https://infoprj.be/dirigeants/responsabilite-dirigeant/
-  - Si la réorganisation échoue : https://infoprj.be/dirigeants/en-cas-echec/
-- Je suis créancier : https://infoprj.be/creanciers/
-  - Votre débiteur est en PRJ : https://infoprj.be/creanciers/debiteur-en-prj/
-  - Créanciers sursitaires : https://infoprj.be/creanciers/creanciers-sursitaires/
-  - Voter et contester le plan : https://infoprj.be/creanciers/vote-plan/
-  - Lever le sursis : https://infoprj.be/creanciers/lever-sursis/
-  - Prendre l'initiative : https://infoprj.be/creanciers/initiative-creancier/
-  - Classes et cram-down : https://infoprj.be/creanciers/classes-cram-down/
-  - Repérer un débiteur fragile : https://infoprj.be/creanciers/signaux-creancier/
-- Professionnel du chiffre : https://infoprj.be/chiffre/
-  - Le devoir d'alerte (art. XX.23 CDE) : https://infoprj.be/chiffre/alerte-xx23/
-  - Continuité et sonnette d'alarme (CSA) : https://infoprj.be/chiffre/continuite-alarme-csa/
-  - Face à la chambre des entreprises en difficulté : https://infoprj.be/chiffre/chambre-comptable/
-  - Valoriser l'entreprise, meilleur intérêt des créanciers : https://infoprj.be/chiffre/valorisation-meilleur-interet/
-  - Plan d'affaires et trésorerie : https://infoprj.be/chiffre/plan-affaires-tresorerie/
-  - Comptabilité et fiscalité des abandons de créances : https://infoprj.be/chiffre/comptabilite-fiscalite-abandons/
-  - Check-list et responsabilité : https://infoprj.be/chiffre/checklist-responsabilite/
-- Comprendre la PRJ : https://infoprj.be/comprendre/
-  - Qu'est-ce qu'une PRJ ? : https://infoprj.be/comprendre/definition-prj/
-  - La boîte à outils du Livre XX : https://infoprj.be/comprendre/boite-a-outils/
-  - La réforme de 2023 : https://infoprj.be/comprendre/reforme-2023/
-  - La PRJ publique : https://infoprj.be/comprendre/prj-publique/
-  - Le sursis : https://infoprj.be/comprendre/sursis/
-  - La PRJ privée : https://infoprj.be/comprendre/prj-privee/
-  - Accord amiable et accord collectif : https://infoprj.be/comprendre/accord-amiable-collectif/
-  - Grandes entreprises et classes : https://infoprj.be/comprendre/grandes-entreprises-classes/
-  - Meilleur intérêt et cram-down : https://infoprj.be/comprendre/meilleur-interet-cram-down/
-  - Transfert sous autorité judiciaire et autres issues : https://infoprj.be/comprendre/transfert-alternatives/
-  - Les acteurs : https://infoprj.be/comprendre/acteurs/
-- Questions fréquentes (35 questions, par profil et par thème) : https://infoprj.be/faq/
-- Pages utiles :
-  - Délais clés : https://infoprj.be/delais/
-  - La PRJ en chiffres : https://infoprj.be/chiffres/
-  - Glossaire : https://infoprj.be/glossaire/
-  - Ressources et organismes : https://infoprj.be/ressources/
-  - À propos : https://infoprj.be/a-propos/
+- [Je dirige une entreprise en difficulté : par où commencer ?](https://infoprj.be/dirigeants/): Dirigeant d'une entreprise en difficulté - Repérer les signaux, choisir entre accord, médiation, PRJ privée ou publique, préparer le dossier et protéger sa responsabilité
+- [Les signaux d'alarme](https://infoprj.be/dirigeants/signaux-alarme/): Signaux d'alarme d'une entreprise en difficulté - Indices financiers, opérationnels et humains, clignotants du tribunal et autodiagnostic pour le dirigeant
+- [Quelle voie choisir ?](https://infoprj.be/dirigeants/choisir-sa-voie/): Choisir la bonne procédure pour une entreprise en difficulté - Arbre de décision, comparaison accord, médiation, PRJ privée et publique, continuité ou cession
+- [Accord et médiation](https://infoprj.be/dirigeants/chambre-entreprises-difficulte/): Chambre des entreprises en difficulté - Convocation, examen à huis clos, accord avec les créanciers (XX.29/1) et médiation d'entreprise (XX.29/2) pour le dirigeant
+- [Préparer une PRJ](https://infoprj.be/dirigeants/preparer-prj/): Préparer une procédure de réorganisation judiciaire - Requête XX.41, annexes, budget, liste des créanciers, choix PRJ publique ou privée, check-list et erreurs fréquentes
+- [Rédiger le plan](https://infoprj.be/dirigeants/plan-reorganisation/): Rédiger un plan de réorganisation en PRJ - Contenu obligatoire XX.70/1, abattement de 80 % maximum, 24 mois pour les créanciers extraordinaires, 5 ans, budget crédible
+- [Après l'homologation](https://infoprj.be/dirigeants/apres-homologation/): Après l'homologation du plan de réorganisation - Effets pour les créanciers, exécution, suivi par le tribunal, révocation et traitement comptable et fiscal des abandons
+- [Votre responsabilité](https://infoprj.be/dirigeants/responsabilite-dirigeant/): Responsabilité du dirigeant d'une entreprise en PRJ - Activité sans issue XX.227, faute grave XX.225, aveu tardif, infractions pénales liées à la réorganisation et conseils de prudence
+- [Si la réorganisation échoue](https://infoprj.be/dirigeants/en-cas-echec/): Quand la réorganisation judiciaire échoue - Fin du sursis, transfert sous autorité judiciaire, faillite silencieuse, aveu de faillite et dissolution : les options du dirigeant
+
+## Je suis créancier
+
+- [Je suis créancier d'une entreprise en réorganisation](https://infoprj.be/creanciers/): Créancier d'une entreprise en réorganisation judiciaire : sursis, montant de votre créance, vote du plan, recours et moyens d'action en droit belge.
+- [Votre débiteur est en PRJ](https://infoprj.be/creanciers/debiteur-en-prj/): Votre débiteur est en réorganisation judiciaire : publicité, effets du sursis, montant de votre créance, contestation, cautions, compensation et contrats en cours.
+- [Créanciers sursitaires](https://infoprj.be/creanciers/creanciers-sursitaires/): Créancier sursitaire ordinaire ou extraordinaire, ONSS et SPF Finances, dettes nées pendant la procédure et travailleurs dans une réorganisation judiciaire.
+- [Voter et contester le plan](https://infoprj.be/creanciers/vote-plan/): Créancier face au plan de réorganisation : consultation, observations, procuration, majorités de vote PME et par classes, homologation, refus et appel.
+- [Lever le sursis](https://infoprj.be/creanciers/lever-sursis/): Créancier : obtenir la levée du sursis à votre égard (XX.59/1), demander la fin anticipée de la réorganisation (XX.62) ou la révocation du plan (XX.83).
+- [Prendre l'initiative](https://infoprj.be/creanciers/initiative-creancier/): Créancier : demander une PRJ privée (XX.83/22), un praticien de la réorganisation, un administrateur provisoire ou un transfert sous autorité judiciaire (XX.84).
+- [Classes et cram-down](https://infoprj.be/creanciers/classes-cram-down/): Créancier dans le régime des classes : composition des classes, contestation, valorisation, application forcée interclasse, meilleur intérêt et priorité absolue.
+- [Repérer un débiteur fragile](https://infoprj.be/creanciers/signaux-creancier/): Repérer un client ou un emprunteur en difficulté : signaux d'alerte, protections contractuelles, suivi du risque et participation à un accord amiable.
+
+## Professionnel du chiffre
+
+- [Professionnel du chiffre : votre rôle face à l'entreprise en difficulté](https://infoprj.be/chiffre/): Expert-comptable, réviseur, conseiller fiscal - Votre rôle légal face à l'entreprise en difficulté, de l'alerte XX.23 au plan de réorganisation.
+- [Le devoir d'alerte](https://infoprj.be/chiffre/alerte-xx23/): Article XX.23, § 3 CDE - Faits graves et concordants, lettre circonstanciée au débiteur, délai d'un mois et information du président du tribunal.
+- [Continuité et sonnette d'alarme](https://infoprj.be/chiffre/continuite-alarme-csa/): Sonnette d'alarme des articles 5:153 et 7:228 CSA, critères d'appréciation de la continuité et règles d'évaluation en discontinuité, en lien avec le Livre XX.
+- [Face à la chambre](https://infoprj.be/chiffre/chambre-comptable/): Le comptable et le réviseur devant la chambre des entreprises en difficulté - audition (art. XX.25, § 3), accord XX.29/1 et médiation XX.29/2.
+- [Valoriser l'entreprise](https://infoprj.be/chiffre/valorisation-meilleur-interet/): Valeur de liquidation nette et valeur de continuité (DCF, plan d'affaires) dans le test du meilleur intérêt et la priorité absolue, avec un exemple chiffré.
+- [Plan d'affaires et trésorerie](https://infoprj.be/chiffre/plan-affaires-tresorerie/): Construire le budget de trésorerie joint à la requête en PRJ (art. XX.41) et le plan d'affaires qui soutient le plan de réorganisation (art. XX.70/1 et s.).
+- [Comptabilité et fiscalité](https://infoprj.be/chiffre/comptabilite-fiscalite-abandons/): Traitement comptable de l'abandon de créance après une PRJ, exonération temporaire et imposition étalée de l'article 48/1 CIR, conséquences pour le créancier.
+- [Check-list et responsabilité](https://infoprj.be/chiffre/checklist-responsabilite/): Check-list d'intervention du professionnel du chiffre face à l'entreprise en difficulté, responsabilité pénale, civile et déontologique, bonnes pratiques de documentation.
+
+## Comprendre la PRJ
+
+- [Comprendre la procédure de réorganisation judiciaire](https://infoprj.be/comprendre/): Comprendre la réorganisation judiciaire (PRJ) en Belgique : définition, outils du Livre XX CDE, sursis, PRJ publique et privée, classes, transfert.
+- [Qu'est-ce qu'une PRJ ?](https://infoprj.be/comprendre/definition-prj/): Qu'est-ce qu'une réorganisation judiciaire (PRJ) en Belgique : objectif, entreprises concernées, condition de menace sur la continuité (art. XX.45 CDE).
+- [La boîte à outils du Livre XX](https://infoprj.be/comprendre/boite-a-outils/): Les outils du Livre XX CDE pour l'entreprise en difficulté : chambre, médiation, accords amiables, PRJ publique et privée, transfert, faillite.
+- [La réforme de 2023](https://infoprj.be/comprendre/reforme-2023/): Ce que la loi du 7 juin 2023 (directive 2019/1023) a changé dans la réorganisation judiciaire belge depuis le 1er septembre 2023.
+- [La PRJ publique](https://infoprj.be/comprendre/prj-publique/): La PRJ publique en Belgique : requête et annexes (XX.41), juge délégué, jugement d'ouverture (XX.46), publicité, calendrier, changement d'objectif et fin anticipée.
+- [Le sursis](https://infoprj.be/comprendre/sursis/): Le sursis en réorganisation judiciaire : effets (XX.50 et ss.), durée de 4 mois prorogeable jusqu'à 12 mois, contrats en cours, exceptions, levée.
+- [La PRJ privée](https://infoprj.be/comprendre/prj-privee/): La PRJ privée (art. XX.83/22 à XX.83/41 CDE) : procédure confidentielle en deux phases, praticien de la réorganisation, sursis ciblé, homologation non publiée.
+- [Accord amiable et accord collectif](https://infoprj.be/comprendre/accord-amiable-collectif/): Accord amiable (XX.64) et plan collectif des PME en PRJ : contenu du plan, 20 % minimum, créanciers extraordinaires, 5 ans, double majorité, homologation.
+- [Grandes entreprises et classes](https://infoprj.be/comprendre/grandes-entreprises-classes/): PRJ des grandes entreprises : seuils et opt-in des PME (XX.83/1), classes de créanciers et de détenteurs de capital (XX.83/9), vote par classe (XX.83/14).
+- [Meilleur intérêt et cram-down](https://infoprj.be/comprendre/meilleur-interet-cram-down/): Critère du meilleur intérêt des créanciers, application forcée interclasse (cram-down, XX.83/18) et priorité absolue, avec un exemple chiffré simplifié.
+- [Transfert et autres issues](https://infoprj.be/comprendre/transfert-alternatives/): Transfert sous autorité de justice (XX.84 et ss.), sort des travailleurs, faillite silencieuse (XX.97/1 à 97/6) et dissolution : les issues quand la réorganisation échoue.
+- [Les acteurs](https://infoprj.be/comprendre/acteurs/): Les acteurs de la réorganisation judiciaire : juge délégué, chambre des entreprises en difficulté, praticiens, administrateur provisoire, ministère public, Regsol.
+
+## Guides
+
+- [Guides pas à pas](https://infoprj.be/guides/): Guides pas à pas sur la réorganisation judiciaire en Belgique : les procédures dans l'ordre où vous les vivrez, étape par étape, avec ce qu'il faut préparer à chaque moment.
+- [La PRJ privée en six étapes](https://infoprj.be/guides/prj-privee-six-etapes/): La PRJ privée pas à pas pour le dirigeant : requête, praticien de la réorganisation, négociation, sursis ciblé, accord amiable ou plan collectif, fin de la procédure ; ce qui reste confidentiel et ce qui ne l'est pas.
 
 ## Actualités
 
-Notes datées de jurisprudence, de doctrine et de législation sur la réorganisation judiciaire et le Livre XX, chacune rattachée aux pages du guide qu'elle éclaire. Citer la note avec sa date de publication et la référence de la décision commentée.
+- [Actualités de la réorganisation judiciaire](https://infoprj.be/actualites/): Actualités de la réorganisation judiciaire en Belgique : jurisprudence, doctrine et législation commentées sur le Livre XX du Code de droit économique
+- [Par thème](https://infoprj.be/actualites/themes/): Les actualités de la réorganisation judiciaire classées par thème : sursis, PRJ privée, classes de créanciers, cram-down, transfert, fiscalité
 
-- Toutes les actualités : https://infoprj.be/actualites/
-- Actualités par thème : https://infoprj.be/actualites/themes/
+## Questions fréquentes
 
-## Faits clés à retenir
+- [Questions fréquentes sur la réorganisation judiciaire](https://infoprj.be/faq/): Réorganisation judiciaire en Belgique - Les questions fréquentes des dirigeants, créanciers et professionnels du chiffre, avec des réponses fondées sur le Livre XX
 
-- La réorganisation judiciaire est régie par le Livre XX du Code de droit économique (CDE), réformé par la loi du 7 juin 2023, applicable aux procédures ouvertes depuis le 1er septembre 2023
-- La PRJ publique est ouverte si la continuité du débiteur est menacée à court ou moyen terme (art. XX.45 CDE) ; l'état de faillite n'y fait pas obstacle en soi
-- Elle vise soit un accord amiable avec un ou plusieurs créanciers, soit un accord collectif sur un plan soumis au vote des créanciers
-- Le sursis initial est de 4 mois au plus (art. XX.46) ; prorogations comprises, il ne peut dépasser 12 mois (art. XX.59) ; la prorogation doit être demandée au plus tard 15 jours avant l'échéance
-- Pendant le sursis, aucune voie d'exécution des créances sursitaires n'est possible et le débiteur ne peut être déclaré en faillite que sur aveu (art. XX.50)
-- Un créancier manifestement lésé par le sursis, ou dont la continuité est menacée, peut en demander la levée à son égard (art. XX.59/1)
-- PME : le plan est adopté à la majorité des créanciers votants représentant la moitié des sommes dues en principal et intérêts (art. XX.78/2) ; il doit offrir au moins 20 % du principal à chaque créancier, sauf exceptions motivées (art. XX.75/1)
-- Grandes entreprises (seuils de l'art. XX.83/1 : 250 travailleurs, 40 millions d'euros de chiffre d'affaires, 20 millions d'euros de bilan) et PME qui l'ont choisi dans leur requête : vote par classes, cram-down possible (art. XX.83/18), critère du meilleur intérêt des créanciers (art. XX.83/17)
-- Le plan s'exécute en 5 ans au plus (art. XX.76) ; les créanciers sursitaires extraordinaires (sûreté réelle) ne peuvent se voir imposer qu'une suspension de 24 mois, prorogeable de 12 mois, dans le régime PME (art. XX.75/2)
-- La PRJ privée (art. XX.83/22 à XX.83/41) est confidentielle ; elle n'offre pas de sursis général, mais un sursis ciblé de 4 mois au plus à l'égard de créanciers désignés (art. XX.83/24) ; elle a été introduite en 2021 et refondue en 2023
-- Le transfert sous autorité judiciaire n'est plus une PRJ depuis 2023 : c'est une procédure distincte à finalité de liquidation efficace (art. XX.84)
-- Les experts-comptables et réviseurs d'entreprises doivent alerter le débiteur en cas de faits graves et concordants révélant une probabilité d'insolvabilité, et peuvent saisir le président du tribunal après un mois (art. XX.23, § 3)
+## Pages utiles
 
-## Sitemap
+- [Les délais clés de la réorganisation judiciaire](https://infoprj.be/delais/): Tableau des délais clés de la réorganisation judiciaire en Belgique - Requête, sursis, contestation des créances, vote, homologation, appel, durée du plan
+- [La PRJ en chiffres](https://infoprj.be/chiffres/): La réorganisation judiciaire en chiffres - Nombre de PRJ en Belgique, taux de disparition à cinq ans, demandes au tribunal de l'entreprise de Liège, faillites 2025
+- [Glossaire de la réorganisation judiciaire](https://infoprj.be/glossaire/): Glossaire de la réorganisation judiciaire en Belgique - Définitions simples des termes du Livre XX (sursis, classes, cram-down, praticien, homologation)
+- [Ressources et organismes utiles](https://infoprj.be/ressources/): Ressources officielles et organismes utiles pour la réorganisation judiciaire en Belgique - Textes légaux, Regsol, tribunaux, ITAA, IRE, accompagnement
+- [À propos](https://infoprj.be/a-propos/): À propos d'infoprj.be - Guide de la réorganisation judiciaire en Belgique par Florian Ernotte, site frère d'infofaillite.be, fondé sur le Livre XX CDE
+- [Contact](https://infoprj.be/contact/): Contacter infoprj.be - Poser une question sur la réorganisation judiciaire en Belgique, signaler une imprécision, suggérer un sujet
 
-https://infoprj.be/sitemap.xml
+## Optional
+
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](https://infoprj.be/actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans/): 79 % des entreprises en PRJ (2009-2017) disparues dans les cinq ans - lecture d'une statistique sur l'efficacité de la réorganisation judiciaire et le recours tardif à la procédure
+- [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](https://infoprj.be/actualites/2026-11-05-faillites-record-2025-recours-reorganisation/): 11.665 faillites en Belgique en 2025 (Statbel) face au recul des procédures de réorganisation judiciaire - lecture des chiffres et enseignements pour la prévention
+- [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](https://infoprj.be/actualites/2026-10-30-plessers-heiploeg-transfert-liquidation/): CJUE Plessers (C-509/17) et Heiploeg (C-237/20) - Directive 2001/23, droits des travailleurs et réforme du transfert sous autorité judiciaire (art. XX.84 CDE)
+- [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](https://infoprj.be/actualites/2026-10-30-namur-application-forcee-interclasse/): Entr. Liège (div. Namur), 23 janvier 2024 - Application forcée interclasse, valeur en activité, priorité absolue et motifs raisonnables d'y déroger (art. XX.83/18 CDE)
+- [Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès](https://infoprj.be/actualites/2026-10-30-bruxelles-faillite-silencieuse-conditions-souples/): Bruxelles, 21 décembre 2023 (deux arrêts) - Préparation privée de faillite (faillite silencieuse, art. XX.97/1 CDE), ébranlement du crédit et appréciation souple des conditions
+- [Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)](https://infoprj.be/actualites/2026-10-30-abandons-creance-imposition-etalee-48-1-cir/): Article 48/1 CIR remplacé par la loi du 28 décembre 2023 - Taxation étalée des remises de dettes obtenues en réorganisation judiciaire, accord amiable ou plan homologué

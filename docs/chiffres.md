@@ -5,7 +5,7 @@ description: La réorganisation judiciaire en chiffres - Nombre de PRJ en Belgiq
 keywords: statistiques réorganisation judiciaire, nombre de PRJ belgique, taux de
   réussite PRJ, chiffres tribunal entreprise Liège, statistiques faillites Statbel
   2025, entreprises en difficulté chiffres
-updated: '2026-10-31'
+updated: '2026-11-12'
 ---
 # La PRJ en chiffres
 
@@ -111,3 +111,26 @@ Ce chiffre ne porte pas sur la PRJ. Il concerne des restructurations négociées
 - [Les signaux d'alarme](dirigeants/signaux-alarme.md)
 - [Repérer un débiteur fragile](creanciers/signaux-creancier.md)
 - [Ressources et organismes](ressources.md)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">12.11.2026</span>
+
+[79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+[Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md)
+</div>
+</div>
+
+Toutes les notes sur : [Statistiques](actualites/themes.md#statistiques)
+
+</div>
+<!-- actualites:auto:end -->

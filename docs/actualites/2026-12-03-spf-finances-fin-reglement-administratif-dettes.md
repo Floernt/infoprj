@@ -18,7 +18,7 @@ description: Suppression du règlement administratif de dettes (SPF Finances) au
 keywords: règlement administratif de dettes supprimé, plan de paiement SPF Finances,
   dette fiscale entreprise difficulté, team recouvrement, plan de paiement 12 mois,
   accord amiable chambre des entreprises en difficulté
-updated: '2026-10-31'
+updated: '2026-11-12'
 ---
 # Dettes fiscales : le SPF Finances remplace le règlement administratif de dettes par un plan de paiement de douze mois
 
@@ -58,6 +58,7 @@ Pour un dirigeant, le plan de paiement de douze mois peut suffire à passer un c
 
 ## Sur le même thème
 
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md) — pratique, 12 novembre 2026
+- [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](2026-11-05-faillites-record-2025-recours-reorganisation.md) — pratique, 5 novembre 2026
 - [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](2026-10-30-namur-application-forcee-interclasse.md) — jurisprudence, 30 octobre 2026
-- [Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)](2026-10-30-abandons-creance-imposition-etalee-48-1-cir.md) — législation, 30 octobre 2026
 <!-- actualites:auto:end -->
