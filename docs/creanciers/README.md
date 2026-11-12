@@ -17,6 +17,7 @@ Cette rubrique adopte votre point de vue de créancier, qu'il s'agisse d'un four
     Si le montant ou la qualité de votre créance repris par le débiteur est inexact, vous devez porter la contestation devant le tribunal au plus tard **un mois avant l'audience de vote** (art. XX.68, § 1er, CDE). À défaut, vous ne votez et n'êtes repris dans le plan que pour le montant et la qualité communiqués par le débiteur (art. XX.68, § 2). Voir [Votre débiteur est en PRJ](debiteur-en-prj.md#contester-creance).
 
 <div class="ifa-subtiles" markdown>
+[**Guide : la PRJ publique en huit étapes** Toutes vos démarches dans l'ordre, de l'ouverture à l'exécution du plan.](../guides/creancier-prj-publique.md){ .ifa-subtile }
 [**Votre débiteur est en PRJ** Comment l'apprendre, ce que le sursis change, votre créance, les cautions et les contrats en cours.](debiteur-en-prj.md){ .ifa-subtile }
 [**Créanciers sursitaires** Ordinaire ou extraordinaire, créanciers publics, dettes nées pendant la procédure, travailleurs.](creanciers-sursitaires.md){ .ifa-subtile }
 [**Voter et contester le plan** Communication du plan, observations, majorités, homologation et appel.](vote-plan.md){ .ifa-subtile }

@@ -16,6 +16,7 @@ Les rubriques consacrées aux [dirigeants](../dirigeants/README.md), aux [créan
 
 <div class="ifa-subtiles" markdown>
 [**La PRJ privée en six étapes** De la requête à la fin de la procédure, sans publication : ce qui reste confidentiel et ce qui ne l'est pas.](prj-privee-six-etapes.md){ .ifa-subtile }
+[**Créancier : la PRJ publique en huit étapes** De l'annonce de l'ouverture à la révocation éventuelle du plan : vérifier et contester votre créance, voter, faire appel.](creancier-prj-publique.md){ .ifa-subtile }
 </div>
 
 Les délais de toutes les procédures sont rassemblés dans la page [Délais](../delais.md) et les termes techniques définis dans le [glossaire](../glossaire.md).

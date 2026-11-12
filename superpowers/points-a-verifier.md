@@ -45,6 +45,15 @@ Page en brouillon (`draft: true`, non filtré par la build : ne pas fusionner av
 - Exemple du bureau d'études : « exemple simplifié » repris de `prj-privee.md`, fictif.
 - Aucune jurisprudence ni pratique constatée : le guide s'en tient au texte. La jurisprudence « encore partagée » sur la détermination du montant des créances (mentionnée par `prj-privee.md`) n'est pas reprise.
 
+## Guide de décembre 2026 : guides/creancier-prj-publique.md
+
+Le guide ne cite aucun article et ne fait que réordonner les pages de la rubrique Créanciers. Il hérite donc des points de cette rubrique ci-dessus (appel non suspensif, vote en principal et intérêts). Points qui lui sont propres :
+
+- Étape 2 — « vous pourrez ensuite consulter le dossier » : la consultation est ouverte au créancier repris sur la liste ; le créancier seulement enregistré doit y être autorisé par le débiteur ou le juge délégué (XX.40 § 3). La formulation simplifie ce point ; à nuancer si Florian le juge utile.
+- Avant de commencer — les étapes 1, 2 et 4 vaudraient aussi pour une PRJ qui vise un accord amiable ou un transfert : déduction éditoriale. La communication individuelle (XX.49) vaut pour le transfert, mais pas pour l'accord amiable.
+- Calendrier — dates de l'exemple calculées à partir de celui de `comprendre/prj-publique.md` (jugement du 20 février) ; les dates de publication (25 février) et de courrier (28 février) supposent que les délais maximaux sont utilisés.
+- Exemple du grossiste (48 000 euros, dont 6 000 de clause pénale) repris de `creanciers/debiteur-en-prj.md` ; « 42 000 euros » = créance hors clause pénale, en supposant le dommage réel nul. Exemple fictif.
+
 ## Rubrique Professionnel du chiffre
 
 Constats signalés dans les pages : les modèles de lettres ITAA citent encore l'ancien texte de XX.23 § 3 ; depuis la loi du 15 mai 2024, le conseiller fiscal certifié figure dans la 2e phrase de XX.23 § 3 mais plus dans la 1re ; nouveau Code pénal en vigueur au 1.9.2026 (anciens art. 490ter et 490quater devenus art. 494 et 495).
