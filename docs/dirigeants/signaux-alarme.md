@@ -6,7 +6,7 @@ keywords: signaux alarme entreprise, entreprise en difficulté indices, clignota
   dirigeant, probabilité d'insolvabilité
 public:
 - dirigeant
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Les signaux d'alarme : reconnaître à temps une entreprise en difficulté
 

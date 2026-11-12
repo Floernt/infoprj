@@ -8,7 +8,7 @@ template: home.html
 hide:
 - navigation
 - toc
-updated: '2026-11-11'
+updated: '2026-11-12'
 ---
 <div class="ifa-opening" markdown>
 <div markdown>

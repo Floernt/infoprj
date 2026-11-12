@@ -8,7 +8,7 @@ public:
 - dirigeant
 - creancier
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Qu'est-ce qu'une procédure de réorganisation judiciaire ?
 

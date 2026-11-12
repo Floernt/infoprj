@@ -9,7 +9,7 @@ public:
 - dirigeant
 - creancier
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # La PRJ publique : de la requête à la clôture
 

@@ -5,7 +5,7 @@ keywords: signaux d'alerte débiteur, client en difficulté, réserve de propri�
   créancier, accord amiable créancier, prévention impayés entreprise
 public:
 - creancier
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Repérer un débiteur fragile et vous protéger à temps
 

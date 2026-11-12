@@ -2,6 +2,12 @@
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
 
+## [2026-11-12] chore | préparation de la PR gh-pages → main
+
+- `origin/main` fusionné dans `gh-pages` : relectures des notes des 12 et 19 novembre, guide en double commit (contenu identique).
+- Le guide « La PRJ privée en six étapes » était déjà publié sous `/dirigeants/prj-privee-six-etapes/` (PR #4 et #5 : `draft: true` n'est lu par aucun script de build). Redirection statique `docs/dirigeants/prj-privee-six-etapes/index.html` vers `/guides/prj-privee-six-etapes/` (canonical, noindex) : ne pas la supprimer.
+- Blocs d'actualités régénérés (note du 12 novembre publiée), `inject_git_dates.py`, sitemap et `llms.txt` à jour.
+
 ## [2026-11-11] feat | rubrique Guides, menu réorganisé, llms.txt généré
 
 - Décision de Florian : la FAQ sort du menu pour laisser place à la rubrique « Guides » (l'en-tête ne tient pas sept libellés). La FAQ reste atteignable par l'accueil, le pied de page (« Pages utiles ») et la recherche.
@@ -338,6 +344,16 @@ Suppression des dossiers non suivis devenus inutiles : clone `infofaillite/` (se
 **Demande :** <ide_opened_file>The user opened the file c:\Users\FlorianErnotteavroya\infoprj\docs\dirigeants\prj-privee-six-etapes.md in the IDE. This may or may not be related to the current task.</ide_opened_file>
 
 **Action :** Il ne reste plus aucune référence légale dans [prj-privee-six-etapes.md](docs/dirigeants/prj-privee-six-etapes.md), y compris dans les commentaires `[À VÉRIFIER]`. J'ai vérifié par recherche dans le fichier : plus de « XX », « art. », « § » ni de colonne « Base légale ».  Ma première passe avait été effacée : tu as enregistré la page dans VS Code alors que l'éditeur affichait encore l'ancienne version. J'ai refait la suppression en gardant tes deux modifications (le commentaire BROUILLON retiré,...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-11 14:56:48 - session 9287d68d
+
+**Demande :** je voudrais créer un fichier llm.txt pour optimiser le GEO & intégrer les guides dans une rubrique dédiée le menu en tête doit être réorganiser pour permettre l'ajout de ce menu
+
+**Action :** La rubrique Guides, le nouveau menu et le `llms.txt` généré sont en place, en quatre commits sur `gh-pages`. Les 54 tests passent et le site se construit sans avertissement. Rien n'est poussé.  **Menu.** Le haut de page affiche maintenant : Je dirige l'entreprise · Je suis créancier · Professionnel du chiffre · Comprendre la PRJ · Guides · Actualités. La FAQ est sortie du menu ; on l'atteint depuis l'accueil, le pied de page (« Pages utiles ») et la recherche. Je n'ai pas regardé le rendu dans u...
 
 **Outils utilises :** aucun
 

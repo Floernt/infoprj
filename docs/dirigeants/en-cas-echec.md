@@ -7,7 +7,7 @@ keywords: échec réorganisation judiciaire, fin anticipée PRJ, plan rejeté, t
   aveu de faillite, dissolution déficitaire
 public:
 - dirigeant
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Si la réorganisation échoue
 

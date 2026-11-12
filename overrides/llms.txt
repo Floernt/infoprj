@@ -97,6 +97,7 @@ Organisation du site : trois rubriques par profil (dirigeant, créancier, profes
 
 ## Optional
 
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](https://infoprj.be/actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans/): 79 % des entreprises en PRJ (2009-2017) disparues dans les cinq ans - lecture d'une statistique sur l'efficacité de la réorganisation judiciaire et le recours tardif à la procédure
 - [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](https://infoprj.be/actualites/2026-11-05-faillites-record-2025-recours-reorganisation/): 11.665 faillites en Belgique en 2025 (Statbel) face au recul des procédures de réorganisation judiciaire - lecture des chiffres et enseignements pour la prévention
 - [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](https://infoprj.be/actualites/2026-10-30-plessers-heiploeg-transfert-liquidation/): CJUE Plessers (C-509/17) et Heiploeg (C-237/20) - Directive 2001/23, droits des travailleurs et réforme du transfert sous autorité judiciaire (art. XX.84 CDE)
 - [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](https://infoprj.be/actualites/2026-10-30-namur-application-forcee-interclasse/): Entr. Liège (div. Namur), 23 janvier 2024 - Application forcée interclasse, valeur en activité, priorité absolue et motifs raisonnables d'y déroger (art. XX.83/18 CDE)
