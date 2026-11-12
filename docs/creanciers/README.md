@@ -5,7 +5,7 @@ keywords: créancier réorganisation judiciaire, PRJ créancier, sursis créanci
   plan de réorganisation, créancier sursitaire, Livre XX CDE
 public:
 - creancier
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Je suis créancier d'une entreprise en réorganisation
 
