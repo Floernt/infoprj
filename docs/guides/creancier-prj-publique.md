@@ -7,6 +7,7 @@ keywords: créancier PRJ publique étapes, débiteur en réorganisation judiciai
   appel homologation créancier, révocation du plan, guide créancier
 public:
 - creancier
+date: '2026-12-01'
 updated: '2026-11-12'
 ---
 # Créancier : votre débiteur en PRJ publique, en huit étapes
@@ -77,7 +78,7 @@ Dans l'exemple, la clause pénale de 6 000 euros ne sera de toute façon pas ret
 
 Le sursis dure quatre mois au plus et peut être prorogé jusqu'à douze mois au total. Pendant ce temps, voici ce qui change pour vous.
 
-| Ce que vous ne pouvez plus faire | Ce qui vous reste |
+| Ce que vous ne pouvez plus faire | Ce que vous pouvez encore faire |
 |---|---|
 | Saisir les biens du débiteur ou poursuivre une saisie en cours (les saisies déjà pratiquées restent conservatoires) | Prendre une sûreté légale ou conventionnelle |
 | Citer le débiteur en faillite | Agir contre une caution ou un codébiteur, sauf exceptions pour le conjoint ou le cohabitant légal et pour la caution consommateur |

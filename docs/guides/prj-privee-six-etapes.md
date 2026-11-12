@@ -8,6 +8,7 @@ keywords: PRJ privée étapes, réorganisation judiciaire privée mode d'emploi,
 public:
 - dirigeant
 - creancier
+date: '2026-11-11'
 updated: '2026-11-11'
 ---
 # La PRJ privée en six étapes
