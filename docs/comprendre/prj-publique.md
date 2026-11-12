@@ -139,3 +139,21 @@ Enfin, le sursis peut simplement **expirer** sans avoir été prorogé. Dans tou
 - [Préparer une PRJ](../dirigeants/preparer-prj.md)
 - [Votre débiteur est en PRJ](../creanciers/debiteur-en-prj.md)
 - [Les délais](../delais.md)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+[Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](../actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md)
+</div>
+</div>
+
+Toutes les notes sur : [Conditions d'ouverture](../actualites/themes.md#conditions-ouverture)
+
+</div>
+<!-- actualites:auto:end -->

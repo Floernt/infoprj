@@ -112,3 +112,26 @@ Si vous répondez « non » à la dernière question, la continuité est probabl
 - [Le devoir d'alerte de l'expert-comptable](../chiffre/alerte-xx23.md)
 - [Comment un créancier repère un débiteur fragile](../creanciers/signaux-creancier.md)
 - [Les questions fréquentes avant la PRJ](../faq/README.md#avant-la-prj)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">12.11.2026</span>
+
+[79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](../actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+[Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](../actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md)
+</div>
+</div>
+
+Toutes les notes sur : [Prévention et signaux d'alarme](../actualites/themes.md#prevention)
+
+</div>
+<!-- actualites:auto:end -->

@@ -57,4 +57,8 @@ La réforme de 2023 a précisément voulu avancer le moment de l'intervention : 
 - [Qu'est-ce qu'une procédure de réorganisation judiciaire ?](../comprendre/definition-prj.md)
 - [La PRJ publique : de la requête à la clôture](../comprendre/prj-publique.md)
 - [Préparer une procédure de réorganisation judiciaire](../dirigeants/preparer-prj.md)
+
+## Sur le même thème
+
+- [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md) — pratique, 12 novembre 2026
 <!-- actualites:auto:end -->

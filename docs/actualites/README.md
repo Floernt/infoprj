@@ -14,6 +14,30 @@ Vous pouvez aussi [parcourir les notes par thème](themes.md).
 <!-- actualites:auto:start -->
 ## 2026
 
+<div class="ifa-note" data-type="pratique" data-themes="statistiques prevention transfert" markdown>
+
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-note__meta">Publiée le 12 novembre 2026</span>
+
+### [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md)
+
+79,12 % des entreprises ayant introduit une réorganisation judiciaire entre 2009 et 2017 n'étaient plus en activité cinq ans plus tard, et entre 50 et 60 % des disparitions surviennent dès la première année. Le chiffre doit être nuancé, mais il dit beaucoup du moment où les entreprises demandent la protection du tribunal.
+
+[Statistiques](themes.md#statistiques){ .ifa-tag } [Prévention et signaux d'alarme](themes.md#prevention){ .ifa-tag } [Transfert sous autorité de justice](themes.md#transfert){ .ifa-tag }
+
+</div>
+
+<div class="ifa-note" data-type="pratique" data-themes="statistiques prevention conditions-ouverture" markdown>
+
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-note__meta">Publiée le 5 novembre 2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés », 16 janvier 2026</span>
+
+### [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](2026-11-05-faillites-record-2025-recours-reorganisation.md)
+
+Selon Statbel, la Belgique a compté 11.665 faillites en 2025, son niveau le plus élevé depuis 2013. Dans le même temps, les ouvertures de réorganisation judiciaire restent bien en deçà de leur niveau d'il y a dix ans. L'écart suggère que les outils de réorganisation sont mobilisés trop rarement, et souvent trop tard.
+
+[Statistiques](themes.md#statistiques){ .ifa-tag } [Prévention et signaux d'alarme](themes.md#prevention){ .ifa-tag } [Conditions d'ouverture](themes.md#conditions-ouverture){ .ifa-tag }
+
+</div>
+
 <div class="ifa-note" data-type="jurisprudence" data-themes="transfert travailleurs droit-europeen faillite-silencieuse" markdown>
 
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-note__meta">Publiée le 30 octobre 2026 · Cour de justice de l'Union européenne, 16 mai 2019</span>

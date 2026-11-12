@@ -58,6 +58,7 @@ Pour un dirigeant, les chances de succès dépendent largement du moment de la d
 
 ## Sur le même thème
 
+- [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](2026-11-05-faillites-record-2025-recours-reorganisation.md) — pratique, 5 novembre 2026
 - [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](2026-10-30-plessers-heiploeg-transfert-liquidation.md) — jurisprudence, 30 octobre 2026
 - [Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès](2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md) — jurisprudence, 30 octobre 2026
 <!-- actualites:auto:end -->

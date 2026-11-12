@@ -27,25 +27,25 @@ Un guide pratique pour les dirigeants d'entreprises en difficulté, leurs créan
 
 <!-- actualites:auto:start -->
 <div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">12.11.2026</span>
+
+### [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md)
+
+[Lire la note](actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
+<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+
+### [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md)
+
+[Lire la note](actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md){ .ifa-more }
+</div>
+<div class="ifa-feat" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">16.05.2019 · Cour de justice de l'Union européenne</span>
 
 ### [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](actualites/2026-10-30-plessers-heiploeg-transfert-liquidation.md)
 
 [Lire la note](actualites/2026-10-30-plessers-heiploeg-transfert-liquidation.md){ .ifa-more }
-</div>
-<div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.01.2024 · Tribunal de l'entreprise de Liège, division Namur</span>
-
-### [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](actualites/2026-10-30-namur-application-forcee-interclasse.md)
-
-[Lire la note](actualites/2026-10-30-namur-application-forcee-interclasse.md){ .ifa-more }
-</div>
-<div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">21.12.2023 · Cour d'appel de Bruxelles</span>
-
-### [Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès](actualites/2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md)
-
-[Lire la note](actualites/2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md){ .ifa-more }
 </div>
 
 [Toutes les actualités](actualites/README.md){ .ifa-more }
