@@ -7,6 +7,11 @@
 - Nouvelle page `docs/dirigeants/prj-privee-six-etapes.md` (`draft: true`), ajoutée au `nav` et à la grille de la rubrique Dirigeants. Guide de novembre 2026, ticket Paperclip FLO-15.
 - Points à vérifier consignés dans `superpowers/points-a-verifier.md`. `inject_git_dates.py` et le sitemap non régénérés : la page ne doit pas entrer dans le sitemap avant décision.
 
+## [2026-11-09] edit | relecture de la note du 12 novembre (79 %)
+
+- Note `2026-11-12-79-pourcent-…` : résumé précisé (50 à 60 % des disparitions la première année, non de l'ensemble des entreprises) ; « sur la même période » retiré pour les séries 2012-2022, assorties de leur réserve de source ; sursis actuel distingué du régime applicable aux dossiers 2009-2017 ; « accord devant la chambre » retiré de la liste des outils postérieurs ; formulations affirmatives non sourcées atténuées.
+- Rapport complet sur le ticket FLO-7. `inject_git_dates.py` non exécuté (Python absent de l'environnement de l'agent) : `updated` à régénérer avant publication.
+
 ## [2026-10-31] edit | actualités sans référence aux articles sources ni à leurs auteurs
 
 - Douze notes d'actualité et `chiffres.md` : retrait des exposés, formations, commentaires et de leurs auteurs (cartouche `source`, corps, ligne de références finale) ; seules les sources primaires restent citées.
