@@ -4,8 +4,9 @@ on:
   push:
     branches:
       - main
-  # Reconstruction quotidienne : publie les notes d'actualité programmées
-  # dont la date est atteinte (scripts/build_actualites.py --drop-future).
+  # Reconstruction quotidienne : publie les notes d'actualité et les guides
+  # programmés dont la date est atteinte (build_actualites.py et
+  # build_guides.py, option --drop-future).
   schedule:
     - cron: '0 5 * * *'
   workflow_dispatch:
@@ -37,9 +38,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Retirer les notes programmées, régénérer sitemap et llms.txt
+      - name: Retirer les notes et guides programmés, régénérer sitemap et llms.txt
         run: |
           python scripts/build_actualites.py --drop-future
+          python scripts/build_guides.py --drop-future
           python scripts/build_sitemap.py
           python scripts/build_llms.py
 

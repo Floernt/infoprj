@@ -57,6 +57,15 @@ def test_scheduled_notes_are_left_out_until_their_date(tmp_path: Path) -> None:
     assert "https://example.be/actualites/2026-12-03-programmee/" in render_sitemap(site, "2026-12-03")
 
 
+def test_scheduled_guides_are_left_out_until_their_date(tmp_path: Path) -> None:
+    site = _site(tmp_path)
+    guide = site / "docs" / "guides" / "programme.md"
+    guide.parent.mkdir(parents=True)
+    guide.write_text("---\ndate: '2027-01-05'\n---\n# Guide\n", encoding="utf-8")
+    assert "programme" not in render_sitemap(site, "2026-11-12")
+    assert "https://example.be/guides/programme/" in render_sitemap(site, "2027-01-05")
+
+
 def test_render_skips_draft_pages(tmp_path: Path) -> None:
     site = _site(tmp_path)
     (site / "docs" / "brouillon.md").write_text(

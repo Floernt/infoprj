@@ -2,6 +2,19 @@
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
 
+## [2026-11-12] feat | guides programmés, un par mois
+
+- Choix de Florian : publication automatique d'un guide par mois, plutôt qu'une PR mensuelle. Spec : `superpowers/specs/2026-11-12-guides-programmes.md`.
+- `scripts/build_guides.py` : clé `date` obligatoire sur chaque guide ; `--check` refuse tout lien vers un guide programmé autre qu'une tuile ou qu'un guide plus tardif ; `--drop-future` (CI, `deploy.yml`) retire le fichier, sa ligne de `nav` et ses tuiles. `build_sitemap.is_scheduled` couvre les guides (donc aussi `llms.txt`). Tests : `tests/test_build_guides.py`.
+- Calendrier (premier mardi du mois) : créancier 2026-12-01, dirigeant en PRJ publique 2027-01-05, chambre des entreprises en difficulté 2027-02-02, transfert sous autorité de justice 2027-03-02. Simulation du build au 2027-01-05 : site construit sans lien cassé.
+- Les trois nouveaux guides ont été rédigés par des sous-agents à partir des pages de fond, puis relus ; trois affirmations sans source ont été retirées. Tuiles ajoutées dans les rubriques Dirigeants, Créanciers et Chiffre. Points propres dans `superpowers/points-a-verifier.md`.
+
+## [2026-11-12] feat | guide « Créancier : la PRJ publique en huit étapes »
+
+- Sujets identifiés pour les prochains guides (dans l'ordre proposé) : PRJ publique PME côté dirigeant, chambre des entreprises en difficulté, créancier en PRJ publique, transfert sous autorité de justice ; plus tard : plan par classes, après l'homologation ; écarté : devoir d'alerte XX.23 (la page suit déjà l'ordre chronologique).
+- Choix de Florian : le guide créancier en premier. Nouvelle page `docs/guides/creancier-prj-publique.md` : huit étapes, sans références légales (comme le premier guide), fil rouge repris de `creanciers/debiteur-en-prj.md` et calendrier de `comprendre/prj-publique.md`. Ajoutée au `nav`, à la grille des Guides et en tête de la grille Créanciers.
+- Points propres consignés dans `superpowers/points-a-verifier.md` (section « Guide de décembre 2026 »).
+
 ## [2026-11-12] chore | préparation de la PR gh-pages → main
 
 - `origin/main` fusionné dans `gh-pages` : relectures des notes des 12 et 19 novembre, guide en double commit (contenu identique).
@@ -354,6 +367,66 @@ Suppression des dossiers non suivis devenus inutiles : clone `infofaillite/` (se
 **Demande :** je voudrais créer un fichier llm.txt pour optimiser le GEO & intégrer les guides dans une rubrique dédiée le menu en tête doit être réorganiser pour permettre l'ajout de ce menu
 
 **Action :** La rubrique Guides, le nouveau menu et le `llms.txt` généré sont en place, en quatre commits sur `gh-pages`. Les 54 tests passent et le site se construit sans avertissement. Rien n'est poussé.  **Menu.** Le haut de page affiche maintenant : Je dirige l'entreprise · Je suis créancier · Professionnel du chiffre · Comprendre la PRJ · Guides · Actualités. La FAQ est sortie du menu ; on l'atteint depuis l'accueil, le pied de page (« Pages utiles ») et la recherche. Je n'ai pas regardé le rendu dans u...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 16:09:38 - session 9287d68d
+
+**Demande :** véerifie que tout est ok pour la PR
+
+**Action :** La branche `gh-pages` est prête pour la PR, mais pas encore poussée. J'ai dû corriger deux problèmes avant d'en arriver là.  **L'ancienne adresse du guide aurait cassé.** Les PR #4 et #5 ont déjà mis le guide en ligne sous `/dirigeants/prj-privee-six-etapes/` : rien dans la construction du site ne tient compte de `draft: true`. Je t'avais dit le contraire hier, c'était faux. Le déplacement dans `/guides/` aurait rendu l'ancienne URL introuvable. J'ai ajouté une page de redirection à l'ancienne a...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 16:13:15 - session 9287d68d
+
+**Demande :** ok pousse je fais la pr
+
+**Action :** J'ai poussé `gh-pages` sur GitHub : la branche en ligne est identique à la branche locale. Tu peux ouvrir la PR `gh-pages` → `main` sur https://github.com/Floernt/infoprj/compare/main...gh-pages.  `LOG.md` reste modifié en local : ce sont les entrées ajoutées automatiquement à chaque fin de réponse. Elles ne sont pas dans la PR et partiront avec le prochain commit.
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 16:14:47 - session 9287d68d
+
+**Demande :** c'est quoi la difference entre merge commit, squash ou rebase dans la pr
+
+**Action :** Les trois boutons font arriver le même contenu sur `main`. Ce qui change, c'est la façon dont les commits y sont inscrits.  **Merge commit.** Les commits de `gh-pages` sont repris tels quels dans `main`, plus un commit de fusion (« Merge pull request #6… »). L'historique garde le détail commit par commit. Surtout, `main` et `gh-pages` partagent ensuite exactement les mêmes commits.  **Squash and merge.** Tous les commits de la PR sont écrasés en un seul commit neuf sur `main`. L'historique de `m...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 16:22:02 - session 25e0e269
+
+**Demande :** identifie les sujets utiles et pertinents pour la rédaction d'autres guides
+
+**Action :** J'ai retenu quatre guides prioritaires. Le détail (sources, étapes possibles, critères) est dans le plan.  1. **La PRJ publique par accord collectif (PME)**, de la requête à l'homologation. C'est la procédure de référence et la suite logique du guide sur la PRJ privée. 2. **Convoqué par la chambre des entreprises en difficulté.** C'est souvent le premier contact du dirigeant avec la justice, bien avant toute PRJ. 3. **Créancier : votre débiteur ouvre une PRJ publique.** Ce serait le premier guid...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 16:26:08 - session 25e0e269
+
+**Demande :** ok
+
+**Action :** J'ai rédigé le guide « Créancier : la PRJ publique en huit étapes ». Il est dans [docs/guides/creancier-prj-publique.md](docs/guides/creancier-prj-publique.md), commité sur `gh-pages` mais pas poussé. Les tests passent, le site se construit, et tous les liens internes et leurs ancres existent dans le site construit.  **Le contenu.** Le guide reprend les démarches du créancier dans l'ordre : apprendre l'ouverture, vérifier sa créance et s'enregistrer, contester un mois avant le vote, traverser le...
+
+**Outils utilises :** aucun
+
+---
+
+## 2026-11-12 17:40:44 - session 25e0e269
+
+**Demande :** ok continue avec les autres guides pour publication 1x/mois
+
+**Action :** J'attends maintenant le guide du dirigeant en PRJ publique, encore en cours de rédaction.
 
 **Outils utilises :** aucun
 

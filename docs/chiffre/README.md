@@ -6,7 +6,7 @@ keywords: expert-comptable entreprise en difficulté, réviseur PRJ, devoir d'al
   PRJ, article 48/1 CIR
 public:
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-12'
 ---
 # Professionnel du chiffre : votre rôle face à l'entreprise en difficulté
 
@@ -16,6 +16,7 @@ Expert-comptable, réviseur d'entreprises ou conseiller fiscal, vous voyez souve
 [**Le devoir d'alerte** L'article XX.23, § 3 : informer le débiteur, puis éventuellement le président du tribunal.](alerte-xx23.md){ .ifa-subtile }
 [**Continuité et sonnette d'alarme** Procédure du CSA, critères de continuité, évaluation en discontinuité.](continuite-alarme-csa.md){ .ifa-subtile }
 [**Face à la chambre** Votre audition par la chambre des entreprises en difficulté, l'accord et la médiation.](chambre-comptable.md){ .ifa-subtile }
+[**Guide : convoqué par la chambre** L'audition de votre client pas à pas, avec ce que la chambre attend de vous.](../guides/convocation-chambre-entreprises.md){ .ifa-subtile }
 [**Valoriser l'entreprise** Valeur de liquidation, valeur de continuité, meilleur intérêt et priorité absolue.](valorisation-meilleur-interet.md){ .ifa-subtile }
 [**Plan d'affaires et trésorerie** Le budget annexé à la requête et les chiffres qui soutiennent le plan.](plan-affaires-tresorerie.md){ .ifa-subtile }
 [**Comptabilité et fiscalité** Écritures de l'abandon de créance, article 48/1 CIR, côté créancier.](comptabilite-fiscalite-abandons.md){ .ifa-subtile }

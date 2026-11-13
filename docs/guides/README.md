@@ -8,7 +8,7 @@ public:
 - dirigeant
 - creancier
 - chiffre
-updated: '2026-11-11'
+updated: '2026-11-12'
 ---
 # Guides pas à pas
 
@@ -16,6 +16,10 @@ Les rubriques consacrées aux [dirigeants](../dirigeants/README.md), aux [créan
 
 <div class="ifa-subtiles" markdown>
 [**La PRJ privée en six étapes** De la requête à la fin de la procédure, sans publication : ce qui reste confidentiel et ce qui ne l'est pas.](prj-privee-six-etapes.md){ .ifa-subtile }
+[**Créancier : la PRJ publique en huit étapes** De l'annonce de l'ouverture à la révocation éventuelle du plan : vérifier et contester votre créance, voter, faire appel.](creancier-prj-publique.md){ .ifa-subtile }
+[**Dirigeant : la PRJ publique en huit étapes** De la requête à la dernière échéance du plan : annexes, sursis, plan, vote, homologation, et que faire si la procédure tourne mal.](dirigeant-prj-publique.md){ .ifa-subtile }
+[**Convoqué par la chambre des entreprises en difficulté** Pourquoi vous êtes convoqué, comment préparer l'audition, les suites possibles ; avec le rôle de l'expert-comptable.](convocation-chambre-entreprises.md){ .ifa-subtile }
+[**Le transfert sous autorité de justice en sept étapes** De la demande à la fin de la société cédante : offres, travailleurs, autorisation, répartition du prix.](transfert-sous-autorite-de-justice.md){ .ifa-subtile }
 </div>
 
 Les délais de toutes les procédures sont rassemblés dans la page [Délais](../delais.md) et les termes techniques définis dans le [glossaire](../glossaire.md).

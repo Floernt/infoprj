@@ -100,6 +100,10 @@ nav = [
   { "Guides" = [
     "guides/README.md",
     { "La PRJ privée en six étapes" = "guides/prj-privee-six-etapes.md" },
+    { "Créancier : la PRJ publique en huit étapes" = "guides/creancier-prj-publique.md" },
+    { "Dirigeant : la PRJ publique en huit étapes" = "guides/dirigeant-prj-publique.md" },
+    { "Convoqué par la chambre" = "guides/convocation-chambre-entreprises.md" },
+    { "Le transfert sous autorité de justice" = "guides/transfert-sous-autorite-de-justice.md" },
   ] },
   { "Actualités" = [
     "actualites/README.md",

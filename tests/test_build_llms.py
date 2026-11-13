@@ -92,11 +92,15 @@ def test_repository_llms_lists_every_published_nav_page() -> None:
     text = render_llms(root)
     import tomllib
 
-    from scripts.build_sitemap import is_draft, page_url
+    from datetime import date
+
+    from scripts.build_sitemap import is_draft, is_scheduled, page_url
     from tests.test_nav import _nav_files
 
     config = tomllib.loads((root / "zensical.toml").read_text(encoding="utf-8"))
     base = config["project"]["site_url"]
+    today = date.today().isoformat()
     for rel in _nav_files(config["project"]["nav"]):
-        if not is_draft(root / "docs" / rel):
+        file = root / "docs" / rel
+        if not is_draft(file) and not is_scheduled(rel, file, today):
             assert f"]({page_url(base, rel)})" in text, rel
