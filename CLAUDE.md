@@ -42,6 +42,20 @@ Site documentaire **La réorganisation judiciaire en Belgique** (infoprj.be), si
 - **`llms.txt` est généré** par [scripts/build_llms.py](scripts/build_llms.py) dans [overrides/llms.txt](overrides/llms.txt) (format llmstxt.org) : partie fixe dans [data/llms-intro.md](data/llms-intro.md), puis une section par rubrique du `nav` (libellé du menu + `description` du front matter), FAQ, pages du pied de page, notes d'actualité publiées. Régénéré par `inject_git_dates.py` et au déploiement ; ne pas l'éditer à la main, soigner plutôt la `description` des pages.
 - Les pages d'entrée de rubrique ouvrent sur une grille `ifa-subtiles` : la tenir à jour quand une page est ajoutée.
 
+## Dépôt : matière première des actualités
+
+[depot/](depot/) reçoit les documents que Florian dépose pour une future note (mode d'emploi : [depot/README.md](depot/README.md)). Contenu ignoré par Git, seul le README est versionné. Un fichier à la racine de `depot/` est à traiter ; `depot/traite/AAAA-MM-JJ-slug/` contient les sources déjà exploitées, rangées sous le nom de la note produite.
+
+Quand Florian demande de « traiter le dépôt » :
+
+1. **Inventaire** des fichiers à la racine de `depot/` (hors `README.md` et `traite/`), avec les éventuelles consignes déposées à côté.
+2. **Lecture** de chaque source (PDF : `pdftotext -layout -enc UTF-8 fichier.pdf -`) ; identifier le type de note (jurisprudence, législation, pratique).
+3. **Croisement avec l'existant** : grep dans `docs/` sur la juridiction, la date, le numéro de rôle, les parties, les articles. Chercher une suite de procédure (appel, cassation d'une décision déjà commentée) ou une contradiction avec une page ou une note publiée. Une contradiction appelle une correction des pages concernées (avertissement « Mise à jour » sur une note publiée, réécriture des passages de fond), à signaler à Florian.
+4. **Date** : par défaut le prochain jeudi libre du calendrier des notes. Proposer de sortir de ce rythme si la note corrige un contenu déjà en ligne.
+5. **Sources** : règle des sources secondaires anonymes (voir Conventions éditoriales) ; références légales vérifiées dans Justel ; ce qui reste incertain va dans [superpowers/points-a-verifier.md](superpowers/points-a-verifier.md).
+6. **Publication** : procédure ci-dessous (new_actualite, rédaction, build_actualites, commits, inject_git_dates).
+7. **Rangement** : déplacer la source dans `depot/traite/<nom de la note sans .md>/` ; entrée dans [LOG.md](LOG.md).
+
 ## Actualités : publier une note
 
 Procédure identique à infofaillite :

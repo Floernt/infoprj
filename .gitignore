@@ -7,3 +7,7 @@ __pycache__/
 .cache/
 Ressources InfoPrj/
 sources/
+
+# Dépôt de matière première pour les actualités (seul le README est versionné)
+depot/*
+!depot/README.md
