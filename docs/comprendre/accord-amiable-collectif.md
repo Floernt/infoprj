@@ -126,13 +126,18 @@ Tout créancier peut demander la révocation du plan qui n'est pas ponctuellemen
 
 <div class="ifa-relcards" markdown>
 <div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">24.09.2023 · Arrêté royal du 24 septembre 2023 établissant une liste de contrôle relative au plan de réorganisation des petites et moyennes entreprises</span>
+
+[Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](../actualites/2026-11-19-arrete-royal-liste-controle-plan-pme.md)
+</div>
+<div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">28.12.2023 · Loi du 28 décembre 2023 (M.B. 29 décembre 2023)</span>
 
 [Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)](../actualites/2026-10-30-abandons-creance-imposition-etalee-48-1-cir.md)
 </div>
 </div>
 
-Toutes les notes sur : [Accord amiable](../actualites/themes.md#accord-amiable)
+Toutes les notes sur : [Accord amiable](../actualites/themes.md#accord-amiable) · [Plan de réorganisation des PME](../actualites/themes.md#plan-pme)
 
 </div>
 <!-- actualites:auto:end -->

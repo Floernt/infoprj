@@ -107,6 +107,16 @@ L'appel d'un créancier contre un jugement d'homologation n'est pas déclaré su
 
 <div class="ifa-relcards" markdown>
 <div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">22.10.2026 · Cour de cassation</span>
+
+[Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](../actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">24.09.2023 · Arrêté royal du 24 septembre 2023 établissant une liste de contrôle relative au plan de réorganisation des petites et moyennes entreprises</span>
+
+[Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](../actualites/2026-11-19-arrete-royal-liste-controle-plan-pme.md)
+</div>
+<div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.01.2024 · Tribunal de l'entreprise de Liège, division Namur</span>
 
 [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](../actualites/2026-10-30-namur-application-forcee-interclasse.md)
@@ -118,7 +128,7 @@ L'appel d'un créancier contre un jugement d'homologation n'est pas déclaré su
 </div>
 </div>
 
-Toutes les notes sur : [Homologation du plan](../actualites/themes.md#homologation)
+Toutes les notes sur : [Homologation du plan](../actualites/themes.md#homologation) · [Plan de réorganisation des PME](../actualites/themes.md#plan-pme)
 
 </div>
 <!-- actualites:auto:end -->

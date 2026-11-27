@@ -72,6 +72,7 @@ Pour un dirigeant, demander un transfert sous autorité judiciaire revient à or
 
 ## Sur le même thème
 
+- [Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md) — jurisprudence, 26 novembre 2026
 - [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md) — pratique, 12 novembre 2026
 - [Faillite silencieuse : la cour d'appel de Bruxelles assouplit les conditions d'accès](2026-10-30-bruxelles-faillite-silencieuse-conditions-souples.md) — jurisprudence, 30 octobre 2026
 <!-- actualites:auto:end -->

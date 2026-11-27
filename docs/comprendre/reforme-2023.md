@@ -99,6 +99,11 @@ Le cœur de la procédure demeure. La PRJ publique s'ouvre toujours sur une requ
 
 <div class="ifa-relcards" markdown>
 <div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">26.11.2026 · Juridictions françaises et néerlandaises</span>
+
+[Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](../actualites/2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md)
+</div>
+<div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">16.05.2019 · Cour de justice de l'Union européenne</span>
 
 [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](../actualites/2026-10-30-plessers-heiploeg-transfert-liquidation.md)

@@ -128,3 +128,21 @@ Le tribunal statue dans les quinze jours de l'audience et, en tout cas, avant la
 - [Meilleur intérêt et cram-down](../comprendre/meilleur-interet-cram-down.md)
 - [Valoriser l'entreprise](../chiffre/valorisation-meilleur-interet.md)
 - [Les questions fréquentes sur le plan et le vote](../faq/README.md#plan-vote)
+
+<!-- actualites:auto:start -->
+<div class="ifa-related" markdown>
+
+## Actualités liées
+
+<div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">24.09.2023 · Arrêté royal du 24 septembre 2023 établissant une liste de contrôle relative au plan de réorganisation des petites et moyennes entreprises</span>
+
+[Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](../actualites/2026-11-19-arrete-royal-liste-controle-plan-pme.md)
+</div>
+</div>
+
+Toutes les notes sur : [Plan de réorganisation des PME](../actualites/themes.md#plan-pme)
+
+</div>
+<!-- actualites:auto:end -->

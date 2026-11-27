@@ -34,7 +34,7 @@ La PRJ privée (art. XX.83/22 à XX.83/41) est présentée par les praticiens co
 
 ## Le régime des classes reste rare
 
-Le régime des classes concerne les entreprises qui dépassent un des seuils de l'article XX.83/1 (250 travailleurs, 40 millions d'euros de chiffre d'affaires, 20 millions d'euros de total du bilan, pendant deux exercices consécutifs, les entreprises unies par une relation de filiation étant considérées ensemble), et les PME qui le choisissent dans leur requête. Les praticiens relèvent le nombre limité de ces procédures, ce que laissaient prévoir les seuils retenus. Les quelques décisions connues, comme celle du tribunal de l'entreprise de Liège, division Namur, du 23 janvier 2024 (voir [notre note](2026-10-30-namur-application-forcee-interclasse.md)), montrent toutefois que le mécanisme fonctionne lorsque le plan est solidement documenté.
+Le régime des classes concerne les entreprises qui dépassent un des seuils de l'article XX.83/1 (250 travailleurs, 40 millions d'euros de chiffre d'affaires, 20 millions d'euros de total du bilan, pendant deux exercices consécutifs, les entreprises unies par une relation de filiation étant considérées ensemble), et les PME qui le choisissent dans leur requête. Les praticiens relèvent le nombre limité de ces procédures, ce que laissaient prévoir les seuils retenus. Les quelques décisions connues montrent que le mécanisme peut fonctionner lorsque le plan est solidement documenté, mais aussi que le contentieux peut être long. Le plan homologué par le tribunal de l'entreprise de Liège, division Namur, le 23 janvier 2024 (voir [notre note](2026-10-30-namur-application-forcee-interclasse.md)) a vu son homologation refusée en appel, avant que la Cour de cassation casse cet arrêt le 22 octobre 2026 et renvoie l'affaire devant la cour d'appel de Mons (voir [notre note sur l'arrêt](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)).
 
 ## Des créanciers encore peu actifs
 
@@ -66,6 +66,7 @@ Pour un dirigeant, la réforme a surtout élargi le choix : avant d'envisager un
 
 ## Sur le même thème
 
+- [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md) — jurisprudence, 27 novembre 2026
+- [Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md) — jurisprudence, 26 novembre 2026
 - [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](2026-10-30-plessers-heiploeg-transfert-liquidation.md) — jurisprudence, 30 octobre 2026
-- [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](2026-10-30-namur-application-forcee-interclasse.md) — jurisprudence, 30 octobre 2026
 <!-- actualites:auto:end -->

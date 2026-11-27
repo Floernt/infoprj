@@ -160,3 +160,9 @@ Point tranché à la lecture du texte : XX.83/14 n'exige, dans chaque classe, qu
 - creanciers/signaux-creancier.md — grille de signaux attribuée nommément à « l'équipe de restructuration d'ING » — maintenir ou anonymiser ?
 - faq/README.md — suppression en 2023 de la prorogation du sursis « pour circonstances exceptionnelles » — affirmée de mémoire ; le texte consolidé montre seulement des passages supprimés dans XX.59.
 - delais.md, dirigeants/chambre-entreprises-difficulte.md — XX.28 : prolongation de 10 mois au plus (lecture retenue) ou durée totale de 10 mois ?
+
+## Note du 27 novembre 2026 (Cass., 22 octobre 2026, C.25.0040.F)
+
+- actualites/2026-10-30-namur-application-forcee-interclasse.md — la note compte sept classes (cinq favorables) ; la requête en cassation n'en mentionne que cinq (classes 1 et 4 défavorables ; 2, 3 et 5 favorables). À confronter au jugement du 23 janvier 2024.
+- Même note — elle indique que le tribunal « requalifie en créanciers ordinaires » la classe des sous-traitants ; l'arrêt de cassation rapporte seulement que le premier juge a déclaré cette classe « irrégulière », tout en homologuant. À confronter au jugement.
+- Textes des art. XX.49, XX.68 et XX.83/11 repris de l'arrêt et de debiteur-en-prj.md ; la lecture de Justel par l'outil n'a pas atteint le Livre XX.
