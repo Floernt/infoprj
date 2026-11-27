@@ -6,7 +6,7 @@ keywords: valorisation entreprise PRJ, meilleur intérêt des créanciers, best 
   réviseur valorisation, XX.83/17
 public:
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Valoriser l'entreprise : meilleur intérêt et priorité absolue
 

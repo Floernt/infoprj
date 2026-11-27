@@ -7,7 +7,7 @@ keywords: requête réorganisation judiciaire, préparer PRJ, annexes requête P
   PRJ
 public:
 - dirigeant
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Préparer une procédure de réorganisation judiciaire
 

@@ -6,7 +6,7 @@ keywords: classes de créanciers belgique, cram-down créancier, application for
   valeur entreprise
 public:
 - creancier
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Classes de créanciers et cram-down : vos droits
 

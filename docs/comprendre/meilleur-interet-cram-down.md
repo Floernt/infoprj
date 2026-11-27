@@ -8,7 +8,7 @@ public:
 - dirigeant
 - creancier
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Meilleur intérêt et cram-down
 

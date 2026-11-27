@@ -7,7 +7,7 @@ keywords: plan de réorganisation, contenu plan PRJ, article XX.70/1, abattement
   plan PME, budget de trésorerie
 public:
 - dirigeant
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Rédiger le plan de réorganisation
 

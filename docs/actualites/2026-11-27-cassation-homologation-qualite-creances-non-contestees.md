@@ -1,5 +1,6 @@
 ---
-title: "Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps"
+title: 'Cassation : à l''homologation, le juge ne peut plus revoir la qualité d''une
+  créance non contestée à temps'
 date: '2026-11-27'
 type: jurisprudence
 source:
@@ -7,19 +8,27 @@ source:
   date: '2026-10-22'
   reference: C.25.0040.F
   lien: https://juportal.be/content/ECLI:BE:CASS:2026:ARR.20261022.1F.1/FR
-themes: [homologation, classes-creanciers, cram-down]
-articles_cde: [XX.49, XX.68, XX.83/9, XX.83/17]
-resume: >-
-  Dans l'affaire namuroise du régime des classes, la Cour de cassation casse l'arrêt
-  qui avait refusé l'homologation en jugeant artificielle une classe de sous-traitants.
-  Le montant et la qualité des créances sont fixés par la procédure de contestation
-  des articles XX.49 et XX.68 : le juge de l'homologation ne peut plus les remettre en cause.
+themes:
+- homologation
+- classes-creanciers
+- cram-down
+articles_cde:
+- XX.49
+- XX.68
+- XX.83/9
+- XX.83/17
+resume: 'Dans l''affaire namuroise du régime des classes, la Cour de cassation casse
+  l''arrêt qui avait refusé l''homologation en jugeant artificielle une classe de
+  sous-traitants. Le montant et la qualité des créances sont fixés par la procédure
+  de contestation des articles XX.49 et XX.68 : le juge de l''homologation ne peut
+  plus les remettre en cause.'
 description: Cass., 22 octobre 2026, C.25.0040.F - Homologation d'un plan par classes,
-  qualité des créances non contestée dans le délai de l'article XX.68 CDE, office du
-  juge sur la répartition en classes (art. XX.83/9 et XX.83/17)
+  qualité des créances non contestée dans le délai de l'article XX.68 CDE, office
+  du juge sur la répartition en classes (art. XX.83/9 et XX.83/17)
 keywords: Cour de cassation 22 octobre 2026, C.25.0040.F, homologation plan de réorganisation,
   répartition en classes, contestation de créance XX.68, qualité de créance extraordinaire,
   privilège du sous-traitant, gage sur créances futures, XX.83/17
+updated: '2026-11-27'
 ---
 # Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps
 

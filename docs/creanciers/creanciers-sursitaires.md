@@ -6,7 +6,7 @@ keywords: créancier sursitaire extraordinaire, créancier sursitaire ordinaire,
   dette de masse XX.58
 public:
 - creancier
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Créanciers sursitaires : ordinaire, extraordinaire, public
 

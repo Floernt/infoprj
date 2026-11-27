@@ -8,7 +8,7 @@ public:
 - dirigeant
 - creancier
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # La réforme de 2023 : ce qui a changé
 

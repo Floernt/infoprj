@@ -5,7 +5,7 @@ keywords: vote plan de réorganisation, majorité XX.78/2, vote par classes XX.8
   homologation plan réorganisation, refus homologation XX.79, appel créancier PRJ
 public:
 - creancier
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Voter et contester le plan de réorganisation
 

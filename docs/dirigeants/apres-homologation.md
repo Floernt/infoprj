@@ -7,7 +7,7 @@ keywords: homologation plan réorganisation effets, exécution plan PRJ, révoca
   fiscalité, article 48/1 CIR
 public:
 - dirigeant
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Après l'homologation : exécuter le plan sans faux pas
 
