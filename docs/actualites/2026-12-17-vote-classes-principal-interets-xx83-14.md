@@ -21,7 +21,7 @@ description: Article XX.83/14 CDE - Calcul de la majorité dans les classes de c
 keywords: vote classes de créanciers, XX.83/14, majorité principal intérêts, belangen
   rente, vote plan grandes entreprises, double majorité XX.78/2, détenteurs de capital
   vote
-updated: '2026-10-31'
+updated: '2026-11-27'
 ---
 # Vote dans les classes : les intérêts des créances comptent-ils ? Une question ouverte de l'article XX.83/14
 
@@ -65,6 +65,7 @@ Tant que la jurisprudence n'a pas tranché, la prudence consiste à préparer, p
 
 ## Sur le même thème
 
-- [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](2026-10-30-namur-application-forcee-interclasse.md) — jurisprudence, 30 octobre 2026
-- [Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)](2026-10-30-abandons-creance-imposition-etalee-48-1-cir.md) — législation, 30 octobre 2026
+- [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md) — jurisprudence, 27 novembre 2026
+- [Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md) — jurisprudence, 26 novembre 2026
+- [Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](2026-11-19-arrete-royal-liste-controle-plan-pme.md) — législation, 19 novembre 2026
 <!-- actualites:auto:end -->

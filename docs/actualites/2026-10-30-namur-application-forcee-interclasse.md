@@ -26,9 +26,12 @@ description: Entr. Liège (div. Namur), 23 janvier 2024 - Application forcée in
 keywords: cram-down Belgique, application forcée interclasse, XX.83/18, priorité absolue,
   classes de créanciers, valeur de réorganisation, DCF, meilleur intérêt des créanciers,
   Namur 23 janvier 2024
-updated: '2026-10-31'
+updated: '2026-11-27'
 ---
 # Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics
+
+!!! warning "Mise à jour du 27 novembre 2026"
+    Ce jugement a été réformé par la cour d'appel de Liège le 20 novembre 2024, qui a refusé l'homologation en jugeant artificielle la classe des sous-traitants. Cet arrêt a lui-même été cassé par la Cour de cassation le 22 octobre 2026, et l'affaire est renvoyée devant la cour d'appel de Mons. La Cour juge que le montant et la qualité des créances sont fixés par la procédure de contestation des articles XX.49 et XX.68 et que le juge de l'homologation ne peut plus les remettre en cause : le passage ci-dessous sur les sous-traitants doit être lu à cette lumière. Voir [notre note sur l'arrêt](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md).
 
 Par un jugement du 23 janvier 2024, le tribunal de l'entreprise de Liège, division Namur, homologue un plan de réorganisation soumis au régime des classes alors que deux classes sur sept ne l'avaient pas approuvé. C'est l'une des premières décisions belges connues qui impose un plan à une classe dissidente sur la base de l'article XX.83/18 du Code de droit économique. Le jugement est inédit.
 
@@ -74,5 +77,7 @@ Une PME qui envisage le régime des classes a intérêt à faire établir tôt, 
 
 ## Sur le même thème
 
-- [Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)](2026-10-30-abandons-creance-imposition-etalee-48-1-cir.md) — législation, 30 octobre 2026
+- [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md) — jurisprudence, 27 novembre 2026
+- [Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md) — jurisprudence, 26 novembre 2026
+- [Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](2026-11-19-arrete-royal-liste-controle-plan-pme.md) — législation, 19 novembre 2026
 <!-- actualites:auto:end -->

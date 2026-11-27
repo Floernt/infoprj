@@ -6,7 +6,7 @@ keywords: valorisation entreprise PRJ, meilleur intérêt des créanciers, best 
   réviseur valorisation, XX.83/17
 public:
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Valoriser l'entreprise : meilleur intérêt et priorité absolue
 
@@ -119,6 +119,16 @@ Pour le débiteur, cela signifie qu'une valorisation solide, cohérente avec le 
 ## Actualités liées
 
 <div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">22.10.2026 · Cour de cassation</span>
+
+[Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](../actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">26.11.2026 · Juridictions françaises et néerlandaises</span>
+
+[Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](../actualites/2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md)
+</div>
 <div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.01.2024 · Tribunal de l'entreprise de Liège, division Namur</span>
 

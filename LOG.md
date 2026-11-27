@@ -2,6 +2,14 @@
 
 > Historique append-only des interactions et décisions sur ce projet. Alimenté automatiquement par le hook Stop défini dans `~/.claude/settings.json` (voir `~/.claude/Core/logging-rules.md`).
 
+## [2026-11-27] feat | dossier de dépôt et note sur Cass. 22 octobre 2026 (C.25.0040.F)
+
+- Nouveau dossier `depot/` (contenu ignoré par Git, seul `depot/README.md` versionné) pour la matière première des actualités ; procédure « traiter le dépôt » dans CLAUDE.md. Même dispositif mis en place dans infofaillite.
+- Arrêt de cassation déposé par Florian, rangé dans `depot/traite/2026-11-27-cassation-homologation-qualite-creances-non-contestees/`. C'est la suite de l'affaire de Namur (Entr. Liège, div. Namur, 23.1.2024 ; Liège, 20.11.2024, refus d'homologation ; cassation, renvoi à Mons).
+- Nouvelle note `2026-11-27-cassation-homologation-qualite-creances-non-contestees.md`, publiée hors du rythme du jeudi (choix de Florian), parce qu'elle corrige un contenu en ligne.
+- **Correction de fond** : la requalification des sous-traitants par le juge de l'homologation n'est plus présentée comme une leçon. Avertissement « Mise à jour » sur la note de Namur ; passages réécrits dans `creanciers/creanciers-sursitaires.md`, `creanciers/classes-cram-down.md`, `dirigeants/preparer-prj.md`, `comprendre/grandes-entreprises-classes.md` ; nuance dans la note-bilan du 24 décembre.
+- Points ouverts (nombre de classes, « requalification » par le premier juge, texte Justel de XX.68) dans `superpowers/points-a-verifier.md`.
+
 ## [2026-11-12] feat | guides programmés, un par mois
 
 - Choix de Florian : publication automatique d'un guide par mois, plutôt qu'une PR mensuelle. Spec : `superpowers/specs/2026-11-12-guides-programmes.md`.

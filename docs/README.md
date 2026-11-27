@@ -8,7 +8,7 @@ template: home.html
 hide:
 - navigation
 - toc
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 <div class="ifa-opening" markdown>
 <div markdown>
@@ -27,25 +27,25 @@ Un guide pratique pour les dirigeants d'entreprises en difficulté, leurs créan
 
 <!-- actualites:auto:start -->
 <div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">12.11.2026</span>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">22.10.2026 · Cour de cassation</span>
 
-### [79 % des entreprises en réorganisation disparues dans les cinq ans : comment lire ce chiffre](actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md)
+### [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)
 
-[Lire la note](actualites/2026-11-12-79-pourcent-entreprises-disparues-cinq-ans.md){ .ifa-more }
+[Lire la note](actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md){ .ifa-more }
 </div>
 <div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--pratique">Pratique</span> <span class="ifa-date">16.01.2026 · Statbel, « 11.665 faillites en 2025 : résultats régionaux contrastés »</span>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">26.11.2026 · Juridictions françaises et néerlandaises</span>
 
-### [Faillites record en 2025 : ce que les chiffres disent du recours à la réorganisation](actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md)
+### [Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](actualites/2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md)
 
-[Lire la note](actualites/2026-11-05-faillites-record-2025-recours-reorganisation.md){ .ifa-more }
+[Lire la note](actualites/2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md){ .ifa-more }
 </div>
 <div class="ifa-feat" markdown>
-<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">16.05.2019 · Cour de justice de l'Union européenne</span>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">24.09.2023 · Arrêté royal du 24 septembre 2023 établissant une liste de contrôle relative au plan de réorganisation des petites et moyennes entreprises</span>
 
-### [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](actualites/2026-10-30-plessers-heiploeg-transfert-liquidation.md)
+### [Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](actualites/2026-11-19-arrete-royal-liste-controle-plan-pme.md)
 
-[Lire la note](actualites/2026-10-30-plessers-heiploeg-transfert-liquidation.md){ .ifa-more }
+[Lire la note](actualites/2026-11-19-arrete-royal-liste-controle-plan-pme.md){ .ifa-more }
 </div>
 
 [Toutes les actualités](actualites/README.md){ .ifa-more }

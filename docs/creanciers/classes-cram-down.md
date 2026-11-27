@@ -6,7 +6,7 @@ keywords: classes de créanciers belgique, cram-down créancier, application for
   valeur entreprise
 public:
 - creancier
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Classes de créanciers et cram-down : vos droits
 
@@ -43,6 +43,8 @@ Les critiques les plus fréquentes portent sur deux procédés. Le premier consi
 ### Le montant et la qualité de votre créance
 
 Le montant retenu détermine votre poids dans le vote de la classe, et la qualité d'extraordinaire détermine la classe elle-même. Une contestation se forme selon les règles communes, au plus tard un mois avant l'audience de vote (art. XX.83/2, qui renvoie aux art. XX.67 à XX.69). Voyez [la contestation de votre créance](debiteur-en-prj.md#contester-creance).
+
+Ce délai vaut aussi pour la qualité revendiquée par les autres créanciers. Si vous estimez qu'un créancier se présente à tort comme extraordinaire, contestez-le dans ce délai : à l'audience d'homologation, il sera trop tard. La Cour de cassation a jugé que le juge peut y vérifier que les classes reposent sur des critères objectifs, mais non remettre en cause le montant ou la qualité des créances fixés par la procédure de contestation (Cass., 22 octobre 2026, C.25.0040.F ; voir [notre note](../actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)).
 
 ### La valorisation { #valeur }
 
@@ -96,6 +98,16 @@ Pour un créancier, la règle est un argument concret. Si votre classe dissident
 ## Actualités liées
 
 <div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">22.10.2026 · Cour de cassation</span>
+
+[Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](../actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">26.11.2026 · Juridictions françaises et néerlandaises</span>
+
+[Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](../actualites/2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md)
+</div>
 <div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.01.2024 · Tribunal de l'entreprise de Liège, division Namur</span>
 

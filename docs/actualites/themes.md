@@ -3,7 +3,7 @@ description: 'Les actualités de la réorganisation judiciaire classées par th�
   sursis, PRJ privée, classes de créanciers, cram-down, transfert, fiscalité'
 keywords: réorganisation judiciaire thèmes, jurisprudence classes de créanciers, actualité
   sursis PRJ, transfert sous autorité de justice jurisprudence
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Les actualités par thème
 
@@ -29,22 +29,34 @@ Dans le guide : [Accord amiable et accord collectif](../comprendre/accord-amiabl
 
 - [Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)](2026-10-30-abandons-creance-imposition-etalee-48-1-cir.md) — législation, 30 octobre 2026
 
+## Plan de réorganisation des PME { #plan-pme }
+
+Dans le guide : [Accord amiable et accord collectif](../comprendre/accord-amiable-collectif.md) · [Rédiger le plan de réorganisation](../dirigeants/plan-reorganisation.md) · [Voter et contester le plan de réorganisation](../creanciers/vote-plan.md)
+
+- [Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](2026-11-19-arrete-royal-liste-controle-plan-pme.md) — législation, 19 novembre 2026
+
 ## Classes de créanciers { #classes-creanciers }
 
 Dans le guide : [Grandes entreprises et classes de créanciers](../comprendre/grandes-entreprises-classes.md) · [Classes de créanciers et cram-down : vos droits](../creanciers/classes-cram-down.md)
 
+- [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md) — jurisprudence, 27 novembre 2026
+- [Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md) — jurisprudence, 26 novembre 2026
 - [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](2026-10-30-namur-application-forcee-interclasse.md) — jurisprudence, 30 octobre 2026
 
 ## Cram-down et priorité absolue { #cram-down }
 
 Dans le guide : [Meilleur intérêt et cram-down](../comprendre/meilleur-interet-cram-down.md) · [Classes de créanciers et cram-down : vos droits](../creanciers/classes-cram-down.md) · [Valoriser l'entreprise : meilleur intérêt et priorité absolue](../chiffre/valorisation-meilleur-interet.md)
 
+- [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md) — jurisprudence, 27 novembre 2026
+- [Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md) — jurisprudence, 26 novembre 2026
 - [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](2026-10-30-namur-application-forcee-interclasse.md) — jurisprudence, 30 octobre 2026
 
 ## Homologation du plan { #homologation }
 
 Dans le guide : [Voter et contester le plan de réorganisation](../creanciers/vote-plan.md) · [Après l'homologation : exécuter le plan sans faux pas](../dirigeants/apres-homologation.md)
 
+- [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md) — jurisprudence, 27 novembre 2026
+- [Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](2026-11-19-arrete-royal-liste-controle-plan-pme.md) — législation, 19 novembre 2026
 - [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](2026-10-30-namur-application-forcee-interclasse.md) — jurisprudence, 30 octobre 2026
 - [Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)](2026-10-30-abandons-creance-imposition-etalee-48-1-cir.md) — législation, 30 octobre 2026
 
@@ -92,5 +104,6 @@ Dans le guide : [La PRJ en chiffres](../chiffres.md)
 
 Dans le guide : [La réforme de 2023 : ce qui a changé](../comprendre/reforme-2023.md)
 
+- [Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md) — jurisprudence, 26 novembre 2026
 - [Arrêts Plessers et Heiploeg : pourquoi le transfert sous autorité judiciaire est devenu une procédure de liquidation](2026-10-30-plessers-heiploeg-transfert-liquidation.md) — jurisprudence, 30 octobre 2026
 <!-- actualites:auto:end -->

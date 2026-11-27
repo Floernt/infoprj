@@ -8,7 +8,7 @@ public:
 - dirigeant
 - creancier
 - chiffre
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Grandes entreprises et classes de créanciers
 
@@ -52,7 +52,9 @@ Trois critères structurent donc l'analyse. La **nature** du droit distingue, pa
 
 Un créancier garanti n'est inclus dans la classe des créanciers extraordinaires qu'à concurrence de la partie de sa créance couverte par son droit de priorité ; le solde rejoint une classe de créanciers ordinaires (art. XX.83/9, al. 3 et 5). Pour déterminer cette partie, il faut « estimer la valeur qu'aurait obtenue ce créancier en vertu de son rang de priorité légale qui lui serait conféré par la sûreté réelle dans l'hypothèse d'une faillite ou d'une liquidation judiciaire » (al. 4).
 
-Illustrons cet élément. Une banque est créancière de 400 et dispose d'une hypothèque sur un immeuble dont la valeur nette de réalisation en faillite, frais de vente déduits, est de 350. Elle figure dans la classe des créanciers garantis pour 350 et dans la classe des créanciers ordinaires pour 50. Le tribunal de l'entreprise de Liège, division Namur, a précisé que c'est la valeur nette de liquidation de l'assiette qu'il faut retenir, après déduction des frais de vente en faillite (Entr. Liège, div. Namur, 23 janvier 2024, RG Q/23/00031, inédit). Dans la même décision, le tribunal a requalifié en créanciers ordinaires des sous-traitants qui revendiquaient le privilège de l'action directe, faute d'en démontrer les conditions.
+Illustrons cet élément. Une banque est créancière de 400 et dispose d'une hypothèque sur un immeuble dont la valeur nette de réalisation en faillite, frais de vente déduits, est de 350. Elle figure dans la classe des créanciers garantis pour 350 et dans la classe des créanciers ordinaires pour 50. Le tribunal de l'entreprise de Liège, division Namur, a précisé que c'est la valeur nette de liquidation de l'assiette qu'il faut retenir, après déduction des frais de vente en faillite (Entr. Liège, div. Namur, 23 janvier 2024, RG Q/23/00031, inédit).
+
+La qualité d'extraordinaire elle-même ne se discute pas à l'homologation. Selon la Cour de cassation, le montant et la qualité des créances sont « irrévocablement déterminés » au terme de la procédure de contestation des articles XX.49 et XX.68 ; à l'homologation, le juge vérifie que les classes reposent sur des critères objectifs, mais il ne peut pas remettre en cause la qualité d'une créance qui n'a pas été contestée dans le délai (Cass., 22 octobre 2026, C.25.0040.F ; voir [notre note](../actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)).
 
 ### Une construction courante
 
@@ -116,6 +118,16 @@ Lorsque le plan est approuvé dans toutes les classes, le tribunal vérifie la r
 ## Actualités liées
 
 <div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">22.10.2026 · Cour de cassation</span>
+
+[Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](../actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">26.11.2026 · Juridictions françaises et néerlandaises</span>
+
+[Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](../actualites/2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md)
+</div>
 <div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.01.2024 · Tribunal de l'entreprise de Liège, division Namur</span>
 

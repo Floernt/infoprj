@@ -3,7 +3,7 @@ description: 'Actualités de la réorganisation judiciaire en Belgique : jurispr
   doctrine et législation commentées sur le Livre XX du Code de droit économique'
 keywords: actualité réorganisation judiciaire, jurisprudence PRJ, cram-down Belgique,
   doctrine entreprises en difficulté, Livre XX Code de droit économique
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Actualités de la réorganisation judiciaire
 
@@ -13,6 +13,42 @@ Vous pouvez aussi [parcourir les notes par thème](themes.md).
 
 <!-- actualites:auto:start -->
 ## 2026
+
+<div class="ifa-note" data-type="jurisprudence" data-themes="homologation classes-creanciers cram-down" markdown>
+
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-note__meta">Publiée le 27 novembre 2026 · Cour de cassation, 22 octobre 2026</span>
+
+### [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)
+
+Dans l'affaire namuroise du régime des classes, la Cour de cassation casse l'arrêt qui avait refusé l'homologation en jugeant artificielle une classe de sous-traitants. Le montant et la qualité des créances sont fixés par la procédure de contestation des articles XX.49 et XX.68 : le juge de l'homologation ne peut plus les remettre en cause.
+
+[Homologation du plan](themes.md#homologation){ .ifa-tag } [Classes de créanciers](themes.md#classes-creanciers){ .ifa-tag } [Cram-down et priorité absolue](themes.md#cram-down){ .ifa-tag }
+
+</div>
+
+<div class="ifa-note" data-type="jurisprudence" data-themes="cram-down classes-creanciers droit-europeen" markdown>
+
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-note__meta">Publiée le 26 novembre 2026 · Juridictions françaises et néerlandaises</span>
+
+### [Classes et cram-down : ce que la jurisprudence française et néerlandaise peut apprendre au juge belge](2026-11-26-cram-down-jurisprudence-etrangere-regard-compare.md)
+
+La directive de 2019 a été transposée plus tôt en France et aux Pays-Bas, dont les tribunaux ont rendu les premières décisions sur les classes et l'application forcée interclasse. Plusieurs de ces décisions, rendues avant l'entrée en vigueur de la réforme belge, éclairent la constitution des classes et les dérogations à la règle de priorité.
+
+[Cram-down et priorité absolue](themes.md#cram-down){ .ifa-tag } [Classes de créanciers](themes.md#classes-creanciers){ .ifa-tag } [Droit européen](themes.md#droit-europeen){ .ifa-tag }
+
+</div>
+
+<div class="ifa-note" data-type="legislation" data-themes="plan-pme homologation" markdown>
+
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-note__meta">Publiée le 19 novembre 2026 · Arrêté royal du 24 septembre 2023 établissant une liste de contrôle relative au plan de réorganisation des petites et moyennes entreprises, 24 septembre 2023</span>
+
+### [Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](2026-11-19-arrete-royal-liste-controle-plan-pme.md)
+
+Un arrêté royal du 24 septembre 2023 établit une liste de contrôle pour les plans de réorganisation des PME. Elle énumère les informations minimales que le plan doit contenir et aide le débiteur à le rédiger, avant la vérification de forme par le juge délégué. L'arrêté ne vise que les PME.
+
+[Plan de réorganisation des PME](themes.md#plan-pme){ .ifa-tag } [Homologation du plan](themes.md#homologation){ .ifa-tag }
+
+</div>
 
 <div class="ifa-note" data-type="pratique" data-themes="statistiques prevention transfert" markdown>
 

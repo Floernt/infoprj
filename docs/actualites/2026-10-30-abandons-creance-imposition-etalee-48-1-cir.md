@@ -29,7 +29,7 @@ description: Article 48/1 CIR remplacé par la loi du 28 décembre 2023 - Taxati
 keywords: article 48/1 CIR, abandon de créance réorganisation judiciaire, remise de
   dettes fiscalité, exonération temporaire, taxation étalée, plan de réorganisation
   homologué, réserve immunisée, loi 28 décembre 2023
-updated: '2026-10-31'
+updated: '2026-11-27'
 ---
 # Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)
 
@@ -70,5 +70,7 @@ Pour le dirigeant, un plan de réorganisation qui prévoit de larges abattements
 
 ## Sur le même thème
 
+- [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md) — jurisprudence, 27 novembre 2026
+- [Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](2026-11-19-arrete-royal-liste-controle-plan-pme.md) — législation, 19 novembre 2026
 - [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](2026-10-30-namur-application-forcee-interclasse.md) — jurisprudence, 30 octobre 2026
 <!-- actualites:auto:end -->

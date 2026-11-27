@@ -6,7 +6,7 @@ keywords: créancier sursitaire extraordinaire, créancier sursitaire ordinaire,
   dette de masse XX.58
 public:
 - creancier
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Créanciers sursitaires : ordinaire, extraordinaire, public
 
@@ -26,7 +26,7 @@ Les créances sursitaires sont, pour l'essentiel, celles qui sont nées avant le
 
 Depuis la réforme de 2023, la créance sursitaire extraordinaire est celle qui est garantie par une **sûreté réelle au sens de l'article 3.3 du Code civil**, c'est-à-dire « les privilèges spéciaux, le gage, l'hypothèque et le droit de rétention » (définition de l'art. I.23, 14°, CDE). Sous l'ancien régime, la jurisprudence était partagée sur le sort des privilèges spéciaux ; ils sont désormais inclus. Sont ainsi extraordinaires, outre la banque hypothécaire ou gagiste, le bailleur d'immeuble pour son privilège sur ce qui garnit les lieux loués, le vendeur impayé d'effets mobiliers encore en possession du débiteur ou le transporteur sur les marchandises transportées, si les conditions de leur privilège sont réunies.
 
-Ces conditions sont vérifiées. Le tribunal de l'entreprise de Liège, division Namur, a ainsi requalifié en créanciers ordinaires une classe de sous-traitants qui se prévalaient du privilège de l'action directe, faute de démontrer que la créance de l'entrepreneur sur le maître de l'ouvrage se trouvait encore dans le patrimoine du débiteur (TE Liège, div. Namur, 23 janvier 2024, inédit). Si vous revendiquez une sûreté, rassemblez-en la preuve dès l'ouverture.
+La qualité retenue se discute au bon moment. Le débiteur indique dans la liste des créanciers qui est extraordinaire ; tout créancier sursitaire qui conteste cette qualité, pour sa créance ou pour celle d'un autre, doit saisir le tribunal au plus tard un mois avant l'audience de vote (art. XX.49, § 2, et XX.68, § 1er ; voir [la contestation de votre créance](debiteur-en-prj.md#contester-creance)). Passé ce délai, la qualité figurant sur la liste est acquise : la Cour de cassation a jugé que le juge de l'homologation ne peut plus la remettre en cause, et a cassé un arrêt qui avait refusé l'homologation en contestant, à ce stade, le privilège de sous-traitants (Cass., 22 octobre 2026, C.25.0040.F ; voir [notre note](../actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)). Si vous revendiquez une sûreté, rassemblez-en la preuve dès l'ouverture ; si vous contestez celle d'un autre, n'attendez pas l'audience.
 
 La qualité d'extraordinaire ne vaut que pour la partie effectivement garantie de la créance (art. XX.75/2, § 2). Prenons une banque à qui il reste dû 300 000 euros, garantis par une hypothèque sur un entrepôt dont la valeur nette de réalisation en faillite est estimée à 180 000 euros : elle est extraordinaire pour 180 000 euros et ordinaire pour le solde (exemple simplifié).
 

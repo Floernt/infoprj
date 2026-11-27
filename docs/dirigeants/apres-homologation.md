@@ -7,7 +7,7 @@ keywords: homologation plan réorganisation effets, exécution plan PRJ, révoca
   fiscalité, article 48/1 CIR
 public:
 - dirigeant
-updated: '2026-10-30'
+updated: '2026-11-27'
 ---
 # Après l'homologation : exécuter le plan sans faux pas
 
@@ -103,6 +103,16 @@ Sur le plan fiscal, l'article 48/1 du Code des impôts sur les revenus exonère,
 ## Actualités liées
 
 <div class="ifa-relcards" markdown>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">22.10.2026 · Cour de cassation</span>
+
+[Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](../actualites/2026-11-27-cassation-homologation-qualite-creances-non-contestees.md)
+</div>
+<div class="ifa-relcard" markdown>
+<span class="ifa-type ifa-type--legislation">Législation</span> <span class="ifa-date">24.09.2023 · Arrêté royal du 24 septembre 2023 établissant une liste de contrôle relative au plan de réorganisation des petites et moyennes entreprises</span>
+
+[Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal](../actualites/2026-11-19-arrete-royal-liste-controle-plan-pme.md)
+</div>
 <div class="ifa-relcard" markdown>
 <span class="ifa-type ifa-type--jurisprudence">Jurisprudence</span> <span class="ifa-date">23.01.2024 · Tribunal de l'entreprise de Liège, division Namur</span>
 

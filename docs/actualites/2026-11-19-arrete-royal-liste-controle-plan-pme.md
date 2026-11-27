@@ -25,7 +25,7 @@ description: Arrêté royal du 24 septembre 2023 - Liste de contrôle du plan de
 keywords: liste de contrôle plan de réorganisation, arrêté royal 24 septembre 2023,
   plan PME réorganisation judiciaire, juge délégué conditions de forme, XX.70/1, XX.77,
   contenu du plan
-updated: '2026-11-12'
+updated: '2026-11-27'
 ---
 # Plan de réorganisation des PME : une liste de contrôle fixée par arrêté royal
 
@@ -67,6 +67,7 @@ Le dirigeant et son conseil ont intérêt à rédiger le plan en suivant la stru
 
 ## Sur le même thème
 
+- [Cassation : à l'homologation, le juge ne peut plus revoir la qualité d'une créance non contestée à temps](2026-11-27-cassation-homologation-qualite-creances-non-contestees.md) — jurisprudence, 27 novembre 2026
 - [Namur : l'une des premières applications forcées interclasse en Belgique, malgré l'opposition des créanciers publics](2026-10-30-namur-application-forcee-interclasse.md) — jurisprudence, 30 octobre 2026
 - [Abandons de créances en réorganisation : l'exonération devient temporaire (art. 48/1 CIR)](2026-10-30-abandons-creance-imposition-etalee-48-1-cir.md) — législation, 30 octobre 2026
 <!-- actualites:auto:end -->
